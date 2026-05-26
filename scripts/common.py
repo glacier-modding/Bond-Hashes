@@ -8,7 +8,7 @@ GAME_FLAGS = {
 
 def ioi_hash(string):
     md5Result = hashlib.md5(string.encode("utf-8").lower()).hexdigest().upper()
-    return "00" + md5Result[2:16]
+    return "01" + md5Result[2:16]
 
 def infer_type(hash_with_type):
     parts = hash_with_type.split('.')

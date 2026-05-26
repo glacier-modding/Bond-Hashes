@@ -43,49 +43,8 @@ def extractHashes(game, input):
 					else:
 						isPatch = False
 						print("Not a patch file.")
-					# supports the older style of patch archives (like patch0.rpkg) that just use the base archive format. 
-					if file.lower().startswith("patch"):
-						isPatch = False
 					header = f.read(4)
-					if header == b'GKPR' and (game == "alphaJan2015" or "alphaJuly2015"):
-						offset = 0x1C
-						hashCount = readLongFromFile(f, offset)
-						print("Hashes in RPKG: " + str(hashCount))
-						offset += 0x4
-						tableOffset = readLongFromFile(f, offset)
-						offset1 = 0x28
-						offset2 = 0x28 + tableOffset
-						for h in range(hashCount):
-							hashValue = readHexFromFile(f, offset1, 0x8).upper()
-							offset1 += 0x10
-							hashValue += "." + readStrFromFile(f, offset2, 0x4).upper()[::-1]
-							offset2 += 0x4
-							hashDependsSize = readLongFromFile(f, offset2)
-							offset2 += 0x14 + hashDependsSize
-							hashes.append(hashValue)
-					elif header == b'GKPR':
-						offset = 0x4
-						hashCount = readLongFromFile(f, offset)
-						print("Hashes in RPKG: " + str(hashCount))
-						if hashCount == 0:
-							continue
-						offset += 0x4
-						tableOffset = readLongFromFile(f, offset)
-						offset = 0x10
-						if isPatch:
-							patchCount = readLongFromFile(f, offset)
-							offset += 0x8 * patchCount + 0x4
-						offset1 = offset							
-						offset2 = offset + tableOffset
-						for h in range(hashCount):
-							hashValue = readHexFromFile(f, offset1, 0x8).upper()
-							offset1 += 0x14
-							hashValue += "." + readStrFromFile(f, offset2, 0x4).upper()[::-1]
-							offset2 += 0x4
-							hashDependsSize = readLongFromFile(f, offset2)
-							offset2 += 0x14 + hashDependsSize
-							hashes.append(hashValue)
-					elif header == b'2KPR':
+					if header == b'2KPR':
 						offset = 0xD
 						hashCount = readLongFromFile(f, offset)
 						print("Hashes in RPKG: " + str(hashCount))
@@ -103,7 +62,7 @@ def extractHashes(game, input):
 							hashValue += "." + readStrFromFile(f, offset2, 0x4).upper()[::-1]
 							offset2 += 0x4
 							hashDependsSize = readLongFromFile(f, offset2)
-							offset2 += 0x14 + hashDependsSize
+							offset2 += 0x10 + hashDependsSize
 							hashes.append(hashValue)
 	hashes = list(set(hashes))
 	hashesString = ""

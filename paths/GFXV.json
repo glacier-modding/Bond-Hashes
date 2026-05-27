@@ -1,17 +1,17 @@
 [
   {
     "hash": "01CC771D498E4F2F",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/test/testvideo_a.usm].gfxv",
     "gameFlags": 1
   },
   {
     "hash": "015326C500F8CC52",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/enemies/tutorial_grunt.usm].gfxv",
     "gameFlags": 1
   },
   {
     "hash": "01F65958664F0DC4",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/backgrounds/gadgets/gadget_camera_cc.usm].gfxv",
     "gameFlags": 1
   },
   {
@@ -26,27 +26,27 @@
   },
   {
     "hash": "018740E8DBB18575",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/backgrounds/05_anewhome.usm].gfxv",
     "gameFlags": 1
   },
   {
     "hash": "010788121B4EAB6F",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/eavesdroptutorialvideo.usm].gfxv",
     "gameFlags": 1
   },
   {
     "hash": "018EB2BFE066CCC2",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/ltk/tutorial_attention_gain.usm].gfxv",
     "gameFlags": 1
   },
   {
     "hash": "019DDD53BB3F5891",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/smoke/tutorial_smoke.usm].gfxv",
     "gameFlags": 1
   },
   {
     "hash": "0198EE902731C957",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/attractionscreen/attractionscreen.usm].gfxv",
     "gameFlags": 1
   },
   {
@@ -66,7 +66,7 @@
   },
   {
     "hash": "01BA4BD0798D68A9",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/qlens/qwatch_camerahack_a.usm].gfxv",
     "gameFlags": 1
   },
   {
@@ -86,7 +86,7 @@
   },
   {
     "hash": "012A1D97F758A37B",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/backgrounds/gadgets/gadget_laser_cc.usm].gfxv",
     "gameFlags": 1
   },
   {
@@ -96,7 +96,7 @@
   },
   {
     "hash": "01EAD2F190FCE089",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/backgrounds/gadgets/gadget_watch_cc.usm].gfxv",
     "gameFlags": 1
   },
   {
@@ -106,7 +106,7 @@
   },
   {
     "hash": "015C5AC827BB0E98",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/backgrounds/gadgets/gadget_phone_tiktok_cc.usm].gfxv",
     "gameFlags": 1
   },
   {
@@ -116,7 +116,7 @@
   },
   {
     "hash": "01081D856518C9C6",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/backgrounds/15_manofthehour.usm].gfxv",
     "gameFlags": 1
   },
   {
@@ -126,12 +126,12 @@
   },
   {
     "hash": "01C0F56F15478828",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/combat/combatrush.usm].gfxv",
     "gameFlags": 1
   },
   {
     "hash": "0136DBCB66852EF0",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/backgrounds/16_waveofthefuture.usm].gfxv",
     "gameFlags": 1
   },
   {
@@ -141,7 +141,7 @@
   },
   {
     "hash": "013C9F4A38CA02F3",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/combat/takedown_stealth.usm].gfxv",
     "gameFlags": 1
   },
   {
@@ -151,17 +151,17 @@
   },
   {
     "hash": "019C4065F951966E",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/whistletutorialvideo.usm].gfxv",
     "gameFlags": 1
   },
   {
     "hash": "0179A0C5E5CED755",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/combat/tutorial_grab_rush.usm].gfxv",
     "gameFlags": 1
   },
   {
     "hash": "010F9C1ECD3858C3",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/enemies/tutorial_leader.usm].gfxv",
     "gameFlags": 1
   },
   {
@@ -171,22 +171,22 @@
   },
   {
     "hash": "010C833EDE575C11",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/rangedcombattutorialvideo.usm].gfxv",
     "gameFlags": 1
   },
   {
     "hash": "01F71D45952D8B57",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/qlens/qwatch_proximityhack_a.usm].gfxv",
     "gameFlags": 1
   },
   {
     "hash": "01C68082490F7B86",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/qlens/qwatch_hazard_a.usm].gfxv",
     "gameFlags": 1
   },
   {
     "hash": "0150935D053AD052",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/backgrounds/gadgets/gadget_pen_cc.usm].gfxv",
     "gameFlags": 1
   },
   {
@@ -201,7 +201,7 @@
   },
   {
     "hash": "012EC5DA95D96091",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/closecombattutorialvideo.usm].gfxv",
     "gameFlags": 1
   },
   {
@@ -226,12 +226,12 @@
   },
   {
     "hash": "0195A95E8E4BDD25",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/hackdistracttutorialvideo.usm].gfxv",
     "gameFlags": 1
   },
   {
     "hash": "01C8B32261F412C7",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/pickpockedtutorialvideo.usm].gfxv",
     "gameFlags": 1
   },
   {
@@ -246,12 +246,12 @@
   },
   {
     "hash": "01188722AF4730A0",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/backgrounds/tac_sim.usm].gfxv",
     "gameFlags": 1
   },
   {
     "hash": "01AE5E77F8C56133",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/combat/tutorial_combo.usm].gfxv",
     "gameFlags": 1
   },
   {
@@ -261,27 +261,27 @@
   },
   {
     "hash": "01BD97BDD34B5F47",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/combat/parry.usm].gfxv",
     "gameFlags": 1
   },
   {
     "hash": "01DA0FA74ADDC22D",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/backgrounds/12_knightfall.usm].gfxv",
     "gameFlags": 1
   },
   {
     "hash": "018260376DE3D033",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/tutorial_tacsim.usm].gfxv",
     "gameFlags": 1
   },
   {
     "hash": "01E0B367F71B7C61",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/backgrounds/gadgets/gadget_phone_gold_cc.usm].gfxv",
     "gameFlags": 1
   },
   {
     "hash": "01CECA950CF4104B",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/backgrounds/07_amatterofconsiderabledelicacy.usm].gfxv",
     "gameFlags": 1
   },
   {
@@ -301,12 +301,12 @@
   },
   {
     "hash": "01BC23756FCDD873",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/enemies/tutorial_android.usm].gfxv",
     "gameFlags": 1
   },
   {
     "hash": "01330D8E09207EC9",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/backgrounds/gadgets/gadget_lighter_gold_cc.usm].gfxv",
     "gameFlags": 1
   },
   {
@@ -316,22 +316,22 @@
   },
   {
     "hash": "01957EA3164A85C0",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/combat/throw_v2.usm].gfxv",
     "gameFlags": 1
   },
   {
     "hash": "01DC02F10080DE81",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/instinct/bluff.usm].gfxv",
     "gameFlags": 1
   },
   {
     "hash": "01ED6715A79DCC9E",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/dartgun/tutorial_dart.usm].gfxv",
     "gameFlags": 1
   },
   {
     "hash": "017A111E37B2D29C",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/reinforcementstutorialvideo.usm].gfxv",
     "gameFlags": 1
   },
   {
@@ -356,17 +356,17 @@
   },
   {
     "hash": "0120CB3DCB31E34C",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/combat/takedown_finisher.usm].gfxv",
     "gameFlags": 1
   },
   {
     "hash": "01AC01DE96527993",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/confrontationtutorialvideo.usm].gfxv",
     "gameFlags": 1
   },
   {
     "hash": "01107A32C2AB8DC5",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/movement/tutorial_crouch.usm].gfxv",
     "gameFlags": 1
   },
   {
@@ -381,7 +381,7 @@
   },
   {
     "hash": "0109C823CB3F5D9A",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/combat/tutorial_situation_contained.usm].gfxv",
     "gameFlags": 1
   },
   {
@@ -391,12 +391,12 @@
   },
   {
     "hash": "0174F6B510A34A4D",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/backgrounds/gadgets/gadget_phone_cc.usm].gfxv",
     "gameFlags": 1
   },
   {
     "hash": "01A3204721B48F2E",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/ltk/tutorial_public_space.usm].gfxv",
     "gameFlags": 1
   },
   {
@@ -406,12 +406,12 @@
   },
   {
     "hash": "013ECC42B947EB80",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/backgrounds/13_goingoldschool.usm].gfxv",
     "gameFlags": 1
   },
   {
     "hash": "01501997A9B00363",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/qlens/qwatch_distraction_a.usm].gfxv",
     "gameFlags": 1
   },
   {
@@ -431,22 +431,22 @@
   },
   {
     "hash": "016FD772C1360E9C",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/backgrounds/gadgets/gadget_earpods_tacsim_cc.usm].gfxv",
     "gameFlags": 1
   },
   {
     "hash": "0151B6320077D3BA",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/shockwave/tutorial_shockwave.usm].gfxv",
     "gameFlags": 1
   },
   {
     "hash": "01BE6FED546D5F7D",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/combat/tutorial_throw_gun.usm].gfxv",
     "gameFlags": 1
   },
   {
     "hash": "01947789648D64F5",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/backgrounds/gadgets/gadget_earpods_silver_cc.usm].gfxv",
     "gameFlags": 1
   },
   {
@@ -461,7 +461,7 @@
   },
   {
     "hash": "01C1A9CE50C9FEEE",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/ltk/tutorial_licensetokill.usm].gfxv",
     "gameFlags": 1
   },
   {
@@ -481,7 +481,7 @@
   },
   {
     "hash": "0177C94291D69209",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/blast_device/tutorial_blastdevice.usm].gfxv",
     "gameFlags": 1
   },
   {
@@ -491,7 +491,7 @@
   },
   {
     "hash": "01C6E2097BF80A2F",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/dashcovertutorialvideo.usm].gfxv",
     "gameFlags": 1
   },
   {
@@ -516,12 +516,12 @@
   },
   {
     "hash": "011CF72818FB2C30",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/ltk/tutorial_trespassing.usm].gfxv",
     "gameFlags": 1
   },
   {
     "hash": "01F3E16545384887",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/enemies/tutorial_brute.usm].gfxv",
     "gameFlags": 1
   },
   {
@@ -531,12 +531,12 @@
   },
   {
     "hash": "01B8885DF8A9B891",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/backgrounds/gadgets/gadget_lighter_tacsim_cc.usm].gfxv",
     "gameFlags": 1
   },
   {
     "hash": "01B6401342DC6CD8",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/enemies/tutorial_sniper.usm].gfxv",
     "gameFlags": 1
   },
   {
@@ -561,22 +561,22 @@
   },
   {
     "hash": "019C1081FE5341BA",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/backgrounds/10_thepastneverdies.usm].gfxv",
     "gameFlags": 1
   },
   {
     "hash": "01FB54A4EA5B675F",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/backgrounds/04_theheartofthematter.usm].gfxv",
     "gameFlags": 1
   },
   {
     "hash": "01A3186ABF3FC667",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/backgrounds/11_uninvited.usm].gfxv",
     "gameFlags": 1
   },
   {
     "hash": "014BCF47C92A6E68",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/instinct/focus.usm].gfxv",
     "gameFlags": 1
   },
   {
@@ -606,12 +606,12 @@
   },
   {
     "hash": "01D88DAD61B69220",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/securitycameratutorialvideo.usm].gfxv",
     "gameFlags": 1
   },
   {
     "hash": "01039E392821039A",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/backgrounds/gadgets/gadget_phone_tacsim_cc.usm].gfxv",
     "gameFlags": 1
   },
   {
@@ -626,7 +626,7 @@
   },
   {
     "hash": "01FE1F185F80F9D7",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/covertutorialvideo.usm].gfxv",
     "gameFlags": 1
   },
   {
@@ -636,7 +636,7 @@
   },
   {
     "hash": "015B63E6E74A7116",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/backgrounds/gadgets/gadget_pen_gold_cc.usm].gfxv",
     "gameFlags": 1
   },
   {
@@ -651,12 +651,12 @@
   },
   {
     "hash": "0155D6F32DECF326",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/combat/tutorial_leg_shot.usm].gfxv",
     "gameFlags": 1
   },
   {
     "hash": "01DFDD227D45B005",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/ltk/tutorial_restricted.usm].gfxv",
     "gameFlags": 1
   },
   {
@@ -696,7 +696,7 @@
   },
   {
     "hash": "01B15D7292D8BB9F",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/combat/parry_perfect.usm].gfxv",
     "gameFlags": 1
   },
   {
@@ -706,7 +706,7 @@
   },
   {
     "hash": "01C8BC0B033FE9D8",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/images/tileparts/deathscreen/background_reddeath_start.usm].gfxv",
     "gameFlags": 1
   },
   {
@@ -716,12 +716,12 @@
   },
   {
     "hash": "01C5F5EBD45EEE3A",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/promo/valhalla_tease.usm].gfxv",
     "gameFlags": 1
   },
   {
     "hash": "01D346E68381E5B9",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/combat/tutorial_guard_break.usm].gfxv",
     "gameFlags": 1
   },
   {
@@ -731,7 +731,7 @@
   },
   {
     "hash": "011CDAA269289CDD",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/backgrounds/06_anightout.usm].gfxv",
     "gameFlags": 1
   },
   {
@@ -741,12 +741,12 @@
   },
   {
     "hash": "01B4362563F7BA7E",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/enemies/tutorial_soldier.usm].gfxv",
     "gameFlags": 1
   },
   {
     "hash": "01386F074B313B70",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/enemies/tutorial_specialist.usm].gfxv",
     "gameFlags": 1
   },
   {
@@ -761,7 +761,7 @@
   },
   {
     "hash": "0190799A3D41B919",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/drivingtutorialvideo.usm].gfxv",
     "gameFlags": 1
   },
   {
@@ -776,22 +776,22 @@
   },
   {
     "hash": "0106E473D54C1F7A",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/tutorial_missilepen.usm].gfxv",
     "gameFlags": 1
   },
   {
     "hash": "01E18B17F9167D2E",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/sprintingtutorialvideo.usm].gfxv",
     "gameFlags": 1
   },
   {
     "hash": "01C8FF2CC5A0BD17",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/ltk/tutorial_disguise.usm].gfxv",
     "gameFlags": 1
   },
   {
     "hash": "016196F32DC6BFE6",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/enemies/tutorial_armouredsoldier.usm].gfxv",
     "gameFlags": 1
   },
   {
@@ -801,7 +801,7 @@
   },
   {
     "hash": "01CB331E956E8EDD",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/qlens/tutorial_qlens.usm].gfxv",
     "gameFlags": 1
   },
   {
@@ -816,7 +816,7 @@
   },
   {
     "hash": "019BB41A56C2F47E",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/backgrounds/01_againsttheodds.usm].gfxv",
     "gameFlags": 1
   },
   {
@@ -826,7 +826,7 @@
   },
   {
     "hash": "01F0830205D15289",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/combat/sidestep_v2.usm].gfxv",
     "gameFlags": 1
   },
   {
@@ -846,7 +846,7 @@
   },
   {
     "hash": "010A5681F006E13C",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/combat/tutorial_weaponslots.usm].gfxv",
     "gameFlags": 1
   },
   {
@@ -861,7 +861,7 @@
   },
   {
     "hash": "012FD487D30AD006",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/instinct/lure.usm].gfxv",
     "gameFlags": 1
   },
   {
@@ -876,17 +876,17 @@
   },
   {
     "hash": "019E58FA456375DA",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/instinct/attention_gain_noui.usm].gfxv",
     "gameFlags": 1
   },
   {
     "hash": "0130B837D16722D0",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/tutorial_qpistol.usm].gfxv",
     "gameFlags": 1
   },
   {
     "hash": "01DDA6A90E371F77",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/movement/dash_a.usm].gfxv",
     "gameFlags": 1
   },
   {
@@ -896,12 +896,12 @@
   },
   {
     "hash": "01463F28E2646E6E",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/movement/tutorial_climb.usm].gfxv",
     "gameFlags": 1
   },
   {
     "hash": "0110AB8AE2913436",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/qlenstutorialvideo.usm].gfxv",
     "gameFlags": 1
   },
   {
@@ -921,7 +921,7 @@
   },
   {
     "hash": "0170FF60BFD9AAB1",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/dartgunsicktutorialvideo.usm].gfxv",
     "gameFlags": 1
   },
   {
@@ -941,12 +941,12 @@
   },
   {
     "hash": "01666A3A291A6858",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/backgrounds/gadgets/gadget_earpods_cc.usm].gfxv",
     "gameFlags": 1
   },
   {
     "hash": "0121EBB1023F93CD",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/instinct/attention_gain_ui.usm].gfxv",
     "gameFlags": 1
   },
   {
@@ -956,12 +956,12 @@
   },
   {
     "hash": "0141FF7AB6E436E8",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/triangulationtutorialvideo.usm].gfxv",
     "gameFlags": 1
   },
   {
     "hash": "01BC7C47F2A22F45",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/backgrounds/08_allthetimeintheworld.usm].gfxv",
     "gameFlags": 1
   },
   {
@@ -971,12 +971,12 @@
   },
   {
     "hash": "019E04787E1D08B0",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/combat/tutorial_grab_knee.usm].gfxv",
     "gameFlags": 1
   },
   {
     "hash": "01A9C2D6AA55595D",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/backgrounds/02_inhismajestyssecretservice.usm].gfxv",
     "gameFlags": 1
   },
   {
@@ -986,7 +986,7 @@
   },
   {
     "hash": "01DD2C9B15055B8F",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/laser/tutorial_laser.usm].gfxv",
     "gameFlags": 1
   },
   {
@@ -996,12 +996,12 @@
   },
   {
     "hash": "013553F3B794096E",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/enemies/tutorial_tank.usm].gfxv",
     "gameFlags": 1
   },
   {
     "hash": "017890186BACCA5E",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/backgrounds/09_outoftheashes.usm].gfxv",
     "gameFlags": 1
   },
   {
@@ -1011,7 +1011,7 @@
   },
   {
     "hash": "0125AE7B369E4073",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/backgrounds/17_forengland.usm].gfxv",
     "gameFlags": 1
   },
   {
@@ -1031,12 +1031,12 @@
   },
   {
     "hash": "01ED876363727CBD",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/deadbodiestutorialvideo.usm].gfxv",
     "gameFlags": 1
   },
   {
     "hash": "018774DE70390875",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/movement/sprint_a.usm].gfxv",
     "gameFlags": 1
   },
   {
@@ -1051,37 +1051,37 @@
   },
   {
     "hash": "01564F1D25C0C52E",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/ltk/tutorial_watchers.usm].gfxv",
     "gameFlags": 1
   },
   {
     "hash": "0123E29ABE7B4F9D",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/backgrounds/03_theneedleseye.usm].gfxv",
     "gameFlags": 1
   },
   {
     "hash": "01CFB1F7BEBB6010",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/backgrounds/14_timetodie.usm].gfxv",
     "gameFlags": 1
   },
   {
     "hash": "0150870AC20C6580",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/backgrounds/gadgets/gadget_earpods_gold_cc.usm].gfxv",
     "gameFlags": 1
   },
   {
     "hash": "01F7BC655D02985B",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/backgrounds/gadgets/gadget_lighter_cc.usm].gfxv",
     "gameFlags": 1
   },
   {
     "hash": "01F7047D5DAB7C26",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/threatindicatortutorialvideo.usm].gfxv",
     "gameFlags": 1
   },
   {
     "hash": "011B3E889FD6F2E2",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/videos/tutorials/stealthtutorialvideo.usm].gfxv",
     "gameFlags": 1
   }
 ]

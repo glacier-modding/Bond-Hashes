@@ -1,9 +1,9 @@
 # 007-Hashes
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-748,985-blue.svg)
-![Completion Badge](https://img.shields.io/badge/Total%20Completion-7.69%25-red.svg)
-![Formats Badge](https://img.shields.io/badge/Formats%20completed-3/82-blue.svg)
-![Firstlight Badge](https://img.shields.io/badge/Firstlight%20Completion-7.69%25-red.svg)
+![Completion Badge](https://img.shields.io/badge/Total%20Completion-7.83%25-red.svg)
+![Formats Badge](https://img.shields.io/badge/Formats%20completed-4/82-blue.svg)
+![Firstlight Badge](https://img.shields.io/badge/Firstlight%20Completion-7.83%25-red.svg)
 <!-- BADGES_END -->
 ## Statistics
 <details>
@@ -53,14 +53,14 @@
 |GPSE     |1              |0            |0.00%             |0    |0.00%          |
 |GRAD     |3              |0            |0.00%             |0    |0.00%          |
 |IMDR     |5              |0            |0.00%             |0    |0.00%          |
-|INIF     |1              |0            |0.00%             |0    |0.00%          |
+|INIF     |1              |1            |100.00%           |0    |0.00%          |
 |JSON     |176            |6            |3.41%             |0    |0.00%          |
 |KWOR     |35             |0            |0.00%             |0    |0.00%          |
 |LINE     |4439           |0            |0.00%             |0    |0.00%          |
 |LOCR     |201            |1            |0.50%             |0    |0.00%          |
 |MATB     |4381           |1016         |23.19%            |0    |0.00%          |
 |MATE     |1072           |0            |0.00%             |0    |0.00%          |
-|MATI     |14612          |6136         |41.99%            |0    |0.00%          |
+|MATI     |14612          |7193         |49.23%            |0    |0.00%          |
 |MATT     |4381           |1016         |23.19%            |0    |0.00%          |
 |MOMA     |370            |0            |0.00%             |0    |0.00%          |
 |NAVP     |228            |0            |0.00%             |0    |0.00%          |

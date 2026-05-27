@@ -1,9 +1,9 @@
 # 007-Hashes
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-748,985-blue.svg)
-![Completion Badge](https://img.shields.io/badge/Total%20Completion-7.83%25-red.svg)
+![Completion Badge](https://img.shields.io/badge/Total%20Completion-10.31%25-red.svg)
 ![Formats Badge](https://img.shields.io/badge/Formats%20completed-4/82-blue.svg)
-![Firstlight Badge](https://img.shields.io/badge/Firstlight%20Completion-7.83%25-red.svg)
+![Firstlight Badge](https://img.shields.io/badge/Firstlight%20Completion-10.31%25-red.svg)
 <!-- BADGES_END -->
 ## Statistics
 <details>
@@ -12,7 +12,7 @@
 <!-- STATISTICS_TABLE_START -->
 |File Type|Total Resources|Correct Paths|Correct Percentage|Hints|Hint Percentage|
 |---------|---------------|-------------|------------------|-----|---------------|
-|ALOC     |20250          |5204         |25.70%            |0    |0.00%          |
+|ALOC     |20250          |6372         |31.47%            |0    |0.00%          |
 |ANMC     |23808          |0            |0.00%             |0    |0.00%          |
 |ASEB     |11926          |0            |0.00%             |0    |0.00%          |
 |ASET     |15096          |0            |0.00%             |0    |0.00%          |
@@ -67,17 +67,17 @@
 |ORES     |5              |5            |100.00%           |0    |0.00%          |
 |PEBL     |1              |0            |0.00%             |0    |0.00%          |
 |PETY     |1              |0            |0.00%             |0    |0.00%          |
-|PRIM     |32768          |6123         |18.69%            |0    |0.00%          |
+|PRIM     |32768          |7660         |23.38%            |0    |0.00%          |
 |RTLV     |2              |0            |0.00%             |0    |0.00%          |
 |SCDA     |201            |6            |2.99%             |0    |0.00%          |
 |SDEF     |102            |0            |0.00%             |0    |0.00%          |
 |SNEB     |8              |0            |0.00%             |0    |0.00%          |
 |SNET     |8              |0            |0.00%             |0    |0.00%          |
 |SVOL     |64             |0            |0.00%             |0    |0.00%          |
-|TBLU     |49509          |2088         |4.22%             |0    |0.00%          |
+|TBLU     |49509          |9150         |18.48%            |0    |0.00%          |
 |TDAT     |8              |0            |0.00%             |0    |0.00%          |
 |TDPK     |348            |0            |0.00%             |0    |0.00%          |
-|TEMP     |69802          |7466         |10.70%            |0    |0.00%          |
+|TEMP     |69802          |16258        |23.29%            |0    |0.00%          |
 |TEXD     |30862          |13516        |43.79%            |0    |0.00%          |
 |TEXT     |31771          |13809        |43.46%            |0    |0.00%          |
 |UICB     |81             |0            |0.00%             |0    |0.00%          |

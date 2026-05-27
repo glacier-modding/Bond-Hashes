@@ -391,7 +391,7 @@
   },
   {
     "hash": "01FF549E7B0E8D19",
-    "path": "",
+    "path": "[modules:/zclentityrefvalueaccessorne.class].entitytype",
     "gameFlags": 1
   },
   {
@@ -446,7 +446,7 @@
   },
   {
     "hash": "01DF8717CE6F3C7D",
-    "path": "",
+    "path": "[modules:/zclintvalueaccessor.class].entitytype",
     "gameFlags": 1
   },
   {
@@ -596,7 +596,7 @@
   },
   {
     "hash": "018F190EBB3FB09C",
-    "path": "",
+    "path": "[modules:/zclmatrixvalueaccessor.class].entitytype",
     "gameFlags": 1
   },
   {
@@ -766,7 +766,7 @@
   },
   {
     "hash": "010EC072EF1FD0FD",
-    "path": "",
+    "path": "[modules:/zclintvalueaccessorne.class].entitytype",
     "gameFlags": 1
   },
   {
@@ -1321,7 +1321,7 @@
   },
   {
     "hash": "019015B907700C69",
-    "path": "",
+    "path": "[modules:/zclvec4valueaccessor.class].entitytype",
     "gameFlags": 1
   },
   {
@@ -1776,7 +1776,7 @@
   },
   {
     "hash": "014F15E98D553AB3",
-    "path": "",
+    "path": "[modules:/zclentityrefvalueaccessor.class].entitytype",
     "gameFlags": 1
   },
   {
@@ -1851,7 +1851,7 @@
   },
   {
     "hash": "019E770ABB151840",
-    "path": "",
+    "path": "[modules:/zcltentityrefvalueaccessorne.class].entitytype",
     "gameFlags": 1
   },
   {
@@ -2571,7 +2571,7 @@
   },
   {
     "hash": "015FEF2345356F99",
-    "path": "",
+    "path": "[modules:/zclvec2valueaccessorne.class].entitytype",
     "gameFlags": 1
   },
   {
@@ -2686,7 +2686,7 @@
   },
   {
     "hash": "0135A907D4D81736",
-    "path": "",
+    "path": "[modules:/zcltidentifiervalueaccessor.class].entitytype",
     "gameFlags": 1
   },
   {
@@ -2931,7 +2931,7 @@
   },
   {
     "hash": "0137945F8BF3913E",
-    "path": "",
+    "path": "[modules:/zclboolvalueaccessor.class].entitytype",
     "gameFlags": 1
   },
   {
@@ -3126,7 +3126,7 @@
   },
   {
     "hash": "017253504CAB7D9B",
-    "path": "",
+    "path": "[modules:/zclvec2valueaccessor.class].entitytype",
     "gameFlags": 1
   },
   {
@@ -3431,7 +3431,7 @@
   },
   {
     "hash": "014DBBDDA0A7A91B",
-    "path": "",
+    "path": "[modules:/zclfloatvalueaccessor.class].entitytype",
     "gameFlags": 1
   },
   {
@@ -3586,7 +3586,7 @@
   },
   {
     "hash": "01766C988088C740",
-    "path": "",
+    "path": "[modules:/zclcolorrgbvalueaccessorne.class].entitytype",
     "gameFlags": 1
   },
   {
@@ -4171,7 +4171,7 @@
   },
   {
     "hash": "011F8C643477CB56",
-    "path": "",
+    "path": "[modules:/zclvec3valueaccessorne.class].entitytype",
     "gameFlags": 1
   },
   {
@@ -4426,7 +4426,7 @@
   },
   {
     "hash": "011F750DE99591B0",
-    "path": "",
+    "path": "[modules:/zclvec4valueaccessorne.class].entitytype",
     "gameFlags": 1
   },
   {
@@ -4646,7 +4646,7 @@
   },
   {
     "hash": "01376C6E3CC6017B",
-    "path": "",
+    "path": "[modules:/zcltentityrefvalueaccessor.class].entitytype",
     "gameFlags": 1
   },
   {
@@ -5291,7 +5291,7 @@
   },
   {
     "hash": "01EDC309573334F9",
-    "path": "",
+    "path": "[modules:/zclguidvalueaccessor.class].entitytype",
     "gameFlags": 1
   },
   {
@@ -5841,7 +5841,7 @@
   },
   {
     "hash": "011BACC425A6ED2E",
-    "path": "",
+    "path": "[modules:/zclcolorrgbvalueaccessor.class].entitytype",
     "gameFlags": 1
   },
   {
@@ -6636,7 +6636,7 @@
   },
   {
     "hash": "01013FA7F297041E",
-    "path": "",
+    "path": "[modules:/zclenumvalueaccessorne.class].entitytype",
     "gameFlags": 1
   },
   {
@@ -7046,7 +7046,7 @@
   },
   {
     "hash": "0136E6B9AF4F8DFA",
-    "path": "",
+    "path": "[modules:/zcltidentifiervalueaccessorne.class].entitytype",
     "gameFlags": 1
   },
   {
@@ -7111,7 +7111,7 @@
   },
   {
     "hash": "01349D2C0FF2F229",
-    "path": "",
+    "path": "[modules:/zclmatrixvalueaccessorne.class].entitytype",
     "gameFlags": 1
   },
   {
@@ -7531,7 +7531,7 @@
   },
   {
     "hash": "01B882B70523BD62",
-    "path": "",
+    "path": "[modules:/zclboolvalueaccessorne.class].entitytype",
     "gameFlags": 1
   },
   {
@@ -7546,7 +7546,7 @@
   },
   {
     "hash": "01662AF67091BA8A",
-    "path": "",
+    "path": "[modules:/zclstringvalueaccessor.class].entitytype",
     "gameFlags": 1
   },
   {
@@ -9886,7 +9886,7 @@
   },
   {
     "hash": "01565D1402A7182A",
-    "path": "",
+    "path": "[modules:/zclguidvalueaccessorne.class].entitytype",
     "gameFlags": 1
   },
   {
@@ -10321,7 +10321,7 @@
   },
   {
     "hash": "011D562BF06CDE82",
-    "path": "",
+    "path": "[modules:/zclenumvalueaccessor.class].entitytype",
     "gameFlags": 1
   },
   {
@@ -10381,7 +10381,7 @@
   },
   {
     "hash": "01CC8CBE0543FE41",
-    "path": "",
+    "path": "[modules:/zclstringvalueaccessorne.class].entitytype",
     "gameFlags": 1
   },
   {
@@ -11011,7 +11011,7 @@
   },
   {
     "hash": "011A12AF4E2E2D80",
-    "path": "",
+    "path": "[modules:/zclfloatvalueaccessorne.class].entitytype",
     "gameFlags": 1
   },
   {
@@ -11061,7 +11061,7 @@
   },
   {
     "hash": "019CD36C68E47A9F",
-    "path": "",
+    "path": "[modules:/zclvec3valueaccessor.class].entitytype",
     "gameFlags": 1
   },
   {

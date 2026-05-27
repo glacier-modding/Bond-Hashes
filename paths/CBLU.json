@@ -211,7 +211,7 @@
   },
   {
     "hash": "010F2D0069593880",
-    "path": "",
+    "path": "[modules:/zclfloatvalueaccessorne.class].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -1216,7 +1216,7 @@
   },
   {
     "hash": "01C666D555C7D290",
-    "path": "",
+    "path": "[modules:/zclintvalueaccessorne.class].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -1581,7 +1581,7 @@
   },
   {
     "hash": "018CF0A0201F07B8",
-    "path": "",
+    "path": "[modules:/zclboolvalueaccessor.class].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -1846,7 +1846,7 @@
   },
   {
     "hash": "01756986F586E487",
-    "path": "",
+    "path": "[modules:/zclvec4valueaccessor.class].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -2491,7 +2491,7 @@
   },
   {
     "hash": "01CC41B337934148",
-    "path": "",
+    "path": "[modules:/zclintvalueaccessor.class].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -3036,7 +3036,7 @@
   },
   {
     "hash": "0169CAF1BEB0C13D",
-    "path": "",
+    "path": "[modules:/zclguidvalueaccessor.class].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -3151,7 +3151,7 @@
   },
   {
     "hash": "01E1184EB6F7BB79",
-    "path": "",
+    "path": "[modules:/zclenumvalueaccessor.class].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -3796,7 +3796,7 @@
   },
   {
     "hash": "01DE40AA2CCBB353",
-    "path": "",
+    "path": "[modules:/zclentityrefvalueaccessor.class].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -3986,7 +3986,7 @@
   },
   {
     "hash": "01ED31E99338F715",
-    "path": "",
+    "path": "[modules:/zclvec4valueaccessorne.class].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -4516,7 +4516,7 @@
   },
   {
     "hash": "013E0C326BA63A19",
-    "path": "",
+    "path": "[modules:/zclfloatvalueaccessor.class].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -4916,7 +4916,7 @@
   },
   {
     "hash": "01ACA2E90E6A7969",
-    "path": "",
+    "path": "[modules:/zclguidvalueaccessorne.class].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -5061,7 +5061,7 @@
   },
   {
     "hash": "01CBB1FCE58AB924",
-    "path": "",
+    "path": "[modules:/zcltentityrefvalueaccessorne.class].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -6031,7 +6031,7 @@
   },
   {
     "hash": "015E83F1D7F4FF11",
-    "path": "",
+    "path": "[modules:/zcltidentifiervalueaccessor.class].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -6511,7 +6511,7 @@
   },
   {
     "hash": "01E64DF43F2371B9",
-    "path": "",
+    "path": "[modules:/zclstringvalueaccessorne.class].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -6806,7 +6806,7 @@
   },
   {
     "hash": "0181FC853891AFEA",
-    "path": "",
+    "path": "[modules:/zclmatrixvalueaccessor.class].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -7006,7 +7006,7 @@
   },
   {
     "hash": "01D9E41E81736FDC",
-    "path": "",
+    "path": "[modules:/zcltentityrefvalueaccessor.class].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -7091,7 +7091,7 @@
   },
   {
     "hash": "019518DB1C09724C",
-    "path": "",
+    "path": "[modules:/zclstringvalueaccessor.class].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -7211,7 +7211,7 @@
   },
   {
     "hash": "01C2C4D2F2C4801E",
-    "path": "",
+    "path": "[modules:/zclmatrixvalueaccessorne.class].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -7296,7 +7296,7 @@
   },
   {
     "hash": "019C19A003A48128",
-    "path": "",
+    "path": "[modules:/zclentityrefvalueaccessorne.class].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -7936,7 +7936,7 @@
   },
   {
     "hash": "0137C535835CF827",
-    "path": "",
+    "path": "[modules:/zclboolvalueaccessorne.class].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -8846,7 +8846,7 @@
   },
   {
     "hash": "01E2EE6A709E8F6E",
-    "path": "",
+    "path": "[modules:/zclvec2valueaccessorne.class].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -8956,7 +8956,7 @@
   },
   {
     "hash": "0197D98893C13618",
-    "path": "",
+    "path": "[modules:/zclvec2valueaccessor.class].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -9456,7 +9456,7 @@
   },
   {
     "hash": "017B24A86C71EB21",
-    "path": "",
+    "path": "[modules:/zclvec3valueaccessorne.class].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -10191,7 +10191,7 @@
   },
   {
     "hash": "017D7EF110F470F2",
-    "path": "",
+    "path": "[modules:/zcltidentifiervalueaccessorne.class].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -10646,7 +10646,7 @@
   },
   {
     "hash": "011A002A9F9BDAE9",
-    "path": "",
+    "path": "[modules:/zclenumvalueaccessorne.class].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -10826,7 +10826,7 @@
   },
   {
     "hash": "01258E7966A14CC0",
-    "path": "",
+    "path": "[modules:/zclcolorrgbvalueaccessorne.class].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -10896,7 +10896,7 @@
   },
   {
     "hash": "015701FDBA32EBFD",
-    "path": "",
+    "path": "[modules:/zclcolorrgbvalueaccessor.class].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -10916,7 +10916,7 @@
   },
   {
     "hash": "015EE7F3D14A0C40",
-    "path": "",
+    "path": "[modules:/zclvec3valueaccessor.class].entityblueprint",
     "gameFlags": 1
   },
   {

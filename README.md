@@ -1,9 +1,9 @@
 # 007-Hashes
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-748,985-blue.svg)
-![Completion Badge](https://img.shields.io/badge/Total%20Completion-26.08%25-red.svg)
+![Completion Badge](https://img.shields.io/badge/Total%20Completion-50.35%25-red.svg)
 ![Formats Badge](https://img.shields.io/badge/Formats%20completed-6/82-blue.svg)
-![Firstlight Badge](https://img.shields.io/badge/Firstlight%20Completion-26.08%25-red.svg)
+![Firstlight Badge](https://img.shields.io/badge/Firstlight%20Completion-50.35%25-red.svg)
 <!-- BADGES_END -->
 ## Statistics
 <details>
@@ -35,7 +35,7 @@
 |ENUM     |84             |19           |22.62%            |0    |0.00%          |
 |ERES     |1774           |0            |0.00%             |0    |0.00%          |
 |FXAC     |1              |0            |0.00%             |0    |0.00%          |
-|FXAS     |91469          |0            |0.00%             |0    |0.00%          |
+|FXAS     |91469          |91363        |99.88%            |0    |0.00%          |
 |GFXA     |18             |18           |100.00%           |0    |0.00%          |
 |GFXF     |14             |0            |0.00%             |0    |0.00%          |
 |GFXI     |2726           |2055         |75.39%            |0    |0.00%          |
@@ -90,7 +90,7 @@
 |WSWB     |25             |0            |0.00%             |0    |0.00%          |
 |WSWT     |30             |0            |0.00%             |0    |0.00%          |
 |WWEM     |21757          |0            |0.00%             |0    |0.00%          |
-|WWES     |229313         |0            |0.00%             |0    |0.00%          |
+|WWES     |229313         |90371        |39.41%            |0    |0.00%          |
 |WWEV     |6639           |2            |0.03%             |0    |0.00%          |
 |XMLB     |620            |620          |100.00%           |0    |0.00%          |
 |YSHP     |1              |1            |100.00%           |0    |0.00%          |

@@ -1,9 +1,9 @@
 # 007-Hashes
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-748,985-blue.svg)
-![Completion Badge](https://img.shields.io/badge/Total%20Completion-50.87%25-red.svg)
+![Completion Badge](https://img.shields.io/badge/Total%20Completion-50.89%25-red.svg)
 ![Formats Badge](https://img.shields.io/badge/Formats%20completed-8/82-blue.svg)
-![Firstlight Badge](https://img.shields.io/badge/Firstlight%20Completion-50.87%25-red.svg)
+![Firstlight Badge](https://img.shields.io/badge/Firstlight%20Completion-50.89%25-red.svg)
 <!-- BADGES_END -->
 ## Statistics
 <details>
@@ -60,7 +60,7 @@
 |LOCR     |201            |1            |0.50%             |0    |0.00%          |
 |MATB     |4381           |1066         |24.33%            |0    |0.00%          |
 |MATE     |1072           |0            |0.00%             |0    |0.00%          |
-|MATI     |14612          |7216         |49.38%            |0    |0.00%          |
+|MATI     |14612          |7228         |49.47%            |0    |0.00%          |
 |MATT     |4381           |1066         |24.33%            |0    |0.00%          |
 |MOMA     |370            |0            |0.00%             |0    |0.00%          |
 |NAVP     |228            |0            |0.00%             |0    |0.00%          |
@@ -78,8 +78,8 @@
 |TDAT     |8              |0            |0.00%             |0    |0.00%          |
 |TDPK     |348            |0            |0.00%             |0    |0.00%          |
 |TEMP     |69802          |66940        |95.90%            |0    |0.00%          |
-|TEXD     |30862          |13516        |43.79%            |0    |0.00%          |
-|TEXT     |31771          |13809        |43.46%            |0    |0.00%          |
+|TEXD     |30862          |13559        |43.93%            |0    |0.00%          |
+|TEXT     |31771          |13852        |43.60%            |0    |0.00%          |
 |UICB     |81             |0            |0.00%             |0    |0.00%          |
 |UICT     |81             |0            |0.00%             |0    |0.00%          |
 |VTXD     |2728           |2197         |80.54%            |0    |0.00%          |

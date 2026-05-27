@@ -626,7 +626,7 @@
   },
   {
     "hash": "01842628A54DDF9F",
-    "path": "",
+    "path": "[assembly:/_frl/environment/materials/generic/metal/metal_painted_a.mi].mi",
     "gameFlags": 1
   },
   {
@@ -1866,7 +1866,7 @@
   },
   {
     "hash": "010D382290FB9938",
-    "path": "",
+    "path": "[assembly:/_frl/environment/materials/decals/mechanical/decals_screws_a.mi].mi",
     "gameFlags": 1
   },
   {
@@ -12151,7 +12151,7 @@
   },
   {
     "hash": "01D327E6C6211A2E",
-    "path": "",
+    "path": "[assembly:/_frl/environment/materials/decals/wall/decal_details_plywood_a.mi].mi",
     "gameFlags": 1
   },
   {
@@ -17431,7 +17431,7 @@
   },
   {
     "hash": "018E36585CADDFAF",
-    "path": "",
+    "path": "[assembly:/_frl/environment/materials/decals/wall/damaged_wall_b.mi].mi",
     "gameFlags": 1
   },
   {
@@ -22466,7 +22466,7 @@
   },
   {
     "hash": "0154C149D7509D8C",
-    "path": "",
+    "path": "[assembly:/_frl/environment/materials/decals/edges/edge_decal_metald_generic_a_normalsonly.mi].mi",
     "gameFlags": 1
   },
   {
@@ -23521,7 +23521,7 @@
   },
   {
     "hash": "0111D62863D381A0",
-    "path": "",
+    "path": "[assembly:/_frl/environment/materials/generic/metal/steel_stainless_clean_a.mi].mi",
     "gameFlags": 1
   },
   {
@@ -28686,7 +28686,7 @@
   },
   {
     "hash": "01DC4EB0D90DF7F4",
-    "path": "",
+    "path": "[assembly:/_frl/environment/materials/decals/dirt/moss_decal_a.mi].mi",
     "gameFlags": 1
   },
   {
@@ -44861,7 +44861,7 @@
   },
   {
     "hash": "018CDCDE5EB44CD6",
-    "path": "",
+    "path": "[assembly:/_frl/environment/materials/props/lamps/lamp_strip_light_c_glass.mi].mi",
     "gameFlags": 1
   },
   {
@@ -45896,7 +45896,7 @@
   },
   {
     "hash": "014C3403F5723CDA",
-    "path": "",
+    "path": "[assembly:/_frl/environment/materials/architecture/pillars/wood_collection_a.mi].mi",
     "gameFlags": 1
   },
   {
@@ -54836,7 +54836,7 @@
   },
   {
     "hash": "01A3B043689EB48F",
-    "path": "",
+    "path": "[assembly:/_frl/environment/materials/foliage/grass_cattail_a.mi].mi",
     "gameFlags": 1
   },
   {
@@ -64636,7 +64636,7 @@
   },
   {
     "hash": "0107C06A9927B1EA",
-    "path": "",
+    "path": "[assembly:/_frl/environment/materials/generic/wood/wood_plywood_b.mi].mi",
     "gameFlags": 1
   },
   {
@@ -67576,7 +67576,7 @@
   },
   {
     "hash": "014DBB23C9CD5195",
-    "path": "",
+    "path": "[assembly:/_frl/environment/materials/generic/wall/concrete_wood_ingrained_b.mi].mi",
     "gameFlags": 1
   },
   {

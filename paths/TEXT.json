@@ -4021,7 +4021,7 @@
   },
   {
     "hash": "011147B0D7CDD94A",
-    "path": "",
+    "path": "[assembly:/_frl/environment/textures/generic/wood/wood_plywood_b.texture?/specular_a.tex](ascolormap).tex",
     "gameFlags": 1
   },
   {
@@ -5081,7 +5081,7 @@
   },
   {
     "hash": "017D6DE3A15BE224",
-    "path": "",
+    "path": "[assembly:/_frl/environment/textures/generic/metal/metal_painted_a.texture?/specular_a.tex](ascolormap).tex",
     "gameFlags": 1
   },
   {
@@ -10811,7 +10811,7 @@
   },
   {
     "hash": "01A1D40B9771A8A4",
-    "path": "",
+    "path": "[assembly:/_frl/environment/textures/generic/metal/metal_painted_a.texture?/diffuse_b.tex](ascolormap).tex",
     "gameFlags": 1
   },
   {
@@ -13126,7 +13126,7 @@
   },
   {
     "hash": "013F813F2C77894E",
-    "path": "",
+    "path": "[assembly:/_frl/environment/textures/decals/wall/plywood_decal_a.texture?/diffuse_a.tex](ascolormap).tex",
     "gameFlags": 1
   },
   {
@@ -21076,7 +21076,7 @@
   },
   {
     "hash": "01BA5DB3A87ABBBC",
-    "path": "",
+    "path": "[assembly:/_frl/environment/textures/decals/wall/damaged_wall_b.texture?/height_a.tex](asheightmap).tex",
     "gameFlags": 1
   },
   {
@@ -22336,7 +22336,7 @@
   },
   {
     "hash": "013FE73A19848B7F",
-    "path": "",
+    "path": "[assembly:/_frl/environment/textures/generic/wall/concrete_wood_ingrained_b.texture?/specular_a.tex](ascolormap).tex",
     "gameFlags": 1
   },
   {
@@ -26741,7 +26741,7 @@
   },
   {
     "hash": "017EDBCE57DBA59A",
-    "path": "",
+    "path": "[assembly:/_frl/environment/textures/decals/wall/damaged_wall_b.texture?/normal_a.tex](asnormalmap).tex",
     "gameFlags": 1
   },
   {
@@ -29421,7 +29421,7 @@
   },
   {
     "hash": "013E4A6C5D845F56",
-    "path": "",
+    "path": "[assembly:/_frl/environment/textures/generic/metal/metal_painted_a.texture?/normal_a.tex](asnormalmap).tex",
     "gameFlags": 1
   },
   {
@@ -32226,7 +32226,7 @@
   },
   {
     "hash": "0123A5361C33CC67",
-    "path": "",
+    "path": "[assembly:/_frl/environment/textures/decals/wall/plywood_decal_a.texture?/normal_a.tex](asnormalmap).tex",
     "gameFlags": 1
   },
   {
@@ -38076,7 +38076,7 @@
   },
   {
     "hash": "01B62D88FF623ABB",
-    "path": "",
+    "path": "[assembly:/_frl/environment/textures/generic/wood/wood_plywood_b.texture?/diffuse_a.tex](ascolormap).tex",
     "gameFlags": 1
   },
   {
@@ -46581,7 +46581,7 @@
   },
   {
     "hash": "01CB383531A8AAB5",
-    "path": "",
+    "path": "[assembly:/_frl/environment/textures/decals/edges/edge_decals_concrete_a.texture?/specular_a.tex](ascolormap).tex",
     "gameFlags": 1
   },
   {
@@ -53231,7 +53231,7 @@
   },
   {
     "hash": "014933664630914D",
-    "path": "",
+    "path": "[assembly:/_frl/environment/textures/decals/mechanical/decals_screws_a.texture?/diffuse_a.tex](ascolormap).tex",
     "gameFlags": 1
   },
   {
@@ -54471,7 +54471,7 @@
   },
   {
     "hash": "0192486D8B332384",
-    "path": "",
+    "path": "[assembly:/_frl/environment/textures/generic/metal/metal_stainless_brushed_a.texture?/specular_a.tex](ascolormap).tex",
     "gameFlags": 1
   },
   {
@@ -73631,7 +73631,7 @@
   },
   {
     "hash": "01A3E94849C23BC0",
-    "path": "",
+    "path": "[assembly:/_frl/effects/textures/water/fx_water_caustics_a.texture?/emissive_a.tex](ascolormap).tex",
     "gameFlags": 1
   },
   {
@@ -73736,7 +73736,7 @@
   },
   {
     "hash": "01A7AB3CE4FCDB7C",
-    "path": "",
+    "path": "[assembly:/_frl/environment/textures/decals/mechanical/decals_screws_a.texture?/specular_a.tex](ascolormap).tex",
     "gameFlags": 1
   },
   {
@@ -83766,7 +83766,7 @@
   },
   {
     "hash": "01F867F224BCB9C9",
-    "path": "",
+    "path": "[assembly:/_frl/environment/textures/props/lamps/lamp_strip_light_c_glass.texture?/normal_a.tex](asnormalmap).tex",
     "gameFlags": 1
   },
   {
@@ -86011,7 +86011,7 @@
   },
   {
     "hash": "010F32B95B7B26BF",
-    "path": "",
+    "path": "[assembly:/_frl/environment/textures/generic/metal/steel_stainless_clean_a.texture?/specular_a.tex](ascolormap).tex",
     "gameFlags": 1
   },
   {
@@ -86841,7 +86841,7 @@
   },
   {
     "hash": "01D55106E21E1C1A",
-    "path": "",
+    "path": "[assembly:/_frl/environment/textures/props/containers/crate_wooden_a.texture?/normal_a.tex](asnormalmap).tex",
     "gameFlags": 1
   },
   {
@@ -86946,7 +86946,7 @@
   },
   {
     "hash": "01C9331C20A6FC93",
-    "path": "",
+    "path": "[assembly:/_frl/environment/textures/generic/wood/wood_plywood_b.texture?/normal_a.tex](asnormalmap).tex",
     "gameFlags": 1
   },
   {
@@ -87956,7 +87956,7 @@
   },
   {
     "hash": "01D80D2E33478B7C",
-    "path": "",
+    "path": "[assembly:/_frl/environment/textures/generic/wall/concrete_wood_ingrained_b.texture?/diffuse_b.tex](ascolormap).tex",
     "gameFlags": 1
   },
   {
@@ -91676,7 +91676,7 @@
   },
   {
     "hash": "012FE07825EABB91",
-    "path": "",
+    "path": "[assembly:/_frl/environment/textures/decals/wall/plywood_decal_a.texture?/specular_a.tex](ascolormap).tex",
     "gameFlags": 1
   },
   {
@@ -96241,7 +96241,7 @@
   },
   {
     "hash": "014950B46F330F39",
-    "path": "",
+    "path": "[assembly:/_frl/environment/textures/architecture/pillars/wood_collection_a.texture?/specular_a.tex](ascolormap).tex",
     "gameFlags": 1
   },
   {
@@ -96411,7 +96411,7 @@
   },
   {
     "hash": "010600EC851A0A59",
-    "path": "",
+    "path": "[assembly:/_frl/environment/textures/decals/wall/damaged_wall_b.texture?/diffuse_a.tex](ascolormap).tex",
     "gameFlags": 1
   },
   {
@@ -102901,7 +102901,7 @@
   },
   {
     "hash": "0176C2433009D976",
-    "path": "",
+    "path": "[assembly:/_frl/environment/textures/generic/metal/metal_stainless_brushed_a.texture?/diffuse_a.tex](ascolormap).tex",
     "gameFlags": 1
   },
   {
@@ -104281,7 +104281,7 @@
   },
   {
     "hash": "017CCDA3D8200DD4",
-    "path": "",
+    "path": "[assembly:/_frl/environment/textures/generic/metal/steel_stainless_clean_a.texture?/diffuse_a.tex](ascolormap).tex",
     "gameFlags": 1
   },
   {
@@ -105256,7 +105256,7 @@
   },
   {
     "hash": "01F68E6EB332C3F1",
-    "path": "",
+    "path": "[assembly:/_frl/environment/textures/generic/metal/metal_painted_peeledoff_a.texture?/specular_a.tex](ascolormap).tex",
     "gameFlags": 1
   },
   {
@@ -108181,7 +108181,7 @@
   },
   {
     "hash": "01F498A55BF276C1",
-    "path": "",
+    "path": "[assembly:/_frl/environment/textures/props/containers/crate_wooden_a.texture?/diffuse_b.tex](ascolormap).tex",
     "gameFlags": 1
   },
   {
@@ -108196,7 +108196,7 @@
   },
   {
     "hash": "015043E6A8B67B10",
-    "path": "",
+    "path": "[assembly:/_frl/environment/textures/decals/edges/edge_decals_concrete_a.texture?/normal_a.tex](asnormalmap).tex",
     "gameFlags": 1
   },
   {
@@ -110246,7 +110246,7 @@
   },
   {
     "hash": "0124BAEE7C517CD7",
-    "path": "",
+    "path": "[assembly:/_frl/environment/textures/decals/wall/damaged_wall_b.texture?/specular_a.tex](ascolormap).tex",
     "gameFlags": 1
   },
   {
@@ -112801,7 +112801,7 @@
   },
   {
     "hash": "016D10262259F858",
-    "path": "",
+    "path": "[assembly:/_frl/environment/textures/decals/dirt/moss_decal_a.texture?/specular_a.tex](ascolormap).tex",
     "gameFlags": 1
   },
   {
@@ -114726,7 +114726,7 @@
   },
   {
     "hash": "01D3AAEDF876234F",
-    "path": "",
+    "path": "[assembly:/_frl/environment/textures/generic/metal/metal_painted_peeledoff_a.texture?/normal_a.tex](asnormalmap).tex",
     "gameFlags": 1
   },
   {
@@ -116591,7 +116591,7 @@
   },
   {
     "hash": "01E924454BA0D5FC",
-    "path": "",
+    "path": "[assembly:/_frl/environment/textures/architecture/pillars/wood_collection_a.texture?/diffuse_a.tex](ascolormap).tex",
     "gameFlags": 1
   },
   {
@@ -116906,7 +116906,7 @@
   },
   {
     "hash": "01FDDE9DDF79BB98",
-    "path": "",
+    "path": "[assembly:/_frl/environment/textures/decals/dirt/moss_decal_a.texture?/normal_a.tex](asnormalmap).tex",
     "gameFlags": 1
   },
   {
@@ -118026,7 +118026,7 @@
   },
   {
     "hash": "013239C4B8625B29",
-    "path": "",
+    "path": "[assembly:/_frl/environment/textures/props/lamps/lamp_strip_light_c_glass.texture?/specular_a.tex](ascolormap).tex",
     "gameFlags": 1
   },
   {
@@ -118331,7 +118331,7 @@
   },
   {
     "hash": "016DEF1F16FE7372",
-    "path": "",
+    "path": "[assembly:/_frl/environment/textures/decals/edges/edge_decals_concrete_a.texture?/diffuse_a.tex](ascolormap).tex",
     "gameFlags": 1
   },
   {
@@ -119071,7 +119071,7 @@
   },
   {
     "hash": "0154F7B66F115DFD",
-    "path": "",
+    "path": "[assembly:/_frl/environment/textures/generic/metal/metal_painted_a.texture?/diffuse_a.tex](ascolormap).tex",
     "gameFlags": 1
   },
   {
@@ -123421,7 +123421,7 @@
   },
   {
     "hash": "0152A996F4204986",
-    "path": "",
+    "path": "[assembly:/_frl/environment/textures/generic/metal/metal_painted_peeledoff_a.texture?/diffuse_a.tex](ascolormap).tex",
     "gameFlags": 1
   },
   {
@@ -127476,7 +127476,7 @@
   },
   {
     "hash": "01407CB217263FF4",
-    "path": "",
+    "path": "[assembly:/_frl/environment/textures/decals/mechanical/decals_screws_a.texture?/normal_a.tex](asnormalmap).tex",
     "gameFlags": 1
   },
   {
@@ -141121,7 +141121,7 @@
   },
   {
     "hash": "01198B0ABAF47961",
-    "path": "",
+    "path": "[assembly:/_frl/environment/textures/props/lamps/lamp_strip_light_c_glass.texture?/diffuse_a.tex](ascolormap).tex",
     "gameFlags": 1
   },
   {
@@ -148271,7 +148271,7 @@
   },
   {
     "hash": "010F2FA470DC0189",
-    "path": "",
+    "path": "[assembly:/_frl/environment/textures/props/containers/crate_wooden_a.texture?/specular_a.tex](ascolormap).tex",
     "gameFlags": 1
   },
   {
@@ -149606,7 +149606,7 @@
   },
   {
     "hash": "01A04D888EFA4960",
-    "path": "",
+    "path": "[assembly:/_frl/environment/textures/generic/wall/concrete_wood_ingrained_b.texture?/normal_a.tex](asnormalmap).tex",
     "gameFlags": 1
   },
   {
@@ -152976,7 +152976,7 @@
   },
   {
     "hash": "01A240FD7738254A",
-    "path": "",
+    "path": "[assembly:/_frl/environment/textures/decals/dirt/moss_decal_a.texture?/diffuse_a.tex](ascolormap).tex",
     "gameFlags": 1
   },
   {
@@ -156851,7 +156851,7 @@
   },
   {
     "hash": "01034CA52D37E925",
-    "path": "",
+    "path": "[assembly:/_frl/environment/textures/architecture/pillars/wood_collection_a.texture?/normal_a.tex](asnormalmap).tex",
     "gameFlags": 1
   },
   {

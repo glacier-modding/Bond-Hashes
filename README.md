@@ -1,9 +1,9 @@
 # 007-Hashes
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-748,985-blue.svg)
-![Completion Badge](https://img.shields.io/badge/Total%20Completion-50.86%25-red.svg)
+![Completion Badge](https://img.shields.io/badge/Total%20Completion-50.87%25-red.svg)
 ![Formats Badge](https://img.shields.io/badge/Formats%20completed-8/82-blue.svg)
-![Firstlight Badge](https://img.shields.io/badge/Firstlight%20Completion-50.86%25-red.svg)
+![Firstlight Badge](https://img.shields.io/badge/Firstlight%20Completion-50.87%25-red.svg)
 <!-- BADGES_END -->
 ## Statistics
 <details>
@@ -58,10 +58,10 @@
 |KWOR     |35             |0            |0.00%             |0    |0.00%          |
 |LINE     |4439           |0            |0.00%             |0    |0.00%          |
 |LOCR     |201            |1            |0.50%             |0    |0.00%          |
-|MATB     |4381           |1016         |23.19%            |0    |0.00%          |
+|MATB     |4381           |1066         |24.33%            |0    |0.00%          |
 |MATE     |1072           |0            |0.00%             |0    |0.00%          |
-|MATI     |14612          |7193         |49.23%            |0    |0.00%          |
-|MATT     |4381           |1016         |23.19%            |0    |0.00%          |
+|MATI     |14612          |7216         |49.38%            |0    |0.00%          |
+|MATT     |4381           |1066         |24.33%            |0    |0.00%          |
 |MOMA     |370            |0            |0.00%             |0    |0.00%          |
 |NAVP     |228            |0            |0.00%             |0    |0.00%          |
 |ORES     |5              |5            |100.00%           |0    |0.00%          |
@@ -74,7 +74,7 @@
 |SNEB     |8              |0            |0.00%             |0    |0.00%          |
 |SNET     |8              |0            |0.00%             |0    |0.00%          |
 |SVOL     |64             |0            |0.00%             |0    |0.00%          |
-|TBLU     |49509          |46644        |94.21%            |0    |0.00%          |
+|TBLU     |49509          |46649        |94.22%            |0    |0.00%          |
 |TDAT     |8              |0            |0.00%             |0    |0.00%          |
 |TDPK     |348            |0            |0.00%             |0    |0.00%          |
 |TEMP     |69802          |66940        |95.90%            |0    |0.00%          |

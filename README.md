@@ -1,9 +1,9 @@
 # 007-Hashes
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-748,985-blue.svg)
-![Completion Badge](https://img.shields.io/badge/Total%20Completion-7.68%25-red.svg)
+![Completion Badge](https://img.shields.io/badge/Total%20Completion-7.69%25-red.svg)
 ![Formats Badge](https://img.shields.io/badge/Formats%20completed-3/82-blue.svg)
-![Firstlight Badge](https://img.shields.io/badge/Firstlight%20Completion-7.68%25-red.svg)
+![Firstlight Badge](https://img.shields.io/badge/Firstlight%20Completion-7.69%25-red.svg)
 <!-- BADGES_END -->
 ## Statistics
 <details>
@@ -19,10 +19,10 @@
 |BORG     |3077           |395          |12.84%            |0    |0.00%          |
 |BOXC     |4706           |0            |0.00%             |0    |0.00%          |
 |CAMC     |2026           |0            |0.00%             |0    |0.00%          |
-|CBLU     |2290           |360          |15.72%            |0    |0.00%          |
+|CBLU     |2290           |388          |16.94%            |0    |0.00%          |
 |CLNG     |1              |0            |0.00%             |0    |0.00%          |
 |CLRP     |1              |0            |0.00%             |0    |0.00%          |
-|CPPT     |2290           |360          |15.72%            |0    |0.00%          |
+|CPPT     |2290           |388          |16.94%            |0    |0.00%          |
 |CRMD     |30             |0            |0.00%             |0    |0.00%          |
 |CRSK     |2              |0            |0.00%             |0    |0.00%          |
 |CURV     |5              |0            |0.00%             |0    |0.00%          |

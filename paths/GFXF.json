@@ -1,72 +1,72 @@
 [
   {
     "hash": "016BFB5AC59CA6FE",
-    "path": "",
+    "path": "[assembly:/_glacier/ui/controls/glacier.video.swf].swf",
     "gameFlags": 1
   },
   {
     "hash": "01708F6A4E00CD0E",
-    "path": "",
+    "path": "[assembly:/_glacier/ui/controls/glacier.common.swf].swf",
     "gameFlags": 1
   },
   {
     "hash": "01A837AF55107DEC",
-    "path": "",
+    "path": "[assembly:/_knt/ui/controls/knt.menu.swf].swf",
     "gameFlags": 1
   },
   {
     "hash": "01DAC77C0F19D6F1",
-    "path": "",
+    "path": "[assembly:/_knt/ui/fonts/fonts_rus.swf].swf",
     "gameFlags": 1
   },
   {
     "hash": "013D376EA2DB755C",
-    "path": "",
+    "path": "[assembly:/_glacier/ui/controls/glacier.hud.swf].swf",
     "gameFlags": 1
   },
   {
     "hash": "015B563EE32DBD84",
-    "path": "",
+    "path": "[assembly:/_glacier/ui/controls/glacier.basic.swf].swf",
     "gameFlags": 1
   },
   {
     "hash": "01D00DF2802DD44A",
-    "path": "",
+    "path": "[assembly:/_knt/ui/fonts/fonts_chi_tra.swf].swf",
     "gameFlags": 1
   },
   {
     "hash": "01ED9810BECDC7AC",
-    "path": "",
+    "path": "[assembly:/_knt/ui/controls/knt.basic.swf].swf",
     "gameFlags": 1
   },
   {
     "hash": "01DD9580958CDC9B",
-    "path": "",
+    "path": "[assembly:/_knt/ui/fonts/fonts_en.swf].swf",
     "gameFlags": 1
   },
   {
     "hash": "016748B1DF4C1BE9",
-    "path": "",
+    "path": "[assembly:/_knt/ui/fonts/fonts_kor.swf].swf",
     "gameFlags": 1
   },
   {
     "hash": "01147D5803C66AF1",
-    "path": "",
+    "path": "[assembly:/_knt/ui/fonts/fonts_chi_sim.swf].swf",
     "gameFlags": 1
   },
   {
     "hash": "01262EED9D687969",
-    "path": "",
+    "path": "[assembly:/_knt/ui/controls/knt.hud.swf].swf",
     "gameFlags": 1
   },
   {
     "hash": "018B8AF4E0E8CC60",
-    "path": "",
+    "path": "[assembly:/_knt/ui/fonts/fonts_jap.swf].swf",
     "gameFlags": 1
   },
   {
     "hash": "014F49F6414E0AB3",
-    "path": "",
+    "path": "[assembly:/_glacier/ui/controls/controlsmain.swf].swf",
     "gameFlags": 1
   }
 ]

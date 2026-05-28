@@ -21,7 +21,7 @@
   },
   {
     "hash": "0179F14077B58C17",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/switches/haptics/sw_haptics_interactions_qte.wwiseswitchgroup].entitytype",
     "gameFlags": 1
   },
   {
@@ -41,7 +41,7 @@
   },
   {
     "hash": "01EB904ACF705C57",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/switches/foley/switch_fol_leftright.wwiseswitchgroup].entitytype",
     "gameFlags": 1
   },
   {
@@ -76,7 +76,7 @@
   },
   {
     "hash": "018226A94BC5CEC5",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/switches/haptics/haptics_door_interactions.wwiseswitchgroup].entitytype",
     "gameFlags": 1
   },
   {
@@ -96,12 +96,12 @@
   },
   {
     "hash": "016FA7783CDCA974",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/switches/foley/switch_fs_sweetener.wwiseswitchgroup].entitytype",
     "gameFlags": 1
   },
   {
     "hash": "015FC3C27DDED2D2",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/switches/foley/switch_fol_outfit.wwiseswitchgroup].entitytype",
     "gameFlags": 1
   },
   {
@@ -121,7 +121,7 @@
   },
   {
     "hash": "015A14581A958475",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/switches/foley/switch_fol_waterdepth.wwiseswitchgroup].entitytype",
     "gameFlags": 1
   },
   {
@@ -146,7 +146,7 @@
   },
   {
     "hash": "01D1A3DD612B52DB",
-    "path": "",
+    "path": "[assembly:/_knt/sound/wwise/exported/switches/haptics/sw_haptics_interactions_conversations.wwiseswitchgroup].entitytype",
     "gameFlags": 1
   }
 ]

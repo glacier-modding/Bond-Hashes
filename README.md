@@ -1,9 +1,9 @@
 # 007-Hashes
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-748,985-blue.svg)
-![Completion Badge](https://img.shields.io/badge/Total%20Completion-54.85%25-red.svg)
+![Completion Badge](https://img.shields.io/badge/Total%20Completion-57.50%25-red.svg)
 ![Formats Badge](https://img.shields.io/badge/Formats%20completed-14/82-blue.svg)
-![Firstlight Badge](https://img.shields.io/badge/Firstlight%20Completion-54.85%25-red.svg)
+![Firstlight Badge](https://img.shields.io/badge/Firstlight%20Completion-57.50%25-red.svg)
 <!-- BADGES_END -->
 ## Statistics
 <details>
@@ -30,8 +30,8 @@
 |DLGE     |42156          |27721        |65.76%            |0    |0.00%          |
 |DSCN     |22             |0            |0.00%             |0    |0.00%          |
 |DSWB     |5              |0            |0.00%             |0    |0.00%          |
-|ECPB     |8306           |0            |0.00%             |0    |0.00%          |
-|ECPT     |8306           |0            |0.00%             |0    |0.00%          |
+|ECPB     |8306           |7045         |84.82%            |0    |0.00%          |
+|ECPT     |8306           |7045         |84.82%            |0    |0.00%          |
 |ENUM     |84             |19           |22.62%            |0    |0.00%          |
 |ERES     |1774           |1774         |100.00%           |0    |0.00%          |
 |FXAC     |1              |0            |0.00%             |0    |0.00%          |
@@ -58,10 +58,10 @@
 |KWOR     |35             |0            |0.00%             |0    |0.00%          |
 |LINE     |4439           |0            |0.00%             |0    |0.00%          |
 |LOCR     |201            |1            |0.50%             |0    |0.00%          |
-|MATB     |4381           |1066         |24.33%            |0    |0.00%          |
+|MATB     |4381           |2836         |64.73%            |0    |0.00%          |
 |MATE     |1072           |0            |0.00%             |0    |0.00%          |
-|MATI     |14612          |7228         |49.47%            |0    |0.00%          |
-|MATT     |4381           |1066         |24.33%            |0    |0.00%          |
+|MATI     |14612          |9457         |64.72%            |0    |0.00%          |
+|MATT     |4381           |2836         |64.73%            |0    |0.00%          |
 |MOMA     |370            |0            |0.00%             |0    |0.00%          |
 |NAVP     |228            |0            |0.00%             |0    |0.00%          |
 |ORES     |5              |5            |100.00%           |0    |0.00%          |

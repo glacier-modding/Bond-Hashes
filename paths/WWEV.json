@@ -1405,9 +1405,8 @@
   },
   {
     "hash": "018A8F3F85E4FE4F",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "play_dx_ai_shouted"
+    "path": "[assembly:/_knt/sound/wwise/exported/dynamicdialogue/sweet_templates/play_dx_ai_shouted.wwisedialogueevent].wwisebank",
+    "gameFlags": 1
   },
   {
     "hash": "015A9C4C70D68ECA",
@@ -1495,9 +1494,8 @@
   },
   {
     "hash": "0113744E8EC9874E",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "play_dx_special_tannoy"
+    "path": "[assembly:/_knt/sound/wwise/exported/dynamicdialogue/sweet_templates/play_dx_special_tannoy.wwisedialogueevent].wwisebank",
+    "gameFlags": 1
   },
   {
     "hash": "01937913CFE51682",
@@ -3769,9 +3767,8 @@
   },
   {
     "hash": "01B0811EFC721F9A",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "play_dx_special_incar_telephone"
+    "path": "[assembly:/_knt/sound/wwise/exported/dynamicdialogue/sweet_templates/play_dx_special_incar_telephone.wwisedialogueevent].wwisebank",
+    "gameFlags": 1
   },
   {
     "hash": "018B9127146D9821",
@@ -5119,9 +5116,8 @@
   },
   {
     "hash": "011A9D9D12E92CA4",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "play_dx_npc_ambience"
+    "path": "[assembly:/_knt/sound/wwise/exported/dynamicdialogue/sweet_templates/play_dx_npc_ambience.wwisedialogueevent].wwisebank",
+    "gameFlags": 1
   },
   {
     "hash": "01095AF89763A9D5",
@@ -6721,9 +6717,8 @@
   },
   {
     "hash": "01678D2103CA29D0",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "play_dx_special_radio"
+    "path": "[assembly:/_knt/sound/wwise/exported/dynamicdialogue/sweet_templates/play_dx_special_radio.wwisedialogueevent].wwisebank",
+    "gameFlags": 1
   },
   {
     "hash": "01EEC8CE007F4A59",
@@ -7111,9 +7106,8 @@
   },
   {
     "hash": "012C8C3538E0629C",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "play_dx_npc_ranged"
+    "path": "[assembly:/_knt/sound/wwise/exported/dynamicdialogue/sweet_templates/play_dx_npc_ranged.wwisedialogueevent].wwisebank",
+    "gameFlags": 1
   },
   {
     "hash": "01C9C653D809FAB1",
@@ -8851,9 +8845,8 @@
   },
   {
     "hash": "01004346A87235F4",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "play_dx_ai_cmbt_projected"
+    "path": "[assembly:/_knt/sound/wwise/exported/dynamicdialogue/sweet_templates/play_dx_ai_cmbt_projected.wwisedialogueevent].wwisebank",
+    "gameFlags": 1
   },
   {
     "hash": "019F2A1443306316",
@@ -9019,9 +9012,8 @@
   },
   {
     "hash": "01CB6A9DF3446957",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "play_dx_ai_manhunt"
+    "path": "[assembly:/_knt/sound/wwise/exported/dynamicdialogue/sweet_templates/play_dx_ai_manhunt.wwisedialogueevent].wwisebank",
+    "gameFlags": 1
   },
   {
     "hash": "011A5311FB021531",
@@ -12607,9 +12599,8 @@
   },
   {
     "hash": "0162E9229574962F",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "play_dx_buddy"
+    "path": "[assembly:/_knt/sound/wwise/exported/dynamicdialogue/sweet_templates/play_dx_buddy.wwisedialogueevent].wwisebank",
+    "gameFlags": 1
   },
   {
     "hash": "018B741182CE0F4B",
@@ -13033,9 +13024,8 @@
   },
   {
     "hash": "010217B26AF870B0",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "play_dx_ai_cmbt_regular"
+    "path": "[assembly:/_knt/sound/wwise/exported/dynamicdialogue/sweet_templates/play_dx_ai_cmbt_regular.wwisedialogueevent].wwisebank",
+    "gameFlags": 1
   },
   {
     "hash": "0161B3D61CE1D23E",
@@ -14239,9 +14229,8 @@
   },
   {
     "hash": "0196009BD91FFD67",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "play_dx_special_telephone"
+    "path": "[assembly:/_knt/sound/wwise/exported/dynamicdialogue/sweet_templates/play_dx_special_telephone.wwisedialogueevent].wwisebank",
+    "gameFlags": 1
   },
   {
     "hash": "01780A9D2E363580",
@@ -17017,9 +17006,8 @@
   },
   {
     "hash": "015C1A8C54A0A1F1",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "play_dx_special_2d"
+    "path": "[assembly:/_knt/sound/wwise/exported/dynamicdialogue/sweet_templates/play_dx_special_2d.wwisedialogueevent].wwisebank",
+    "gameFlags": 1
   },
   {
     "hash": "016B4AEA87CAAFBB",
@@ -17203,9 +17191,8 @@
   },
   {
     "hash": "0113C02C1EF59DD9",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "play_dx_special_incar_passenger"
+    "path": "[assembly:/_knt/sound/wwise/exported/dynamicdialogue/sweet_templates/play_dx_special_incar_passenger.wwisedialogueevent].wwisebank",
+    "gameFlags": 1
   },
   {
     "hash": "012BD2C5628BB89D",
@@ -17617,9 +17604,8 @@
   },
   {
     "hash": "01F04961930E09D9",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "play_dx_cinematic_hero"
+    "path": "[assembly:/_knt/sound/wwise/exported/dynamicdialogue/sweet_templates/play_dx_cinematic_hero.wwisedialogueevent].wwisebank",
+    "gameFlags": 1
   },
   {
     "hash": "0172ECAAE33ADC20",
@@ -19357,9 +19343,8 @@
   },
   {
     "hash": "01B07F30EED906A8",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "play_dx_special_radionotif"
+    "path": "[assembly:/_knt/sound/wwise/exported/dynamicdialogue/sweet_templates/play_dx_special_radionotif.wwisedialogueevent].wwisebank",
+    "gameFlags": 1
   },
   {
     "hash": "01B7EF40C48210B1",
@@ -19747,9 +19732,8 @@
   },
   {
     "hash": "019E946974C9844D",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "play_dx_ai_whispered"
+    "path": "[assembly:/_knt/sound/wwise/exported/dynamicdialogue/sweet_templates/play_dx_ai_whispered.wwisedialogueevent].wwisebank",
+    "gameFlags": 1
   },
   {
     "hash": "01275FDEC04DB0AA",
@@ -20005,9 +19989,8 @@
   },
   {
     "hash": "0108EC713A5DCC12",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "play_dx_ai_clscombat"
+    "path": "[assembly:/_knt/sound/wwise/exported/dynamicdialogue/sweet_templates/play_dx_ai_clscombat.wwisedialogueevent].wwisebank",
+    "gameFlags": 1
   },
   {
     "hash": "019965346058EE1C",
@@ -21745,9 +21728,8 @@
   },
   {
     "hash": "01F140FC70F25A35",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "play_dx_special_microphone"
+    "path": "[assembly:/_knt/sound/wwise/exported/dynamicdialogue/sweet_templates/play_dx_special_microphone.wwisedialogueevent].wwisebank",
+    "gameFlags": 1
   },
   {
     "hash": "014B7DC4FB2904C4",
@@ -22333,9 +22315,8 @@
   },
   {
     "hash": "016C2CA35A69EF12",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "play_dx_npc_story"
+    "path": "[assembly:/_knt/sound/wwise/exported/dynamicdialogue/sweet_templates/play_dx_npc_story.wwisedialogueevent].wwisebank",
+    "gameFlags": 1
   },
   {
     "hash": "014E9426B4AE11E8",
@@ -23389,9 +23370,8 @@
   },
   {
     "hash": "016551F304542A7B",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "play_dx_cinematic_3d"
+    "path": "[assembly:/_knt/sound/wwise/exported/dynamicdialogue/sweet_templates/play_dx_cinematic_3d.wwisedialogueevent].wwisebank",
+    "gameFlags": 1
   },
   {
     "hash": "010A1ACB6C49A056",
@@ -23569,9 +23549,8 @@
   },
   {
     "hash": "01924BC44080756F",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "play_dx_cinematic_main"
+    "path": "[assembly:/_knt/sound/wwise/exported/dynamicdialogue/sweet_templates/play_dx_cinematic_main.wwisedialogueevent].wwisebank",
+    "gameFlags": 1
   },
   {
     "hash": "019D509C3CCD714E",
@@ -25674,9 +25653,8 @@
   },
   {
     "hash": "01E1D2A0B1E6D3AE",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "play_dx_special_incar"
+    "path": "[assembly:/_knt/sound/wwise/exported/dynamicdialogue/sweet_templates/play_dx_special_incar.wwisedialogueevent].wwisebank",
+    "gameFlags": 1
   },
   {
     "hash": "01DE4F2C495850B5",
@@ -26094,9 +26072,8 @@
   },
   {
     "hash": "01FBF7254CB04385",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "play_dx_npc_eavesdrop"
+    "path": "[assembly:/_knt/sound/wwise/exported/dynamicdialogue/sweet_templates/play_dx_npc_eavesdrop.wwisedialogueevent].wwisebank",
+    "gameFlags": 1
   },
   {
     "hash": "01D07DFF1359B1C9",
@@ -26652,9 +26629,8 @@
   },
   {
     "hash": "016F9307B7CCE254",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "play_dx_cinematic_extras"
+    "path": "[assembly:/_knt/sound/wwise/exported/dynamicdialogue/sweet_templates/play_dx_cinematic_extras.wwisedialogueevent].wwisebank",
+    "gameFlags": 1
   },
   {
     "hash": "0160687052FF28E7",
@@ -27366,9 +27342,8 @@
   },
   {
     "hash": "017B9EF84FFD973B",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "play_dx_ai_ambient"
+    "path": "[assembly:/_knt/sound/wwise/exported/dynamicdialogue/sweet_templates/play_dx_ai_ambient.wwisedialogueevent].wwisebank",
+    "gameFlags": 1
   },
   {
     "hash": "017DD65F02532895",
@@ -27642,9 +27617,8 @@
   },
   {
     "hash": "011C90F0A32E1344",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "play_dx_comms_moneypenny"
+    "path": "[assembly:/_knt/sound/wwise/exported/dynamicdialogue/sweet_templates/play_dx_comms_moneypenny.wwisedialogueevent].wwisebank",
+    "gameFlags": 1
   },
   {
     "hash": "0174A4A3B202E5B9",
@@ -29568,9 +29542,8 @@
   },
   {
     "hash": "01F6FA2562812662",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "play_dx_ai_cmbt_shouted"
+    "path": "[assembly:/_knt/sound/wwise/exported/dynamicdialogue/sweet_templates/play_dx_ai_cmbt_shouted.wwisedialogueevent].wwisebank",
+    "gameFlags": 1
   },
   {
     "hash": "0186E1D7DA7BF0AF",
@@ -30042,9 +30015,8 @@
   },
   {
     "hash": "012BB96DAF70B61C",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "play_dx_ai_cmbt_whispered"
+    "path": "[assembly:/_knt/sound/wwise/exported/dynamicdialogue/sweet_templates/play_dx_ai_cmbt_whispered.wwisedialogueevent].wwisebank",
+    "gameFlags": 1
   },
   {
     "hash": "018991F5DC127CA7",
@@ -30774,9 +30746,8 @@
   },
   {
     "hash": "0134B493934D6969",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "play_dx_ai_rngdcombat"
+    "path": "[assembly:/_knt/sound/wwise/exported/dynamicdialogue/sweet_templates/play_dx_ai_rngdcombat.wwisedialogueevent].wwisebank",
+    "gameFlags": 1
   },
   {
     "hash": "01F7031A12E3B32D",
@@ -31302,9 +31273,8 @@
   },
   {
     "hash": "01624D7647962B33",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "play_dx_ai_longrange"
+    "path": "[assembly:/_knt/sound/wwise/exported/dynamicdialogue/sweet_templates/play_dx_ai_longrange.wwisedialogueevent].wwisebank",
+    "gameFlags": 1
   },
   {
     "hash": "019FC560BB019BCF",
@@ -32580,9 +32550,8 @@
   },
   {
     "hash": "014173A584745BBD",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "play_dx_ai_projected"
+    "path": "[assembly:/_knt/sound/wwise/exported/dynamicdialogue/sweet_templates/play_dx_ai_projected.wwisedialogueevent].wwisebank",
+    "gameFlags": 1
   },
   {
     "hash": "0102816DA6AE1750",
@@ -35082,9 +35051,8 @@
   },
   {
     "hash": "01609890DE58CD4D",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "play_dx_ai_boss"
+    "path": "[assembly:/_knt/sound/wwise/exported/dynamicdialogue/sweet_templates/play_dx_ai_boss.wwisedialogueevent].wwisebank",
+    "gameFlags": 1
   },
   {
     "hash": "01AB83749E456F2C",
@@ -36204,9 +36172,8 @@
   },
   {
     "hash": "01B642A1652DD8E9",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "play_dx_bond"
+    "path": "[assembly:/_knt/sound/wwise/exported/dynamicdialogue/sweet_templates/play_dx_bond.wwisedialogueevent].wwisebank",
+    "gameFlags": 1
   },
   {
     "hash": "01721844A696739F",
@@ -36912,9 +36879,8 @@
   },
   {
     "hash": "0187B0700B896E48",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "play_dx_comms_extras"
+    "path": "[assembly:/_knt/sound/wwise/exported/dynamicdialogue/sweet_templates/play_dx_comms_extras.wwisedialogueevent].wwisebank",
+    "gameFlags": 1
   },
   {
     "hash": "014AB73F1458A92E",
@@ -37062,9 +37028,8 @@
   },
   {
     "hash": "01335A1A21FC97DA",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "play_dx_npc_storyamb"
+    "path": "[assembly:/_knt/sound/wwise/exported/dynamicdialogue/sweet_templates/play_dx_npc_storyamb.wwisedialogueevent].wwisebank",
+    "gameFlags": 1
   },
   {
     "hash": "01B52F24C1838B45",
@@ -37488,9 +37453,8 @@
   },
   {
     "hash": "01D74E49E63AFF16",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "play_dx_ai_regular"
+    "path": "[assembly:/_knt/sound/wwise/exported/dynamicdialogue/sweet_templates/play_dx_ai_regular.wwisedialogueevent].wwisebank",
+    "gameFlags": 1
   },
   {
     "hash": "011DC194E6E6CFCE",
@@ -39395,9 +39359,8 @@
   },
   {
     "hash": "018A679CD60514DC",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "play_dx_cinematic_handler"
+    "path": "[assembly:/_knt/sound/wwise/exported/dynamicdialogue/sweet_templates/play_dx_cinematic_handler.wwisedialogueevent].wwisebank",
+    "gameFlags": 1
   },
   {
     "hash": "01F309CC76C50659",

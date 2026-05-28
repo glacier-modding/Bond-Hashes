@@ -1,9 +1,9 @@
 # 007-Hashes
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-748,985-blue.svg)
-![Completion Badge](https://img.shields.io/badge/Total%20Completion-51.15%25-red.svg)
+![Completion Badge](https://img.shields.io/badge/Total%20Completion-54.85%25-red.svg)
 ![Formats Badge](https://img.shields.io/badge/Formats%20completed-12/82-blue.svg)
-![Firstlight Badge](https://img.shields.io/badge/Firstlight%20Completion-51.15%25-red.svg)
+![Firstlight Badge](https://img.shields.io/badge/Firstlight%20Completion-54.85%25-red.svg)
 <!-- BADGES_END -->
 ## Statistics
 <details>
@@ -27,7 +27,7 @@
 |CRSK     |2              |0            |0.00%             |0    |0.00%          |
 |CURV     |5              |0            |0.00%             |0    |0.00%          |
 |DITL     |1              |0            |0.00%             |0    |0.00%          |
-|DLGE     |42156          |0            |0.00%             |0    |0.00%          |
+|DLGE     |42156          |27721        |65.76%            |0    |0.00%          |
 |DSCN     |22             |0            |0.00%             |0    |0.00%          |
 |DSWB     |5              |0            |0.00%             |0    |0.00%          |
 |ECPB     |8306           |0            |0.00%             |0    |0.00%          |

@@ -2,7 +2,7 @@
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-748,985-blue.svg)
 ![Completion Badge](https://img.shields.io/badge/Total%20Completion-57.84%25-red.svg)
-![Formats Badge](https://img.shields.io/badge/Formats%20completed-16/82-blue.svg)
+![Formats Badge](https://img.shields.io/badge/Formats%20completed-17/82-blue.svg)
 ![Firstlight Badge](https://img.shields.io/badge/Firstlight%20Completion-57.84%25-red.svg)
 <!-- BADGES_END -->
 ## Statistics
@@ -39,7 +39,7 @@
 |GFXA     |18             |18           |100.00%           |0    |0.00%          |
 |GFXF     |14             |14           |100.00%           |0    |0.00%          |
 |GFXI     |2726           |2055         |75.39%            |0    |0.00%          |
-|GFXV     |217            |110          |50.69%            |0    |0.00%          |
+|GFXV     |217            |113          |52.07%            |0    |0.00%          |
 |GIDX     |1              |1            |100.00%           |0    |0.00%          |
 |GPBM     |20             |0            |0.00%             |0    |0.00%          |
 |GPBS     |22             |0            |0.00%             |0    |0.00%          |
@@ -57,7 +57,7 @@
 |JSON     |176            |91           |51.70%            |0    |0.00%          |
 |KWOR     |35             |0            |0.00%             |0    |0.00%          |
 |LINE     |4439           |0            |0.00%             |0    |0.00%          |
-|LOCR     |201            |1            |0.50%             |0    |0.00%          |
+|LOCR     |201            |9            |4.48%             |0    |0.00%          |
 |MATB     |4381           |2836         |64.73%            |0    |0.00%          |
 |MATE     |1072           |0            |0.00%             |0    |0.00%          |
 |MATI     |14612          |9457         |64.72%            |0    |0.00%          |
@@ -68,7 +68,7 @@
 |PEBL     |1              |0            |0.00%             |0    |0.00%          |
 |PETY     |1              |0            |0.00%             |0    |0.00%          |
 |PRIM     |32768          |21885        |66.79%            |0    |0.00%          |
-|RTLV     |2              |0            |0.00%             |0    |0.00%          |
+|RTLV     |2              |2            |100.00%           |0    |0.00%          |
 |SCDA     |201            |6            |2.99%             |0    |0.00%          |
 |SDEF     |102            |0            |0.00%             |0    |0.00%          |
 |SNEB     |8              |0            |0.00%             |0    |0.00%          |

@@ -24,9 +24,8 @@ with open(args.input, "r") as f:
                 for s in range(len(shortPaths)):
                     shortPath = "_".join(shortPaths[:s+1])
 
-                    dlgePath = f"[assembly:/localization/hitman6/conversations{shortPath}.sweetdialog].pc_dialogevent"
-                    dlgePathDialogItem = f"[assembly:/localization/hitman6/conversations{shortPath}.sweetdialog?/{sweetDialogItem}.sweetdialogitem].pc_dialogevent"
-
+                    dlgePath = f"[assembly:/_knt/localization/knt/conversations{shortPath}.sweetdialog].dialogevent"
+                    dlgePathDialogItem = f"[assembly:/_knt/localization/knt/conversations{shortPath}.sweetdialog?/{sweetDialogItem}.sweetdialogitem].dialogevent"
                     if dlge == ioi_hash(dlgePath) or dlge == ioi_hash(dlgePathDialogItem):
                         found.append(f"{dlge}.DLGE,{dlgePath if dlge == ioi_hash(dlgePath) else dlgePathDialogItem}")
                         foundIt = True

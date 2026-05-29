@@ -2,7 +2,7 @@
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-748,985-blue.svg)
 ![Completion Badge](https://img.shields.io/badge/Total%20Completion-61.14%25-red.svg)
-![Formats Badge](https://img.shields.io/badge/Formats%20completed-18/82-blue.svg)
+![Formats Badge](https://img.shields.io/badge/Formats%20completed-19/82-blue.svg)
 ![Firstlight Badge](https://img.shields.io/badge/Firstlight%20Completion-61.14%25-red.svg)
 <!-- BADGES_END -->
 ## Statistics
@@ -29,7 +29,7 @@
 |DITL     |1              |1            |100.00%           |0    |0.00%          |
 |DLGE     |42156          |27761        |65.85%            |0    |0.00%          |
 |DSCN     |22             |0            |0.00%             |0    |0.00%          |
-|DSWB     |5              |0            |0.00%             |0    |0.00%          |
+|DSWB     |5              |5            |100.00%           |0    |0.00%          |
 |ECPB     |8306           |8306         |100.00%           |0    |0.00%          |
 |ECPT     |8306           |8306         |100.00%           |0    |0.00%          |
 |ENUM     |84             |19           |22.62%            |0    |0.00%          |

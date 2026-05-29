@@ -1,9 +1,9 @@
 # 007-Hashes
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-748,985-blue.svg)
-![Completion Badge](https://img.shields.io/badge/Total%20Completion-61.13%25-red.svg)
-![Formats Badge](https://img.shields.io/badge/Formats%20completed-17/82-blue.svg)
-![Firstlight Badge](https://img.shields.io/badge/Firstlight%20Completion-61.13%25-red.svg)
+![Completion Badge](https://img.shields.io/badge/Total%20Completion-61.14%25-red.svg)
+![Formats Badge](https://img.shields.io/badge/Formats%20completed-18/82-blue.svg)
+![Firstlight Badge](https://img.shields.io/badge/Firstlight%20Completion-61.14%25-red.svg)
 <!-- BADGES_END -->
 ## Statistics
 <details>
@@ -70,7 +70,7 @@
 |PRIM     |32768          |21885        |66.79%            |0    |0.00%          |
 |RTLV     |2              |2            |100.00%           |0    |0.00%          |
 |SCDA     |201            |6            |2.99%             |0    |0.00%          |
-|SDEF     |102            |0            |0.00%             |0    |0.00%          |
+|SDEF     |102            |102          |100.00%           |0    |0.00%          |
 |SNEB     |8              |0            |0.00%             |0    |0.00%          |
 |SNET     |8              |0            |0.00%             |0    |0.00%          |
 |SVOL     |64             |0            |0.00%             |0    |0.00%          |

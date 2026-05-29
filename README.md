@@ -1,9 +1,9 @@
 # 007-Hashes
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-748,985-blue.svg)
-![Completion Badge](https://img.shields.io/badge/Total%20Completion-61.14%25-red.svg)
+![Completion Badge](https://img.shields.io/badge/Total%20Completion-61.19%25-red.svg)
 ![Formats Badge](https://img.shields.io/badge/Formats%20completed-19/82-blue.svg)
-![Firstlight Badge](https://img.shields.io/badge/Firstlight%20Completion-61.14%25-red.svg)
+![Firstlight Badge](https://img.shields.io/badge/Firstlight%20Completion-61.19%25-red.svg)
 <!-- BADGES_END -->
 ## Statistics
 <details>
@@ -57,9 +57,9 @@
 |JSON     |176            |91           |51.70%            |0    |0.00%          |
 |KWOR     |35             |0            |0.00%             |0    |0.00%          |
 |LINE     |4439           |0            |0.00%             |0    |0.00%          |
-|LOCR     |201            |15           |7.46%             |0    |0.00%          |
+|LOCR     |201            |16           |7.96%             |0    |0.00%          |
 |MATB     |4381           |2836         |64.73%            |0    |0.00%          |
-|MATE     |1072           |0            |0.00%             |0    |0.00%          |
+|MATE     |1072           |315          |29.38%            |0    |0.00%          |
 |MATI     |14612          |9457         |64.72%            |0    |0.00%          |
 |MATT     |4381           |2836         |64.73%            |0    |0.00%          |
 |MOMA     |370            |0            |0.00%             |0    |0.00%          |

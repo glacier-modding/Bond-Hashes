@@ -6,7 +6,7 @@
   },
   {
     "hash": "01D96DCB057145EE",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_screens_multiframeanimation.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "hash": "010B987AFA1C753A",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/decal/fx_decal_blastmark_streak.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -61,7 +61,7 @@
   },
   {
     "hash": "01CA3E16AD40256B",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/decals/decal_smudge_a.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -71,12 +71,12 @@
   },
   {
     "hash": "016B6BA3A21BF06E",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/foliage/foliage_vertexwind_palm.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "01172723165D5A6F",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_liquid_container_acid.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -101,7 +101,7 @@
   },
   {
     "hash": "0113B44DD5606172",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_screens_miami_robot.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -121,7 +121,7 @@
   },
   {
     "hash": "01B0521244C60DAA",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_water_lit.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -136,7 +136,7 @@
   },
   {
     "hash": "01EF80DFE26AD874",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_smoke_plane_array.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -151,7 +151,7 @@
   },
   {
     "hash": "0179E534AFDA513A",
-    "path": "",
+    "path": "[[assembly:/_pro/items/materialclasses/weapon_basic_procedural_notlinked.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -176,7 +176,7 @@
   },
   {
     "hash": "010985A15AAF39C1",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_basicmaterial_translucent_wboxrefl_colormod_cloth.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -206,7 +206,7 @@
   },
   {
     "hash": "01F235680E4CB49F",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/basicmaterial_glass_emissive.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -221,7 +221,7 @@
   },
   {
     "hash": "01BB713C42AC3FB2",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/cloth/cloth_sheet_normalscroll.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -241,7 +241,7 @@
   },
   {
     "hash": "017ED141A031D535",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/decal/fx_decal_bullethole_glass.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -261,7 +261,7 @@
   },
   {
     "hash": "01170BB0A0A0B639",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/basicmaterial_zmapped_relief.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -276,7 +276,7 @@
   },
   {
     "hash": "01B989951F2EC307",
-    "path": "",
+    "path": "[[assembly:/_pro/vehicles/materialclasses/vehicle_licenseplate.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -291,22 +291,22 @@
   },
   {
     "hash": "010B111F18F0D985",
-    "path": "",
+    "path": "[[assembly:/_pro/vehicles/materialclasses/vehicle_tire.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "013186E426BCA492",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_cigarette.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "019875649CB134C1",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/decals/decal_colormodulate.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "0196E60703BBCEF3",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_basicmaterial_translucent_wboxrefl_cheap.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -326,7 +326,7 @@
   },
   {
     "hash": "011188CFF2D682AB",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/fxdraw/fx_draw_sphere_direction.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -341,7 +341,7 @@
   },
   {
     "hash": "0120D779F36390C1",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/particle/fx_spriteparticlesa_emissive_bc4_fireworks.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -356,7 +356,7 @@
   },
   {
     "hash": "01DF00213601EADB",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_basicmaterial_2emissive.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -366,7 +366,7 @@
   },
   {
     "hash": "0129546FA1CD6214",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_helicopterrotor.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -376,7 +376,7 @@
   },
   {
     "hash": "012CA41FF8603ACA",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_screens_pc_security.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -391,7 +391,7 @@
   },
   {
     "hash": "0150335561DB4B37",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/basicmaterial_colordetail.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -456,7 +456,7 @@
   },
   {
     "hash": "01C9B9D5C0BF7868",
-    "path": "",
+    "path": "[[assembly:/_pro/vehicles/materialclasses/vehicle_decals.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -546,7 +546,7 @@
   },
   {
     "hash": "010A54A1966AA01B",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/decal/fx_decal_liquid_oil_leaking.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -571,12 +571,12 @@
   },
   {
     "hash": "015482CE04BBAB77",
-    "path": "",
+    "path": "[[assembly:/_pro/vehicles/materialclasses/vehicle_exterior_dirt_melt.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "010A9687DB11EA49",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_projectorscreen_tamagozake.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -601,7 +601,7 @@
   },
   {
     "hash": "01946EE448A162AB",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/custom/llama/basicmaterial_translucent_burnt.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -621,7 +621,7 @@
   },
   {
     "hash": "01E86D1B62A71AC9",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/vertexblending/depthblending_2_channel_relief.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -706,7 +706,7 @@
   },
   {
     "hash": "01F5C20C66598605",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/backdrop/mist/mist_scrolling_cheap_nofade.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -731,7 +731,7 @@
   },
   {
     "hash": "01CDB63AC2057142",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/vertexblending/depthblending_3_channel_relief_maskedcolorvariation.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -741,7 +741,7 @@
   },
   {
     "hash": "01B2229B7DD92DDF",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_liquid_container_snails_opaque.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -766,7 +766,7 @@
   },
   {
     "hash": "011652D04021757B",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/basicmaterial_translucent_colormask.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -776,12 +776,12 @@
   },
   {
     "hash": "0156E1CB610F2D77",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/environment/fx_mesh_foliage_interactive.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "0198EDD7580AD23F",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/particle/fx_spriteparticlesva_muzzleflash_premul.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -791,7 +791,7 @@
   },
   {
     "hash": "015E06100A9E0C94",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_emissive_alpha.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -806,12 +806,12 @@
   },
   {
     "hash": "01A44949DD797461",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/water/fx_mesh_water_general_textureflowmap.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "0198419E7897E64A",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/basicmaterial_glass_cheap.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -821,7 +821,7 @@
   },
   {
     "hash": "0198E3B8DD4D6E4C",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/cloth/cloth_sheet_twosided.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -841,12 +841,12 @@
   },
   {
     "hash": "01583E184803D534",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/basicmaterial_relief_maskcolorvariation.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "01063F910885D592",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/basicmaterial_hardalpha_translucent_foliage.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -881,7 +881,7 @@
   },
   {
     "hash": "01ACDE6EB2D42655",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/decal/fx_decal_liquid.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -891,7 +891,7 @@
   },
   {
     "hash": "011669B0F689F5DF",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/basicmaterial_pixeldepthoffset.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -906,7 +906,7 @@
   },
   {
     "hash": "01FF7E82BFA725FE",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/custom/magpie/keep_roof_glass.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -921,12 +921,12 @@
   },
   {
     "hash": "01958E4B4C13603A",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/basicmaterial.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "01FEE2E72D722256",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/basicmaterial_glass_mirror.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -941,7 +941,7 @@
   },
   {
     "hash": "01BA242FB6BC8B61",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/decal/fx_decal_bullethole_flesh.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -956,12 +956,12 @@
   },
   {
     "hash": "01206912130FA512",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/nullmaterial.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "0178B39880028510",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/basicmaterial_glass_frosted.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -976,7 +976,7 @@
   },
   {
     "hash": "0193F9FCE934B8BA",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/particle/fx_spriteparticleao_groundwind_refraction.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -986,7 +986,7 @@
   },
   {
     "hash": "01CD17F3119C0D67",
-    "path": "",
+    "path": "[[assembly:/_pro/items/materialclasses/weapon_basic_procedural.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -1021,12 +1021,12 @@
   },
   {
     "hash": "019FB9B23F892750",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_water_foammesh.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "01C74F7355C715FA",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/custom/sheep/sheep_terrain_blend_material.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -1036,7 +1036,7 @@
   },
   {
     "hash": "01F9860EF7EBE600",
-    "path": "",
+    "path": "[[assembly:/_pro/vehicles/materialclasses/vehicle_exterior_decal_s2.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -1061,7 +1061,7 @@
   },
   {
     "hash": "01A629EBFBDA98CC",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/particle/fx_spriteparticlesva_liquid.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -1076,7 +1076,7 @@
   },
   {
     "hash": "013029B3C09EFE64",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_basicmaterial_melt.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -1091,7 +1091,7 @@
   },
   {
     "hash": "01DAE8BA1A1DFCFA",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/foliage/foliage_vertexwind_tree.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -1126,7 +1126,7 @@
   },
   {
     "hash": "014521F2A841AE6B",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/decal/fx_decal_debris_glass.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -1136,7 +1136,7 @@
   },
   {
     "hash": "01259E7A1AF70805",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/cloth/cloth_chain_a.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -1156,7 +1156,7 @@
   },
   {
     "hash": "01D85FDE9C91FABD",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/water/fx_mesh_water_falling_refractive.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -1181,7 +1181,7 @@
   },
   {
     "hash": "01A1891C481FA3C6",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/basicmaterial_relief_ao.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -1196,12 +1196,12 @@
   },
   {
     "hash": "01151ACC637AC224",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/decal/fx_decal_debris_metal.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "014515BE4D5EEAF8",
-    "path": "",
+    "path": "[[assembly:/_pro/vehicles/materialclasses/vehicle_glass.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -1211,7 +1211,7 @@
   },
   {
     "hash": "0160532076DB7E9A",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/characters/fx_skeleton.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -1236,7 +1236,7 @@
   },
   {
     "hash": "0172FF019579B729",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/particle/fx_spriteparticleao_flame_ground.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -1256,12 +1256,12 @@
   },
   {
     "hash": "015A0FAFE4D365AB",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_fire_gasstoveburner.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "01FBEE575764A741",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/basicmaterial_novertexcolor.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -1316,7 +1316,7 @@
   },
   {
     "hash": "01574C52AADE6F20",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/backdrop/clouds/cloud_a.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -1326,7 +1326,7 @@
   },
   {
     "hash": "01815385305E9FEF",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/particle/fx_spriteparticleao_water_impact_decalblend.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -1336,7 +1336,7 @@
   },
   {
     "hash": "01394A6E9C1EE06E",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/backdrop/sky/sky_opaque.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -1356,7 +1356,7 @@
   },
   {
     "hash": "01892176DD1396D1",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/basicmaterial_hardalpha_height_translucent.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -1396,7 +1396,7 @@
   },
   {
     "hash": "010D6DB6075D5C7B",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/foliage/foliage.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -1421,7 +1421,7 @@
   },
   {
     "hash": "013BE0EAD2F0A0FF",
-    "path": "",
+    "path": "[[assembly:/_pro/vehicles/materialclasses/vehicle_lights.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -1431,7 +1431,7 @@
   },
   {
     "hash": "0127105F5D9E594B",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/custom/bulldog/basic_velour_a.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -1441,7 +1441,7 @@
   },
   {
     "hash": "018B0DE562A9AF62",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/decal/fx_decal_bullethole.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -1461,7 +1461,7 @@
   },
   {
     "hash": "0134CAEA021DD79F",
-    "path": "",
+    "path": "[[assembly:/_pro/vehicles/materialclasses/vehicle_decals_interior.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -1476,7 +1476,7 @@
   },
   {
     "hash": "013F259864D4AA64",
-    "path": "",
+    "path": "[[assembly:/_pro/characters/materialclasses/glass_advanced.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -1496,7 +1496,7 @@
   },
   {
     "hash": "01BF44AB82738260",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/particle/fx_psa_water_mist.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -1551,7 +1551,7 @@
   },
   {
     "hash": "01A4066672A843E9",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/decal/fx_decal_scrolling.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -1571,7 +1571,7 @@
   },
   {
     "hash": "0141F8CADB1D6E8A",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_screens_pc_live_feed.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -1596,12 +1596,12 @@
   },
   {
     "hash": "017088522FEB2BE4",
-    "path": "",
+    "path": "[[assembly:/_pro/items/materialclasses/weapon_firearm_basic.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "01DB1ECB359E3828",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/particle/fx_spriteparticlesas_fire_smoke.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -1646,7 +1646,7 @@
   },
   {
     "hash": "013D825A0E4E5DF7",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/decal/fx_decal_debris.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -1661,12 +1661,12 @@
   },
   {
     "hash": "0103D2727C97A6D0",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/particle/fx_spriteparticlesa_dust_specs_1p.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "0171CB7D1E9AF8FA",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_animal_rat_running.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -1686,12 +1686,12 @@
   },
   {
     "hash": "019CC0B689E4D85D",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/custom/depthblending_3_channel_colorchanger_upvector.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "01635EEDBFF009C8",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/fxdraw/fx_draw_sphere_normal.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -1706,12 +1706,12 @@
   },
   {
     "hash": "014621F5DD761286",
-    "path": "",
+    "path": "[[assembly:/_pro/characters/materialclasses/basic_discard.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "01FC09ECAB39469C",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/backdrop/sky/sky_premultiplied_cheap.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -1731,12 +1731,12 @@
   },
   {
     "hash": "01C7B87FD9458370",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/custom/gecko/fx_gecko_windows_vibration_localboxreflectance.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "013571309B17057C",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_emissive_premultiplied.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -1776,7 +1776,7 @@
   },
   {
     "hash": "01346370A406A656",
-    "path": "",
+    "path": "[[assembly:/_pro/items/materialclasses/weapon_firearm_decal.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -1826,7 +1826,7 @@
   },
   {
     "hash": "01842168B7BC6163",
-    "path": "",
+    "path": "[[assembly:/_pro/characters/materialclasses/cutscene/custom_parachute.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -1871,12 +1871,12 @@
   },
   {
     "hash": "0144CB25DA4DFBEA",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/particle/fx_spriteparticlesva_firesmoke_uvdistort.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "01390A747D5CFFBE",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/basicmaterial_glass_mirror_dualblur.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -1891,7 +1891,7 @@
   },
   {
     "hash": "0155E74D876C4E82",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/custom/basicmaterial_relief_snowinteraction.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -1926,12 +1926,12 @@
   },
   {
     "hash": "01AB40BA63D7580C",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_vehicle_ditherdiscard.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "01558062AD34019C",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/particle/fx_spriteparticlesas_emissive.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -1941,12 +1941,12 @@
   },
   {
     "hash": "01DCFA29C2BF6265",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/particle/fx_spriteparticlesas_sparks_scroll.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "013ADEC4641AE130",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/decal/fx_decal_blastmark.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -1956,7 +1956,7 @@
   },
   {
     "hash": "010DFA12ADB857C0",
-    "path": "",
+    "path": "[[assembly:/_pro/vehicles/materialclasses/vehicle_exterior_s2_triplanarrain.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -1996,7 +1996,7 @@
   },
   {
     "hash": "019BF8D10E06049A",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/decals/decal_relief_clamped.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -2006,7 +2006,7 @@
   },
   {
     "hash": "017FC1F19AEA06E2",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/fxdraw/fx_draw_sphere_velocity.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -2036,7 +2036,7 @@
   },
   {
     "hash": "0183D66E35A7B41E",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/rat/fx_vehicleglassrain.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -2046,17 +2046,17 @@
   },
   {
     "hash": "014092C2C28E63EC",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/particle/fx_spriteparticleao_firesmoke_vehicle.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "01FC3770AB12004D",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_liquid_container_opaque.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "014A03A4B758F991",
-    "path": "",
+    "path": "[[assembly:/_pro/items/materialclasses/weapon_melee.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -2071,12 +2071,12 @@
   },
   {
     "hash": "0109925C448315FC",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/decals/decal_dust_a.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "012E232DFEB1B917",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/foliage/basicmaterial_vertexwobble_wind.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -2086,12 +2086,12 @@
   },
   {
     "hash": "01CEBDB8B28E1977",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/particle/fx_spriteparticlesas_smoke_bre.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "01FB5A518B83622D",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/custom/gecko/fx_gecko_windows_vibration.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -2111,7 +2111,7 @@
   },
   {
     "hash": "0170F3944B884DCA",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/particle/fx_spriteparticleao_muzzleflash.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -2121,12 +2121,12 @@
   },
   {
     "hash": "01FAEAD6AD534655",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/worldmapping/basicmaterial_worldmapped.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "01C800132DAEE832",
-    "path": "",
+    "path": "[[assembly:/_pro/characters/materialclasses/basic.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -2141,7 +2141,7 @@
   },
   {
     "hash": "014F36104C5E7532",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/basicmaterial_anisotropic.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -2166,7 +2166,7 @@
   },
   {
     "hash": "01FEED8C10909F35",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/particle/fx_spriteparticlesa_liquid_lit.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -2181,7 +2181,7 @@
   },
   {
     "hash": "0112196D50E3AE83",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_liquid_standard_vs.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -2191,7 +2191,7 @@
   },
   {
     "hash": "0132E37F4D618D77",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_emissive_distancefade.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -2201,7 +2201,7 @@
   },
   {
     "hash": "019FA6080020DCDF",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/basicmaterial_emissive_anisotropic.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -2216,7 +2216,7 @@
   },
   {
     "hash": "015FB0FDDDC42324",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_basicmaterial_water_running.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -2236,7 +2236,7 @@
   },
   {
     "hash": "019977E18B831D18",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_basicmaterial_deflate.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -2246,17 +2246,17 @@
   },
   {
     "hash": "011D9100DE27B16D",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/basicmaterial_hashedalpha.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "01A81998B8F129AE",
-    "path": "",
+    "path": "[[assembly:/_pro/characters/materialclasses/basic_skin.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "0143F68467B463F9",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/particle/fx_spriteparticlesas_smoke_brc_2s.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -2281,7 +2281,7 @@
   },
   {
     "hash": "0140D7BFA5A38AEA",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_basicmaterial_scrolling.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -2316,7 +2316,7 @@
   },
   {
     "hash": "0183935EE2232CCE",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/particle/fx_spriteparticleao_debris_lit_animated.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -2331,32 +2331,32 @@
   },
   {
     "hash": "018D2107C69B94EA",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/decals/decal.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "010FF147C5292D13",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/scenes/paris/novikov_logo_cracks.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "0112E73D28EE30F4",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/foliage/basicmaterial_vertexwobble.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "01FD369D442CA73D",
-    "path": "",
+    "path": "[[assembly:/_pro/vehicles/materialclasses/vehicle_exterior_s2.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "018116B9C86F6823",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/decals/decal_novertexcolorrgba.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "018C3DEBA7478626",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/particle/fx_spriteparticlesas_blood.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -2391,17 +2391,17 @@
   },
   {
     "hash": "01860AD02BEE4D87",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/fire/fx_mesh_heat_shockwave_a.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "0165FAA89840B65C",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_hard_snow.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "01C6826933C270AF",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/particle/fx_spriteparticlesas_fire_smoke_brc.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -2416,7 +2416,7 @@
   },
   {
     "hash": "01E86A1EA2EA61EE",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_candle.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -2436,7 +2436,7 @@
   },
   {
     "hash": "015DC059BE03FF63",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/decal/fx_decal_water_running.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -2561,7 +2561,7 @@
   },
   {
     "hash": "01098E7CCCF60900",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/water/fx_mesh_water_general.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -2576,7 +2576,7 @@
   },
   {
     "hash": "0137C402D22D853E",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/particle/fx_spriteparticlesa_dust_specs.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -2586,7 +2586,7 @@
   },
   {
     "hash": "0173B29F7D73A259",
-    "path": "",
+    "path": "[[assembly:/_pro/vehicles/materialclasses/vehicle_exterior_dirt.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -2621,7 +2621,7 @@
   },
   {
     "hash": "015E2ED4EE5A7B7E",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_wine.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -2636,7 +2636,7 @@
   },
   {
     "hash": "018230A9D5776050",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/particle/fx_spriteparticlesva_muzzleflash.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -2671,12 +2671,12 @@
   },
   {
     "hash": "0184C9EFFD7487D5",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/particle/fx_pva_water_rain_drops.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "012FA46547351C3D",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_animal_fish.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -2686,7 +2686,7 @@
   },
   {
     "hash": "01B3B16029D8DF89",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/basicmaterial_detail.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -2696,7 +2696,7 @@
   },
   {
     "hash": "018497841EE34B04",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/decal/fx_decal_liquid_bloodpool.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -2731,7 +2731,7 @@
   },
   {
     "hash": "01B55693692040FA",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/scenes/paris/novikov_logo.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -2741,7 +2741,7 @@
   },
   {
     "hash": "012E90FE6BAAFAE0",
-    "path": "",
+    "path": "[[assembly:/_pro/vehicles/materialclasses/vehicle_exterior_dirt_melt_triplanarrain.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -2751,12 +2751,12 @@
   },
   {
     "hash": "0153E07452219880",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/decal/fx_decal_liquid_splat_wall.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "016A144F29438086",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/fire/fx_psa_h3_fire_genericgrounded.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -2786,7 +2786,7 @@
   },
   {
     "hash": "01E0BFFAB10F306D",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/basicmaterial_displacement.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -2796,7 +2796,7 @@
   },
   {
     "hash": "01FA5B2CE4372AE9",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/procedural/rusted_metal_displace_lod.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -2826,12 +2826,12 @@
   },
   {
     "hash": "01D7B2F75AB9D5A8",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/basicmaterial_glass_cheap_broken.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "0146F4680B79317C",
-    "path": "",
+    "path": "[[assembly:/_pro/items/materialclasses/weapon_basic.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -2841,7 +2841,7 @@
   },
   {
     "hash": "01844B34729C566C",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_screens_pc_console_scroll.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -2861,12 +2861,12 @@
   },
   {
     "hash": "01458DCBB3563339",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_basicmaterial_translucent_sunintensity.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "013C34DFAEFB7326",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/basicmaterial_glass.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -2886,7 +2886,7 @@
   },
   {
     "hash": "018B59EED64C4E5B",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/scenes/paris/attic_torn_cloth_a.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -2906,7 +2906,7 @@
   },
   {
     "hash": "0161FC329340F8CB",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/particle/fx_spriteparticlesva_liquid_alphaerode.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -2916,7 +2916,7 @@
   },
   {
     "hash": "011330A963D2FFC7",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_basicmaterial_worldmapped_wet.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -2926,12 +2926,12 @@
   },
   {
     "hash": "0188924F86EC1CFD",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/particle/fx_spriteparticlesa_debris_lit.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "015279BC4DA5E727",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/basicmaterial_hardalpha_novertexcolor.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -2951,7 +2951,7 @@
   },
   {
     "hash": "0150781446657DD4",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/particle/fx_psa_firesmoke_wispy_spritebased.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -2976,17 +2976,17 @@
   },
   {
     "hash": "0143A48ABEC95322",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/foliage/foliage_billboard.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "01C45834C0B14B84",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_basicmaterial_furniture_interaction.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "012EE0914A8E3693",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/environment/fx_mesh_heat_haze_a.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -3001,7 +3001,7 @@
   },
   {
     "hash": "017CA4F5BAEB7E68",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/particle/fx_spriteparticlesa_liquid_refract.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -3046,7 +3046,7 @@
   },
   {
     "hash": "010DFA3E9EEAD57D",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/particle/fx_psa_fire_smoke_generic.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -3061,7 +3061,7 @@
   },
   {
     "hash": "01BBC86EDE48F3A4",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/terrain/terrain_worldmachine_a.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -3071,7 +3071,7 @@
   },
   {
     "hash": "01F4D1F1B2D8E3BC",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/cloth/cloth_sheet_twosided_normalscroll.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -3091,7 +3091,7 @@
   },
   {
     "hash": "016200E902EF7D0D",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_screens_tabletanimation.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -3111,12 +3111,12 @@
   },
   {
     "hash": "0138DF8CEB866479",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/particle/fx_psa_water_generic.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "0131678214747ECE",
-    "path": "",
+    "path": "[[assembly:/_pro/items/materialclasses/weapon_basic_glass.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -3151,32 +3151,32 @@
   },
   {
     "hash": "01CF39C967295356",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/scatter/basicmaterial_scatter_normalupvector.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "0188EB915D5E6960",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/vertexblending/depthblending_2_channel_overallrelief.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "011136C430B04AAB",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/decals/decal_upres.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "01A178E5E2454621",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/basicmaterial_glass_refractive.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "01DFADB75D7E6541",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_screens_bigpanels.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "014F227FB2371B66",
-    "path": "",
+    "path": "[[assembly:/_pro/characters/materialclasses/basic_crowd.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -3206,12 +3206,12 @@
   },
   {
     "hash": "01076DC0777BC82A",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/decal/fx_decal_caustics.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "01C55D329A7C306C",
-    "path": "",
+    "path": "[[assembly:/_pro/vehicles/materialclasses/vehicle_interior.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -3226,7 +3226,7 @@
   },
   {
     "hash": "01A6A0B251776FA7",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/decals/decal_basicmaterial.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -3241,7 +3241,7 @@
   },
   {
     "hash": "013507D441971B54",
-    "path": "",
+    "path": "[[assembly:/_pro/characters/materialclasses/basic_fabric.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -3251,7 +3251,7 @@
   },
   {
     "hash": "01D6CF0F4A040053",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/foliage/basicmaterial_foliage_hardalpha_translucent_lodonly.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -3276,22 +3276,22 @@
   },
   {
     "hash": "0103C82B5DCB7ABA",
-    "path": "",
+    "path": "[[assembly:/_pro/items/materialclasses/item_rubberduck.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "010580C7C3855E2E",
-    "path": "",
+    "path": "[[assembly:/_pro/characters/materialclasses/basic_anisotropic.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "015CBB4A5510815C",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/foliage/foliage_vertexwind_nodistancedither.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "01F99700480F7FE6",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_water_ocean_beach.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -3341,22 +3341,22 @@
   },
   {
     "hash": "0193637D63004BBE",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/basicmaterial_relief_vertexalphaheight.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "0100F3E1FC883021",
-    "path": "",
+    "path": "[[assembly:/_pro/characters/materialclasses/basic_glass_refractive_no_vertexcolor.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "0188AB21EC831B76",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_animal_bird.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "014A41EC9BBC39A3",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/custom/bangkok/glass_atrium.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -3371,7 +3371,7 @@
   },
   {
     "hash": "019860E904844F32",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/foliage/foliage_vertexwind_interaction.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -3396,12 +3396,12 @@
   },
   {
     "hash": "018C0DA0E6C1C493",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/gameplay/fx_invisible_coli.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "0192A0CCC7D7F3C4",
-    "path": "",
+    "path": "[[assembly:/_pro/vehicles/materialclasses/vehicle_exterior.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -3441,7 +3441,7 @@
   },
   {
     "hash": "0106EBB7D7EC6627",
-    "path": "",
+    "path": "[[assembly:/_pro/items/materialclasses/weapon_reflexscope_glass.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -3456,7 +3456,7 @@
   },
   {
     "hash": "011C4A2A082C2F54",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/basicmaterial_colormask.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -3531,22 +3531,22 @@
   },
   {
     "hash": "01DDDA88130D7259",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/foliage/foliage_underwater_streaming.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "017BEF647683990E",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/custom/umbrella_transparent_folding.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "019C009199CB06EC",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/basicmaterial_displacement_hardalpha.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "011DB3CAE29D34F0",
-    "path": "",
+    "path": "[[assembly:/_pro/vehicles/materialclasses/vehicle_exterior_livery_dirt.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -3581,7 +3581,7 @@
   },
   {
     "hash": "01B112C60C511C2B",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/decal/fx_decal_liquid_splat.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -3596,7 +3596,7 @@
   },
   {
     "hash": "01ACC8AF6F5B93DF",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/fxdraw/fx_draw_sa_sprite.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -3606,7 +3606,7 @@
   },
   {
     "hash": "011F98238BF48261",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/custom/rat/basicmaterial_emissive_vertexcoloralphamult.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -3621,7 +3621,7 @@
   },
   {
     "hash": "0185D97921D58BF9",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/particle/fx_spriteparticlesas_softdebris.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -3636,7 +3636,7 @@
   },
   {
     "hash": "01927A95D5ACF08E",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/decal/fx_decal_debris_glass_relief.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -3676,7 +3676,7 @@
   },
   {
     "hash": "01E62079180E6F51",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/custom/fur.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -3696,7 +3696,7 @@
   },
   {
     "hash": "01A86CF62A3F2408",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/particle/fx_spriteparticlesa_liquid_bubble_opaque.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -3711,12 +3711,12 @@
   },
   {
     "hash": "019CB3293E514E6D",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/scenes/mongoose/depthblending_2_channel_mongoose_a.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "01C7DB4C102691EA",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/basicmaterial_relief_objectscaletexcoordtile.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -3736,7 +3736,7 @@
   },
   {
     "hash": "01E695173B8F6F1C",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/particle/fx_psa_emissive_generic.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -3751,7 +3751,7 @@
   },
   {
     "hash": "01B9BF1863FA11AF",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/vertexblending/depthblending_3_channel_relief_colorchanger.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -3761,7 +3761,7 @@
   },
   {
     "hash": "01E20C25AD15C0B2",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/foliage/foliage_billboard_noalign.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -3811,7 +3811,7 @@
   },
   {
     "hash": "015974AAC5DE7C00",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/particle/fx_spriteparticleao_liquid_decalblend.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -3826,7 +3826,7 @@
   },
   {
     "hash": "01A5587EE66266AE",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/foliage/foliage_billboard_noalign_novertexshader.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -3841,7 +3841,7 @@
   },
   {
     "hash": "018BE1E6466BC2BA",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/basicmaterial_translucent_sss.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -3866,12 +3866,12 @@
   },
   {
     "hash": "0175EB5F294EF9C9",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/custom/hippo/burning_wood_generic.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "010E2A39D0D7CAA5",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/basicmaterial_hardalpha_colormask.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -3881,12 +3881,12 @@
   },
   {
     "hash": "014123F51F237BF2",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/foliage/foliage_vertexwind_interaction_scatter.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "01E4151DDE89447C",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/vertexblending/depthblending_3_channel_relief.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -3916,7 +3916,7 @@
   },
   {
     "hash": "01763BA8AECD7ABC",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_frost_glass.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -3946,7 +3946,7 @@
   },
   {
     "hash": "0128BEFE6242C218",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/foliage/foliage_vertexwind_interaction_twosided.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -3961,7 +3961,7 @@
   },
   {
     "hash": "01340CD50177DF1E",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/particle/fx_spriteparticlesva_liquid_wcolor.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -4006,7 +4006,7 @@
   },
   {
     "hash": "01CE2E1BF9C736ED",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/particle/fx_spriteparticleao_emissive_distortion.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -4016,7 +4016,7 @@
   },
   {
     "hash": "01966C0BA2B41B0C",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/basicmaterial_zmapped.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -4041,12 +4041,12 @@
   },
   {
     "hash": "01D6EAB304FFFFD1",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/rat/fx_screens_pc_rat_notification.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "016EF9C1ACB3156E",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/custom/basicmaterial_worldmapped_snow.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -4056,7 +4056,7 @@
   },
   {
     "hash": "01A91E93CA2D6516",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/particle/fx_spriteparticlesva_emissive.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -4081,7 +4081,7 @@
   },
   {
     "hash": "01BE26969999EFFB",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/basicmaterial_mirror.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -4106,7 +4106,7 @@
   },
   {
     "hash": "0119C7B82B9730D5",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_blinkinglight.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -4136,7 +4136,7 @@
   },
   {
     "hash": "014522C8E9E981AE",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/particle/fx_spriteparticlesas_explosion_smoke.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -4146,7 +4146,7 @@
   },
   {
     "hash": "019305BFAA49C67E",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/gecko/fx_gecko_oilrig_scrolling_smoke.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -4176,7 +4176,7 @@
   },
   {
     "hash": "018D65F58621836B",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/custom/umbrella_folding.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -4206,7 +4206,7 @@
   },
   {
     "hash": "014BFADDB052B95A",
-    "path": "",
+    "path": "[[assembly:/_pro/characters/materialclasses/basic_glass_refractive.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -4216,12 +4216,12 @@
   },
   {
     "hash": "019DF13902AF2571",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/decals/decal_puddle.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "01BCF352F3DBA673",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/particle/fx_spriteparticlesas_smoke_lit_fireworks.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -4241,7 +4241,7 @@
   },
   {
     "hash": "0122E986544C402D",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/procedural/rusted_metal_displace_nohardalpha.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -4251,7 +4251,7 @@
   },
   {
     "hash": "01F9462B7A513096",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_destruction_book_page.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -4311,7 +4311,7 @@
   },
   {
     "hash": "0159508D1135AF3A",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_basicmaterial_translucent_wboxrefl_cloth.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -4331,7 +4331,7 @@
   },
   {
     "hash": "0117A073BBD2F322",
-    "path": "",
+    "path": "[[assembly:/_pro/vehicles/materialclasses/vehicle_tire_melt.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -4346,22 +4346,22 @@
   },
   {
     "hash": "010E5CC84A4505EC",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/vertexblending/depthblending_2_channel_colorchanger.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "01FE8CA82D704D5B",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/decal/fx_decal_foot_print.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "013F08A0CADD621C",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_screens_labratcage_vitals.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "01505D0DC614E98D",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/foliage/custom/foliage_vertexwind_skunktrees.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -4391,7 +4391,7 @@
   },
   {
     "hash": "0132B0314C0D2511",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/particle/fx_psa_smoke_generic.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -4401,7 +4401,7 @@
   },
   {
     "hash": "013704D6A4AAEEFD",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/particle/fx_spriteparticlesas_smoke_brc.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -4421,7 +4421,7 @@
   },
   {
     "hash": "01A4B7104307A9FA",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/particle/fx_pva_fire_smoke_generic.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -4431,22 +4431,22 @@
   },
   {
     "hash": "015E6405A4E9B676",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_liquid_drink_pouring.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "016996927C11BA0D",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/custom/glass_2_material_blend_cheap.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "01142BF6C07AB5C5",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/particle/fx_spriteparticlesa_snowflakes.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "012DEBF78C1AD631",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/custom/basicmaterial_snow.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -4466,7 +4466,7 @@
   },
   {
     "hash": "01F6B4E6CA90D8C6",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/water/fx_mesh_water_general_lod.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -4476,7 +4476,7 @@
   },
   {
     "hash": "012D6D3ABC856E7F",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/backdrop/sky/sky_premultiplied.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -4506,7 +4506,7 @@
   },
   {
     "hash": "01FC49BC139F15EB",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_basicmaterial_translucent_wboxrefl_accurate.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -4516,7 +4516,7 @@
   },
   {
     "hash": "01C47A91BFA85A2B",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_fire_vehicle_mesh.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -4536,7 +4536,7 @@
   },
   {
     "hash": "013015927B9C8AE6",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/basicmaterial_glass_mirror_transparent.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -4546,7 +4546,7 @@
   },
   {
     "hash": "0141D0058CF0482B",
-    "path": "",
+    "path": "[[assembly:/_pro/items/materialclasses/weapon_firearm.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -4571,7 +4571,7 @@
   },
   {
     "hash": "01249C71D4DF29C3",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/basicmaterial_hardalpha_translucent.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -4591,7 +4591,7 @@
   },
   {
     "hash": "01CD24505249E64B",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/particle/fx_spriteparticlesva_lit.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -4606,7 +4606,7 @@
   },
   {
     "hash": "01046C8F233F3C88",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_screens_pc.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -4616,7 +4616,7 @@
   },
   {
     "hash": "01BB6A24B4B48D39",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/basicmaterial_translucent.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -4626,7 +4626,7 @@
   },
   {
     "hash": "01E9985548A36325",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/worldmapping/basicmaterial_z_worldmapped.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -4636,7 +4636,7 @@
   },
   {
     "hash": "019337D0E9E895A9",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_basicmaterial_floatingwobble_colormask.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -4656,17 +4656,17 @@
   },
   {
     "hash": "01D41B0DDC5F97A2",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_spiderweb.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "015DAA197D66BA74",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/custom/rat/decal_puddle_rainimpacts.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "017E6732967D3DF3",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_basicmaterial_glass_broken.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -4676,7 +4676,7 @@
   },
   {
     "hash": "0164C61FD73CB72B",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/particle/fx_spriteparticlesa_emissive.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -4696,7 +4696,7 @@
   },
   {
     "hash": "011BF01D27D9AEA7",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/decal/fx_decal_water_scrolling.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -4711,7 +4711,7 @@
   },
   {
     "hash": "012D67AF49C91CCD",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/backdrop/mist/mist_scrolling_cheap.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -4756,7 +4756,7 @@
   },
   {
     "hash": "01E544EA536B9221",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_liquid_container.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -4771,12 +4771,12 @@
   },
   {
     "hash": "0137576F46D7ED80",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/basicmaterial_hardalpha.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "014E24EF330FDEF7",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/basicmaterial_relief_colormask.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -4801,22 +4801,22 @@
   },
   {
     "hash": "0147B8A94A6CDB89",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/particle/fx_spriteparticlesas_mist_thick_3p.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "01F9C0C2F3540D16",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/basicmaterial_relief_hardalpha_vertexalphaheight.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "01EE9ACD596C49EB",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_basicmaterial_floatingwobble.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "01D1AB600D7D181E",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_water_sink_overflow.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -4826,7 +4826,7 @@
   },
   {
     "hash": "0112AE048246A234",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/scatter/basicmaterial_scatter_decal.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -4836,7 +4836,7 @@
   },
   {
     "hash": "01DB2F703586E7E0",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/particle/fx_psa_mist.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -4846,12 +4846,12 @@
   },
   {
     "hash": "01F76C43D04ED60E",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/particle/fx_spriteparticleao_emissive_bc4_dust.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "017EF63E5E501253",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_screens_waudioinput.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -4866,7 +4866,7 @@
   },
   {
     "hash": "01D327C24958F659",
-    "path": "",
+    "path": "[[assembly:/_pro/characters/materialclasses/basic_fabric_discard.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -4881,12 +4881,12 @@
   },
   {
     "hash": "01536557E8EE647B",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/performance/basicmaterial_colormask_constant.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "01923F3995A50735",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_basicmaterial_enginewobble.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -4896,12 +4896,12 @@
   },
   {
     "hash": "01F8E7A67836D1FF",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/decal/fx_decal_blastmark_streak_nodetail.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "01F1A11A3AB35F3B",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/basicmaterial_relief_hardalpha.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -4911,17 +4911,17 @@
   },
   {
     "hash": "019F5D167B79F01C",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/particle/fx_spriteparticleao_debris_lit.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "018D3BF071CCEC59",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/vertexblending/depthblending_3_channel_colorchanger.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "01AD0B5FFB266D32",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/basicmaterial_zmapped_hardalpha.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -4936,7 +4936,7 @@
   },
   {
     "hash": "0183979D485DF88A",
-    "path": "",
+    "path": "[[assembly:/_pro/items/materialclasses/weapon_basic_glass_refraction.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -4946,7 +4946,7 @@
   },
   {
     "hash": "016A72D56D7A4EF2",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/scatter/basicmaterial_scatter_grass.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -4966,12 +4966,12 @@
   },
   {
     "hash": "0151B7E94638A6F4",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/procedural/rusted_metal_displace_nohardalpha_lod.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "0140B971F0CB649A",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_water_smallfountain.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -4986,7 +4986,7 @@
   },
   {
     "hash": "01FC4CCF2D2FB639",
-    "path": "",
+    "path": "[[assembly:/_pro/characters/materialclasses/basic_hair.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -5001,32 +5001,32 @@
   },
   {
     "hash": "01698F4E4C6E776C",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/scenes/coastal_town_italy/depthblending_2_channel_colorchanger_roofs_relief.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "0118D68ECCA908C5",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/custom/wolverine/wolverine_basicmaterial_detail_worldcoords.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "010586C8BFA33DC7",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/particle/fx_pva_water_generic.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "010990663D7CFD16",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_basicmaterial_translucent_wboxrefl.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "01D5592F22E89D49",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/gecko/fx_gecko_cloud.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "016BDDFA3A5CDF1F",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_water_fountain_curtain.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -5041,12 +5041,12 @@
   },
   {
     "hash": "011034D76CF50540",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/foliage/foliage_vertexwind.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "01E4D15B99C7E0BA",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_emissive_distancefade_noscale.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -5056,12 +5056,12 @@
   },
   {
     "hash": "0149962F63103F90",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_emissive_distancefade_worldnoise_pixelfresnel.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "01BDD617CBEE5594",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/cloth/cloth_sheet.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -5071,7 +5071,7 @@
   },
   {
     "hash": "012F2680DA3D3664",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/foliage/foliage_vertexwind_interaction_scatter_twosided.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -5111,7 +5111,7 @@
   },
   {
     "hash": "0158A47C8B8FEE1C",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/particle/fx_spriteparticlesas_mist_brc_3p.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -5121,7 +5121,7 @@
   },
   {
     "hash": "01E5AB8376DFCFE7",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_basicmaterial_caustics.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -5146,7 +5146,7 @@
   },
   {
     "hash": "01966C5F54611013",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/scatter/basicmaterial_scatter.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -5196,12 +5196,12 @@
   },
   {
     "hash": "01D90781B88A14D9",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/procedural/rusted_metal_displace.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "01EB9285B84E6EA4",
-    "path": "",
+    "path": "[[assembly:/_pro/characters/materialclasses/basic_fabric_h3.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -5256,7 +5256,7 @@
   },
   {
     "hash": "019ED497EF175804",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/basicmaterial_relief.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -5286,12 +5286,12 @@
   },
   {
     "hash": "01E47674F14DA675",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_basicmaterial_burningwood_h3.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
     "hash": "01953A6E35B1916D",
-    "path": "",
+    "path": "[[assembly:/_pro/environment/materialclasses/custom/icecubes_premult.materialclass].fx].mate",
     "gameFlags": 1
   },
   {
@@ -5306,7 +5306,7 @@
   },
   {
     "hash": "01C8AA475D8612B6",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_soft_snow.materialclass].fx].mate",
     "gameFlags": 1
   },
   {

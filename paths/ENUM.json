@@ -2,32 +2,38 @@
   {
     "hash": "01C646FF1C4FB675",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "dialogexodamien"
   },
   {
     "hash": "016B9F7E5DF3C8BC",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "missionselect"
   },
   {
     "hash": "01E9771F3E9F0F7A",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "resourcetype"
   },
   {
     "hash": "01E030E25AAD58A3",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "texttospeechitemtype"
   },
   {
     "hash": "018F5AD0D7B586D8",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "acttalkpose"
   },
   {
     "hash": "01DFDF6DE2CDAA40",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "qtepromptspatialconfigtype"
   },
   {
     "hash": "0123826420A4AE77",
@@ -37,12 +43,14 @@
   {
     "hash": "01A5A852360EBE94",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "menutype"
   },
   {
     "hash": "01C3F8BA9E1E80B0",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "gameplaytags"
   },
   {
     "hash": "01A6AA2C36DF19FC",
@@ -52,42 +60,49 @@
   {
     "hash": "01A47BAF4DC551D0",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "shotgun"
   },
   {
     "hash": "01321B2B6FB9986B",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "approachtypes"
   },
   {
     "hash": "01BD3406CD67F2D5",
-    "path": "",
+    "path": "[assembly:/_knt/design/disguises/tempdisguisetype.enumtype].enumtype",
     "gameFlags": 1
   },
   {
     "hash": "015B4E73EE5EC963",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "subtitlechannel"
   },
   {
     "hash": "01F6E927AFB27B2B",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "uicustomoptions"
   },
   {
     "hash": "01F14C574D8291DA",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "subtitletype"
   },
   {
     "hash": "0116EC73DD6B645F",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "gamechangericontype"
   },
   {
     "hash": "01AFBA6687392451",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "npcperceptionsensitivity"
   },
   {
     "hash": "0196F942B6C21526",
@@ -97,17 +112,20 @@
   {
     "hash": "01572936714DD981",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "difficultyparameters"
   },
   {
     "hash": "018291F87582EA3F",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "cosmeticitem"
   },
   {
     "hash": "016EBDAFFB036561",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "fidgeteventsenum"
   },
   {
     "hash": "018511E157F0EE9B",
@@ -122,17 +140,20 @@
   {
     "hash": "01DBFF59DB361132",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "ai_template"
   },
   {
     "hash": "0175EE99C8AFEA67",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "cameratags"
   },
   {
     "hash": "01A8D118FC349573",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "accessibilityglowmode"
   },
   {
     "hash": "01FA1FD9BE3EC097",
@@ -142,7 +163,8 @@
   {
     "hash": "010F4C4842E3C5F2",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "controltreeslots"
   },
   {
     "hash": "01E220400E7B043E",
@@ -161,23 +183,24 @@
   },
   {
     "hash": "01A841A462A83DC8",
-    "path": "",
+    "path": "[assembly:/_knt/ai/geotags_hazards.enumtype].enumtype",
     "gameFlags": 1
   },
   {
     "hash": "0124204238C886A4",
-    "path": "",
+    "path": "[assembly:/_knt/design/disguises/disguisetype.enumtype].enumtype",
     "gameFlags": 1
   },
   {
     "hash": "01DC7926B9B3DEC9",
-    "path": "",
+    "path": "[assembly:/_knt/_test/level_design/enum_metadata_status.enumtype].enumtype",
     "gameFlags": 1
   },
   {
     "hash": "014195EA06D430DE",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "actupperbody"
   },
   {
     "hash": "014AEC983175AFA9",
@@ -187,42 +210,47 @@
   {
     "hash": "01D0B9A7591232D8",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "licence_plate_states"
   },
   {
     "hash": "017AABDBBB630694",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "tutorials_enum"
   },
   {
     "hash": "0175718CAD04555B",
-    "path": "",
+    "path": "[assembly:/_knt/_test/antonina/genericanimationdrivenactionenum.enumtype].enumtype",
     "gameFlags": 1
   },
   {
     "hash": "01B325B10B233D5E",
-    "path": "",
+    "path": "[assembly:/_knt/design/setpieces/door_types.enumtype].enumtype",
     "gameFlags": 1
   },
   {
     "hash": "01D9F6F51DCFD02A",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "notificationtype"
   },
   {
     "hash": "01AFA8E68DBE6361",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "audiomixuioptions"
   },
   {
     "hash": "01212CD5DA2BB7E4",
-    "path": "",
+    "path": "[assembly:/_knt/ai/geotags_areas.enumtype].enumtype",
     "gameFlags": 1
   },
   {
     "hash": "013B5C77AE6C22E7",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "subtitlepriority"
   },
   {
     "hash": "0172FFFB9893EB05",
@@ -232,22 +260,26 @@
   {
     "hash": "019D7612939E2390",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "qtelabelalignment"
   },
   {
     "hash": "0186A3527E7E3C2E",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "genericanimdrivenactiontype"
   },
   {
     "hash": "0137E0276EE11B9D",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "enum_dahlia_npc_act_types"
   },
   {
     "hash": "01E1FEBCAD184AC9",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "lva_type"
   },
   {
     "hash": "01D57067F102EB96",
@@ -257,32 +289,37 @@
   {
     "hash": "012C6ADB47037C7C",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "genericanimdrivenactioncategory"
   },
   {
     "hash": "01B7DFE60E4E291E",
-    "path": "",
+    "path": "[assembly:/_knt/design/inspects/crouchinspectacttype.enumtype].enumtype",
     "gameFlags": 1
   },
   {
     "hash": "01EBEB523A8CE3C1",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "handgunclass"
   },
   {
     "hash": "012384B1061EB6B8",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "hudgroup"
   },
   {
     "hash": "01FA1E5B62D83EE7",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "materialdescriptortags"
   },
   {
     "hash": "01EA2A1502E0E9AB",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "difficultylevels"
   },
   {
     "hash": "01B8BCE2693596F9",
@@ -292,17 +329,20 @@
   {
     "hash": "0156CF2B53321278",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "mixerroles"
   },
   {
     "hash": "0160D7D8A83C381B",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "assaultrifle"
   },
   {
     "hash": "014CC752F32650C8",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "actpropattachers"
   },
   {
     "hash": "01E5D3E8CD509CAF",
@@ -316,23 +356,26 @@
   },
   {
     "hash": "01165F73BCA228B7",
-    "path": "",
+    "path": "[assembly:/_knt/design/inspects/inspectacttype.enumtype].enumtype",
     "gameFlags": 1
   },
   {
     "hash": "01F0214CB1D5999E",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "bossreactiontype"
   },
   {
     "hash": "013957FBFAADC6C5",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "locomotionstate"
   },
   {
     "hash": "018E58A583703E4D",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "npc_archetype"
   },
   {
     "hash": "016E4B662F74A603",
@@ -342,47 +385,55 @@
   {
     "hash": "016411FBB9532AEA",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "gameeventtypes"
   },
   {
     "hash": "01D3653D88AB806E",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "genericanimdrivenaction_interacts"
   },
   {
     "hash": "01A0AE8548A00688",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "server_states_enum"
   },
   {
     "hash": "0135481EC61273F3",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "notificationgroup"
   },
   {
     "hash": "015B71555E0206E8",
-    "path": "",
+    "path": "[assembly:/_knt/design/setpieces/vent_exittypes.enumtype].enumtype",
     "gameFlags": 1
   },
   {
     "hash": "01CE40D0C68C8768",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "theiacoreentranceenums"
   },
   {
     "hash": "01412BCC3EEEC8EC",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "enum_rose_introdrive_vo_ids"
   },
   {
     "hash": "013639F81FFFC6CC",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "enum_lotus_npc_act_types"
   },
   {
     "hash": "01223A50F78AF618",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "bond_outfit_variations"
   },
   {
     "hash": "01FF705E4A79BA3B",
@@ -392,7 +443,8 @@
   {
     "hash": "01CBBB7483652E3B",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "enum_ruby_elevator_floors"
   },
   {
     "hash": "016523F5BC2AEFD3",
@@ -401,13 +453,14 @@
   },
   {
     "hash": "017B2A862213B274",
-    "path": "",
+    "path": "[assembly:/_knt/ai/geotags_landmarks.enumtype].enumtype",
     "gameFlags": 1
   },
   {
     "hash": "01439D9F637BA066",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "gadgetclass"
   },
   {
     "hash": "016200F1D9DF6CE4",
@@ -417,6 +470,7 @@
   {
     "hash": "0123C3A2ED5C7ABF",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "subtitlesourceindicator"
   }
 ]

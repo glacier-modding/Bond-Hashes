@@ -7111,9 +7111,8 @@
   },
   {
     "hash": "01C9C653D809FAB1",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "resume_all_gameplay"
+    "path": "[assembly:/_knt/sound/wwise/exported/events/global_events/resume_all_gameplay.wwiseevent].wwisebank",
+    "gameFlags": 1
   },
   {
     "hash": "01AF4B7454309C6E",
@@ -12491,9 +12490,8 @@
   },
   {
     "hash": "0112FD626C5149FE",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "fly_wep_npc_firearms_foley"
+    "path": "[assembly:/_knt/sound/wwise/exported/events/foley/fly_wep_npc_firearms_foley.wwiseevent].wwisebank",
+    "gameFlags": 1
   },
   {
     "hash": "0197D5CA378FF9A4",
@@ -18323,9 +18321,8 @@
   },
   {
     "hash": "01DCB11101511FD9",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "pauseall_gameplay_envpass"
+    "path": "[assembly:/_knt/sound/wwise/exported/events/global_events/pauseall_gameplay_envpass.wwiseevent].wwisebank",
+    "gameFlags": 1
   },
   {
     "hash": "016EB8410BCAFEB2",
@@ -19785,9 +19782,8 @@
   },
   {
     "hash": "018C3DC4AA712539",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "fly_wep_player_firearms_foley"
+    "path": "[assembly:/_knt/sound/wwise/exported/events/foley/fly_wep_player_firearms_foley.wwiseevent].wwisebank",
+    "gameFlags": 1
   },
   {
     "hash": "0182D069901CBC8C",
@@ -39676,9 +39672,8 @@
   },
   {
     "hash": "013928C397C417F9",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "pauseall_gameplay"
+    "path": "[assembly:/_knt/sound/wwise/exported/events/global_events/pauseall_gameplay.wwiseevent].wwisebank",
+    "gameFlags": 1
   },
   {
     "hash": "016BBED155CE6F9B",

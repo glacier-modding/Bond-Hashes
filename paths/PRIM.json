@@ -26,7 +26,7 @@
   },
   {
     "hash": "017D7CA6DB93BFCB",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/parts_average/apparel/handwear/gloves_tactical/geometry_deformation/gloves_tactical/gloves_tactical.gar?/gloves_tactical.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -3011,7 +3011,7 @@
   },
   {
     "hash": "01B18AE6F45713ED",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/parts_average/kits/lotus/kit_lotus_trainees/jacket_windbreaker_lotus_kit/geometry_deformation/jacket_windbreaker_lotus_kit/jacket_windbreaker_lotus_kit.gar?/jacket_windbreaker_lotus_kit.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -4261,7 +4261,7 @@
   },
   {
     "hash": "01E1EFBEE3F60832",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/individuals/lotus/singh/head/geometry_deformation/head_singh/head_singh.gar?/head_singh.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -5686,7 +5686,7 @@
   },
   {
     "hash": "0156CA77A478C0F4",
-    "path": "",
+    "path": "[assembly:/_knt/effects/geometry/misc/fx_liquid_splash_meshflipbook.wl2?/fluid_b.prim].prim",
     "gameFlags": 1
   },
   {
@@ -6981,7 +6981,7 @@
   },
   {
     "hash": "01804AD3C8A3BFA6",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/individuals/dahlia/ringmaster/heads/geometry_deformation/head_ringmaster/head_ringmaster.gar?/head_ringmaster.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -7736,7 +7736,7 @@
   },
   {
     "hash": "011C4D142FEB68AB",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/kits/rose/rose_exterior_rampart_kit_a.wl2?/rose_ext_castle_balustrade_4x1_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -9131,7 +9131,7 @@
   },
   {
     "hash": "010A061BCB80EEA3",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/electronics/keypad_generic_a.wl2?/keypad_generic_a_button_k.prim].prim",
     "gameFlags": 1
   },
   {
@@ -10126,7 +10126,7 @@
   },
   {
     "hash": "01B88E0E6F0BF71C",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/foliage/seaweed_a.wl2?/seaweed_q.prim].prim",
     "gameFlags": 1
   },
   {
@@ -10621,7 +10621,7 @@
   },
   {
     "hash": "01222FE52E838357",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/cloths/outwear_cloth_hanging.wl2?/outwear_cloth_hanging_n.prim].prim",
     "gameFlags": 1
   },
   {
@@ -10706,7 +10706,7 @@
   },
   {
     "hash": "010204851473C8F2",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/electronics/keypad_generic_a.wl2?/keypad_generic_a_button_j.prim].prim",
     "gameFlags": 1
   },
   {
@@ -11326,7 +11326,7 @@
   },
   {
     "hash": "015B0760F539CB19",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/fem_reg/individuals/_maincast/isola/kits/kit_rose_maid/geometry_deformation/kit_rose_maid/kit_rose_maid.gar?/maiddress_kit.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -11466,7 +11466,7 @@
   },
   {
     "hash": "01BC2E47BBA97EA9",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/fem_reg/parts_average/kits/pepper/kit_pepper_bartender/geometry_deformation/kit_pepper_bartender/kit_pepper_bartender.gar?/apron_kit_pepper_bartender.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -12406,7 +12406,7 @@
   },
   {
     "hash": "012E26A01585370A",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/fem_reg/parts_average/apparel/waistwear/waistband_bow/geometry_deformation/waistband_bow/waistband_bow.gar?/waistband_bow_back.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -13316,7 +13316,7 @@
   },
   {
     "hash": "016CCB618EE61951",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/parts_average/apparel/upperbody/l01/cardigan_vneck_closed_btmopen/geometry_deformation/cardigan_vneck_closed_btmopen/cardigan_vneck_closed_btmopen.gar?/cardigan_vneck_closed_btmopen_shirt_open.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -16076,7 +16076,7 @@
   },
   {
     "hash": "014831259487F03D",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/fem_reg/parts_average/apparel/lowerbody/pants_jeans_slim/geometry_deformation/pants_jeans_slim/pants_jeans_slim.gar?/pants_jeans_slim.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -16856,7 +16856,7 @@
   },
   {
     "hash": "01CDDCB1C1924DD6",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/cloths/outwear_cloth_hanging.wl2?/outwear_cloth_hanging_k.prim].prim",
     "gameFlags": 1
   },
   {
@@ -21171,7 +21171,7 @@
   },
   {
     "hash": "01E4135C1EC99232",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/fem_reg/individuals/_maincast/ponsonby/hairs/hair_updo_frenchtwist/geometry_deformation/hair_updo_frenchtwist/hair_updo_frenchtwist.gar?/hair_updo_frenchtwist.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -21516,7 +21516,7 @@
   },
   {
     "hash": "01164298F6750A78",
-    "path": "",
+    "path": "[assembly:/_knt/vehicles/geometry/aircraft/cargo_plane_cinematic_b.wl2?/cargo_plane_cinematic_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -21876,7 +21876,7 @@
   },
   {
     "hash": "013E4A1558E54664",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/fem_reg/parts_average/apparel/upperbody/l01/shirt_dress_2btnopen_rldslv_tkd/geometry_deformation/shirt_dress_2btnopen_rldslv_tkd/shirt_dress_2btnopen_rldslv_tkd.gar?/shirt_dress_2btnopen_rldslv_tkd.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -22386,7 +22386,7 @@
   },
   {
     "hash": "01F2B570740AB3DF",
-    "path": "",
+    "path": "[assembly:/_knt/items/geometry/firearms/smg_silenced_a/smg_silenced_a.wl2?/smg_silenced_a.linkedprim].linkedprim",
     "gameFlags": 1
   },
   {
@@ -22761,7 +22761,7 @@
   },
   {
     "hash": "013AF2674047F3FF",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/fem_reg/parts_average/hair/hair_high_ponytail/geometry_deformation/hair_high_ponytail/hair_high_ponytail.gar?/hair_high_ponytail.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -24246,7 +24246,7 @@
   },
   {
     "hash": "017D5F5C22C4B50A",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/cloths/outwear_cloth_hanging.wl2?/outwear_cloth_hanging_i.prim].prim",
     "gameFlags": 1
   },
   {
@@ -24281,7 +24281,7 @@
   },
   {
     "hash": "01F8480E84046229",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/cloths/outwear_cloth_hanging.wl2?/outwear_cloth_hanging_b.prim].prim",
     "gameFlags": 1
   },
   {
@@ -24951,7 +24951,7 @@
   },
   {
     "hash": "01FA0D119DA763CD",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/parts_muscular/kits/orchid/kit_orchid_brute_damienmercs_tactical/geometry_deformation/kit_orchid_brute_damienmercs_tactical/kit_orchid_brute_damienmercs_tactical.gar?/shirt_kit_orchid_brute_damienmercs_tactical.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -25546,7 +25546,7 @@
   },
   {
     "hash": "0163DBCFA327F32A",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/fem_reg/individuals/_maincast/isola/body/geometry_deformation/body_isola/body_isola.gar?/arms_hand_isola.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -27026,7 +27026,7 @@
   },
   {
     "hash": "010BE9181B85C0B7",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/foliage/seaweed_a.wl2?/seaweed_p.prim].prim",
     "gameFlags": 1
   },
   {
@@ -28421,7 +28421,7 @@
   },
   {
     "hash": "015B734D93D7411F",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/parts_average/hair/hair_s_topvolume/geometry_deformation/hair_s_topvolume/hair_s_topvolume.gar?/hair_s_topvolume.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -29971,7 +29971,7 @@
   },
   {
     "hash": "01E9B6A34B072654",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/vehicles/land_rover_defender_110_a/land_rover_defender_110_a.wl2?/land_rover_defender_110_door_right_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -31686,7 +31686,7 @@
   },
   {
     "hash": "018DBF559F9D834F",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/cloths/outwear_cloth_hanging.wl2?/outwear_cloth_hanging_h.prim].prim",
     "gameFlags": 1
   },
   {
@@ -32381,7 +32381,7 @@
   },
   {
     "hash": "01F85065690532DF",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/fem_reg/parts_average/apparel/footwear/shoes_noheel_sneaker_basket_low/geometry_deformation/shoes_noheel_sneaker_basket_low/shoes_noheel_sneaker_basket_low.gar?/shoes_noheel_sneaker_basket_low.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -32721,7 +32721,7 @@
   },
   {
     "hash": "018DFC01C6DFEB84",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/parts_average/apparel/upperbody/l01/shirt_dress_2btnopen_tkd/geometry_deformation/shirt_dress_2btnopen_tkd/shirt_dress_2btnopen_tkd.gar?/shirt_dress_2btnopen_tkd_cut_jacket_closed_nocuff.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -33601,7 +33601,7 @@
   },
   {
     "hash": "018BEF077C11B874",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/setpieces/clover/clover_mi6_container_door/clover_mi6_container_door.wl2?/clover_mi6_container_door.linkedprim].linkedprim",
     "gameFlags": 1
   },
   {
@@ -33736,7 +33736,7 @@
   },
   {
     "hash": "01A11390003316AE",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/fem_reg/individuals/_maincast/isola/kits/kit_orchid_diving/geometry_deformation/kit_orchid_diving/kit_orchid_diving.gar?/divingfins_kit_orchid.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -35256,7 +35256,7 @@
   },
   {
     "hash": "018E7999B99D3D1D",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/parts_average/hair/hair_fringe/geometry_deformation/hair_fringe/hair_fringe.gar?/hair_fringe.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -35471,7 +35471,7 @@
   },
   {
     "hash": "013556DA1F138A5C",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/parts_average/heads/head_young_indian_01/geometry_deformation/head_young_indian_01/head_young_indian_01.gar?/head_young_indian_01.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -35726,7 +35726,7 @@
   },
   {
     "hash": "0131C567DABFD194",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/fem_reg/parts_average/apparel/lowerbody/pantyhose/geometry_deformation/pantyhose/pantyhose.gar?/pantyhose_toeless.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -36626,7 +36626,7 @@
   },
   {
     "hash": "01DF0CAA86D52EAE",
-    "path": "",
+    "path": "[assembly:/_knt/effects/geometry/misc/fx_laser_a.wl2?/fx_laser_scope_flare_c.prim].prim",
     "gameFlags": 1
   },
   {
@@ -36886,7 +36886,7 @@
   },
   {
     "hash": "01E4221364155197",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/cloths/outwear_cloth_hanging.wl2?/outwear_cloth_hanging_o.prim].prim",
     "gameFlags": 1
   },
   {
@@ -38411,7 +38411,7 @@
   },
   {
     "hash": "01DF9DB871BCC4D6",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/fem_reg/parts_average/apparel/lowerbody/pants_dress_slim/geometry_deformation/pants_dress_slim/pants_dress_slim.gar?/pants_dress_slim.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -38566,7 +38566,7 @@
   },
   {
     "hash": "01584D692B418D74",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/kits/ships/yacht_superstructure_a.wl2?/a_int_wall_2x4_window_d_frame.prim].prim",
     "gameFlags": 1
   },
   {
@@ -40426,7 +40426,7 @@
   },
   {
     "hash": "01EEC77D5C46DF7A",
-    "path": "",
+    "path": "[assembly:/_knt/items/geometry/firearms/ar_burst_a/ar_burst_a.wl2?/ar_burst_a.linkedprim].linkedprim",
     "gameFlags": 1
   },
   {
@@ -42161,7 +42161,7 @@
   },
   {
     "hash": "018CB6D11CB78009",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/fem_reg/parts_average/apparel/upperbody/l01/sweater_turtleneck_tkd/geometry_deformation/sweater_turtleneck_tkd/sweater_turtleneck_tkd.gar?/sweater_turtleneck_tkd.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -42631,7 +42631,7 @@
   },
   {
     "hash": "0128539767802FD7",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/individuals/magnolia/receptionist/head/geometry_deformation/head_magnolia_receptionist/head_magnolia_receptionist.gar?/head_magnolia_receptionist.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -42891,7 +42891,7 @@
   },
   {
     "hash": "01877272CBDFA4B0",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/individuals/_maincast/twin_b/hair/hair_s_slickback/geometry_deformation/hair_s_slickback/hair_s_slickback.gar?/hair_s_slickback.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -43081,7 +43081,7 @@
   },
   {
     "hash": "013B049A8CD12FB0",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/parts_average/beard/moustache_walrus/head_mid_caucasian_05/geometry_deformation/moustache_walrus_mid_caucasian_05/moustache_walrus_mid_caucasian_05.gar?/moustache_walrus_mid_caucasian_05.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -43396,7 +43396,7 @@
   },
   {
     "hash": "017AF9492B9F04AD",
-    "path": "",
+    "path": "[assembly:/_knt/vehicles/geometry/garbage_truck_a/garbage_truck_a.wl2?/garbage_truck_c_wheel_rear_right_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -43611,7 +43611,7 @@
   },
   {
     "hash": "011A3817728900AD",
-    "path": "",
+    "path": "[assembly:/_knt/vehicles/geometry/wheels_a.wl2?/luxury_wheel_d.prim].prim",
     "gameFlags": 1
   },
   {
@@ -44011,7 +44011,7 @@
   },
   {
     "hash": "01B5035F0CA1BC1C",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/electronics/keypad_generic_a.wl2?/keypad_generic_a_button_i.prim].prim",
     "gameFlags": 1
   },
   {
@@ -46146,7 +46146,7 @@
   },
   {
     "hash": "01C18AB95AE9EF69",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/fem_reg/individuals/_maincast/isola/kits/kit_buttercup_bikini/geometry_deformation/kit_buttercup_bikini/kit_buttercup_bikini.gar?/bikini_kit_buttercup.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -46161,7 +46161,7 @@
   },
   {
     "hash": "0101A2F45BE1C8B0",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/fem_reg/individuals/_maincast/cressidabright/hairs/hair_mid_straight_layer_rose/geometry_deformation/hair_straight_mid_layer_rose/hair_straight_mid_layer_rose.gar?/hair_staight_mid_layer_rose.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -46801,7 +46801,7 @@
   },
   {
     "hash": "01E4B66EF616C6E5",
-    "path": "",
+    "path": "[assembly:/_knt/items/geometry/firearms/smg_military_a_nonelethal_a/smg_military_a_nonelethal_a.wl2?/smg_military_a_nonelethal_a.linkedprim].linkedprim",
     "gameFlags": 1
   },
   {
@@ -49581,7 +49581,7 @@
   },
   {
     "hash": "01995DB19F5FF999",
-    "path": "",
+    "path": "[assembly:/_knt/vehicles/geometry/wheels_a.wl2?/generic_wheel_f.prim].prim",
     "gameFlags": 1
   },
   {
@@ -49846,7 +49846,7 @@
   },
   {
     "hash": "01FBBD21B8541588",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/parts_average/apparel/footwear/sandals_slide/geometry_deformation/sandals_slide/sandals_slide.gar?/sandals_slide.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -49921,7 +49921,7 @@
   },
   {
     "hash": "0105EA40147AA4A3",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/parts_average/heads/head_mid_hispanic_02/geometry_deformation/head_mid_hispanic_02/head_mid_hispanic_02.gar?/head_mid_hispanic_02.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -50746,7 +50746,7 @@
   },
   {
     "hash": "01EA7E8AC3523C0A",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/parts_average/heads/head_young_african_01/geometry_deformation/head_young_african_01/head_young_african_01.gar?/head_young_african_01.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -51406,7 +51406,7 @@
   },
   {
     "hash": "01C642241366824C",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/cloths/outwear_cloth_hanging.wl2?/outwear_cloth_hanging_c.prim].prim",
     "gameFlags": 1
   },
   {
@@ -52846,7 +52846,7 @@
   },
   {
     "hash": "01F203FF7326AE1A",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/parts_average/heads/head_young_hispanic_01/geometry_deformation/head_young_hispanic_01/head_young_hispanic_01.gar?/head_young_hispanic_01.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -53956,7 +53956,7 @@
   },
   {
     "hash": "011EA3FBEE79C609",
-    "path": "",
+    "path": "[assembly:/_knt/effects/geometry/misc/fx_liquid_splash_meshflipbook.wl2?/fluid_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -54641,7 +54641,7 @@
   },
   {
     "hash": "0145814648DA9B77",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/equipment/throwable_iron_a.wl2?/throwable_iron_a.weightedprim].weightedprim",
     "gameFlags": 1
   },
   {
@@ -55311,7 +55311,7 @@
   },
   {
     "hash": "01309E0A615219FB",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/fem_reg/parts_average/apparel/fullbody/dress_ankle_slim_spaghetti/geometry_deformation/dress_ankle_slim_spaghetti/dress_ankle_slim_spaghetti.gar?/dress_ankle_slim_spaghetti.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -56116,7 +56116,7 @@
   },
   {
     "hash": "017F3B1A3571DB1D",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/fem_reg/parts_average/apparel/upperbody/l02/coat_trench_closed/geometry_deformation/coat_trench_closed/coat_trench_closed.gar?/coat_trench_closed.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -57591,7 +57591,7 @@
   },
   {
     "hash": "016ACC4D44AE9BA4",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/fem_reg/parts_average/apparel/upperbody/l01/shirt_dress_closed_tkd/geometry_deformation/shirt_dress_closed_tkd/shirt_dress_closed_tkd.gar?/shirt_dress_closed_tkd_cut_jacket_closed.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -61521,7 +61521,7 @@
   },
   {
     "hash": "01D1C6124980C568",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/individuals/_maincast/bond/kits/kit_onduty/geometry_deformation/kit_onduty/kit_onduty.gar?/turtleneck_kit_onduty.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -61951,7 +61951,7 @@
   },
   {
     "hash": "01C81E5DEFC0DCC7",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/collectibles/collectible_sattelite_part_a.wl2?/collectible_sattelite_part_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -62296,7 +62296,7 @@
   },
   {
     "hash": "01BA265DF0926162",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/individuals/lotus/boyfriend/heads/geometry_deformation/head_boyfriend/head_boyfriend.gar?/head_boyfriend.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -64016,7 +64016,7 @@
   },
   {
     "hash": "01FE39EFB2CF1382",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/parts_average/kits/global/kit_global_specialist_damianmercs_suited/geometry_deformation/kit_global_specialist_damianmercs_suited/kit_global_specialist_damianmercs_suited.gar?/jacket_trenchcoat_open.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -64266,7 +64266,7 @@
   },
   {
     "hash": "01CD151BB4B156B1",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/parts_average/apparel/upperbody/l02/coat_wool_open/geometry_deformation/coat_wool_open/coat_wool_open.gar?/coat_wool_open.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -65501,7 +65501,7 @@
   },
   {
     "hash": "01EECE1938C5D8B3",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/parts_average/apparel/footwear/boots_chelsea/geometry_deformation/boots_chelsea/boots_chelsea.gar?/boots_chelsea.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -65921,7 +65921,7 @@
   },
   {
     "hash": "01B7B6070F0EDBEB",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/electronics/keypad_generic_a.wl2?/keypad_generic_a_button_h.prim].prim",
     "gameFlags": 1
   },
   {
@@ -66306,7 +66306,7 @@
   },
   {
     "hash": "01DEEE5FBE0701B5",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/vehicles/land_rover_defender_110_a/land_rover_defender_110_a.wl2?/land_rover_defender_110_wheel_right_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -66776,7 +66776,7 @@
   },
   {
     "hash": "016339A45BE9C7A0",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/cloths/outwear_cloth_hanging.wl2?/outwear_cloth_hanging_e.prim].prim",
     "gameFlags": 1
   },
   {
@@ -66851,7 +66851,7 @@
   },
   {
     "hash": "014A425D9CDA59B3",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/individuals/lotus/robertnash/head/geometry_deformation/head_robertnash/head_robertnash.gar?/head_robertnash.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -68581,7 +68581,7 @@
   },
   {
     "hash": "010E972BC5471229",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/parts_average/apparel/upperbody/l01/shirt_dress_closed_tkd/geometry_deformation/shirt_dress_closed_tkd/shirt_dress_closed_tkd.gar?/shirt_dress_closed_tkd_cut_jacket_open.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -68971,7 +68971,7 @@
   },
   {
     "hash": "017C677F89E12770",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/individuals/_maincast/bond/kits/kit_orchid/geometry_deformation/kit_orchid/kit_orchid.gar?/wrist_kit_orchid.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -71156,7 +71156,7 @@
   },
   {
     "hash": "0131A8DB244FF93B",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/fem_reg/parts_average/apparel/upperbody/l02/jacket_suit_doublebreasted_closed/geometry_deformation/jacket_suit_doublebreasted_closed/jacket_suit_doublebreasted_closed.gar?/jacket_suit_doublebreasted_closed.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -71751,7 +71751,7 @@
   },
   {
     "hash": "01A3D6E579CEBFA7",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/parts_average/apparel/lowerbody/pants_chinos_straight/geometry_deformation/pants_chinos_straight/pants_chinos_straight.gar?/pants_chinos_straight_belted.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -73226,7 +73226,7 @@
   },
   {
     "hash": "01B7C785996976EC",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/individuals/clover/antidote/kit/geometry_deformation/kit_clover_antidote/kit_clover_antidote.gar?/mask_balaclava_1hole_kit_antidote.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -73346,7 +73346,7 @@
   },
   {
     "hash": "0101BB894C6EC213",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/cloths/outwear_cloth_hanging.wl2?/outwear_cloth_hanging_d.prim].prim",
     "gameFlags": 1
   },
   {
@@ -75536,7 +75536,7 @@
   },
   {
     "hash": "0107C3F681527724",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/parts_average/apparel/upperbody/l01/shirt_dress_2btnopen_tkd/geometry_deformation/shirt_dress_2btnopen_tkd/shirt_dress_2btnopen_tkd.gar?/shirt_dress_2btnopen_tkd.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -75601,7 +75601,7 @@
   },
   {
     "hash": "01E825225681003A",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/fem_reg/parts_average/apparel/upperbody/l01/sweater_turtleneck_tkd/geometry_deformation/sweater_turtleneck_tkd/sweater_turtleneck_tkd.gar?/sweater_turtleneck_tkd_cut_jacket_open.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -76901,7 +76901,7 @@
   },
   {
     "hash": "01968068E9AF102B",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/setpieces/briefcase_qglasses_a/geometry_deformation/briefcase_qglasses_a.wl2?/briefcase_qglasses_a.linkedprim].linkedprim",
     "gameFlags": 1
   },
   {
@@ -78486,7 +78486,7 @@
   },
   {
     "hash": "01B9A89448B4D126",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/fem_reg/individuals/_maincast/isola/kits/kit_rose_maid/geometry_deformation/kit_rose_maid/kit_rose_maid.gar?/maiddress_carchase_kit.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -80091,7 +80091,7 @@
   },
   {
     "hash": "01F5D45590C76B43",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/parts_average/apparel/upperbody/l01/sweater_turtleneck_pshdslv/geometry_deformation/sweater_turtleneck_pshdslv/sweater_turtleneck_pshdslv.gar?/sweater_turtleneck_pshdslv.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -81146,7 +81146,7 @@
   },
   {
     "hash": "0139B4A1B3F04D67",
-    "path": "",
+    "path": "[assembly:/_knt/vehicles/geometry/aircraft/cargo_plane_cinematic_b.wl2?/cargo_plane_cinematic_gate_lower_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -81551,7 +81551,7 @@
   },
   {
     "hash": "01344E49C20B2199",
-    "path": "",
+    "path": "[assembly:/_knt/vehicles/geometry/wheels_a.wl2?/generic_wheel_e.prim].prim",
     "gameFlags": 1
   },
   {
@@ -82551,7 +82551,7 @@
   },
   {
     "hash": "018A46028486FA6B",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/foliage/seaweed_a.wl2?/seaweed_r.prim].prim",
     "gameFlags": 1
   },
   {
@@ -83066,7 +83066,7 @@
   },
   {
     "hash": "01225B794D567990",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/kits/bluebell/webbhq_int_perch_server_centre_kit_a.wl2?/a_perch_int_glass_b.prim].prim",
     "gameFlags": 1
   },
   {
@@ -83536,7 +83536,7 @@
   },
   {
     "hash": "0189252F795593E7",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/cloths/outwear_cloth_hanging.wl2?/outwear_cloth_hanging_p.prim].prim",
     "gameFlags": 1
   },
   {
@@ -83606,7 +83606,7 @@
   },
   {
     "hash": "01BA4F21B1DCC202",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/parts_average/kits/pepper/kit_pepper_grunt_webb_suited/geometry_deformation/kit_pepper_grunt_webb_suited/kit_pepper_grunt_webb_suited.gar?/jacket_kit_pepper_grunt_webb_suited.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -86501,7 +86501,7 @@
   },
   {
     "hash": "01232245E53CF38F",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/fem_reg/parts_average/kits/pepper/kit_pepper_bartender/geometry_deformation/kit_pepper_bartender/kit_pepper_bartender.gar?/shirt_kit_pepper_bartender.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -88021,7 +88021,7 @@
   },
   {
     "hash": "01D21125817CE0C7",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/fem_reg/parts_average/apparel/neckwear/necklace_diamond/geometry_development/necklace_diamond/necklace_diamond.gar?/necklace_diamond.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -89276,7 +89276,7 @@
   },
   {
     "hash": "01FF5CCE6C21629E",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/parts_average/apparel/upperbody/l01/cardigan_vneck_closed_btmopen/geometry_deformation/cardigan_vneck_closed_btmopen/cardigan_vneck_closed_btmopen.gar?/cardigan_vneck_closed_btmopen_tshirt.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -89301,7 +89301,7 @@
   },
   {
     "hash": "01E9ED764098067D",
-    "path": "",
+    "path": "[assembly:/_knt/items/geometry/firearms/ar_military_a/ar_military_flashlight.wl2?/ar_military_flashlight.linkedprim].linkedprim",
     "gameFlags": 1
   },
   {
@@ -90466,7 +90466,7 @@
   },
   {
     "hash": "01A9C1820AD40540",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/cloths/outwear_cloth_hanging.wl2?/outwear_cloth_hanging_l.prim].prim",
     "gameFlags": 1
   },
   {
@@ -90721,7 +90721,7 @@
   },
   {
     "hash": "011EE84795A8FF34",
-    "path": "",
+    "path": "[assembly:/_knt/effects/geometry/misc/fx_laser_a.wl2?/fx_laser_scope_flare_b.prim].prim",
     "gameFlags": 1
   },
   {
@@ -91886,7 +91886,7 @@
   },
   {
     "hash": "01A9CDD42516E343",
-    "path": "",
+    "path": "[assembly:/_knt/environment/terrain/missions/magnolia/terrain_spline_decals/generated/fbx_output/piece_26_13.prim.fbx].prim",
     "gameFlags": 1
   },
   {
@@ -91901,7 +91901,7 @@
   },
   {
     "hash": "019467C46B3D14EB",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/individuals/_maincast/gaius/kits/kit_pepper_blazer/geometry_deformation/kit_pepper_blazer/kit_pepper_blazer.gar?/shoes_kit_pepper_blazer.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -92621,7 +92621,7 @@
   },
   {
     "hash": "01AB8BE899BE4DCA",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/fem_reg/parts_average/apparel/upperbody/l01/shirt_dress_closed_tkd/geometry_deformation/shirt_dress_closed_tkd/shirt_dress_closed_tkd.gar?/shirt_dress_closed_tkd_cut_jacket_open.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -98641,7 +98641,7 @@
   },
   {
     "hash": "0141093EF5C2F5AB",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/fem_reg/parts_average/apparel/neckwear/tie_simple/geometry_deformation/tie_simple/tie_simple.gar?/tie_simple.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -98736,7 +98736,7 @@
   },
   {
     "hash": "01E84F993A461142",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/electronics/keypad_generic_a.wl2?/keypad_generic_a_button_e.prim].prim",
     "gameFlags": 1
   },
   {
@@ -98966,7 +98966,7 @@
   },
   {
     "hash": "0178C0DD83CD0633",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/levels/london/streets/pepper_apartment_billboard_a.wl2?/pepper_apartment_billboard_front_broken_b.prim].prim",
     "gameFlags": 1
   },
   {
@@ -99056,7 +99056,7 @@
   },
   {
     "hash": "013B9B74CA1C85F0",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/kits/bluebell/webbhq_int_perch_server_centre_kit_a.wl2?/a_perch_int_glass.prim].prim",
     "gameFlags": 1
   },
   {
@@ -99271,7 +99271,7 @@
   },
   {
     "hash": "010C631A672DD0A4",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/individuals/_maincast/bond/kits/kit_magnolia_daytime/geometry_deformation/kit_magnolia_daytime/kit_magnolia_daytime.gar?/shirt_daytime_lorcasecondmeet_kit_magnolia.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -102011,7 +102011,7 @@
   },
   {
     "hash": "01CB78EC0334FD6E",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/individuals/_maincast/bond/kits/kit_onduty/geometry_deformation/kit_onduty/kit_onduty.gar?/pants_kit_onduty.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -102126,7 +102126,7 @@
   },
   {
     "hash": "01D3C8FA605F7D99",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/electronics/keypad_generic_a.wl2?/keypad_generic_a_button_f.prim].prim",
     "gameFlags": 1
   },
   {
@@ -102216,7 +102216,7 @@
   },
   {
     "hash": "01E0898714473343",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/individuals/lotus/robertnash/hair/beard_full_long/geometry_deformation/beard_full_long/beard_full_long.gar?/beard_full_long.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -102291,7 +102291,7 @@
   },
   {
     "hash": "01F9DCDCCC7DF232",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/electronics/keypad_generic_a.wl2?/keypad_generic_a_button_l.prim].prim",
     "gameFlags": 1
   },
   {
@@ -102801,7 +102801,7 @@
   },
   {
     "hash": "01A269C25860F63D",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/cloths/outwear_cloth_hanging.wl2?/outwear_cloth_hanging_m.prim].prim",
     "gameFlags": 1
   },
   {
@@ -103101,7 +103101,7 @@
   },
   {
     "hash": "0132B956AC78771A",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/fem_reg/parts_average/kits/rose/kit_rose_hotelmaid/geometry_deformation/kit_rose_hotelmaid/kit_rose_hotelmaid.gar?/pantyhose_kit_rose_hotelmaid.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -104111,7 +104111,7 @@
   },
   {
     "hash": "0179B479E1509EAD",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/cloths/outwear_cloth_hanging.wl2?/outwear_cloth_hanging_g.prim].prim",
     "gameFlags": 1
   },
   {
@@ -105586,7 +105586,7 @@
   },
   {
     "hash": "010DBE1E00B54A1F",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/individuals/_maincast/bond/kits/kit_pepper_suit/geometry_deformation/kit_pepper_suit/kit_pepper_suit.gar?/pants_kit_pepper_suit.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -106586,7 +106586,7 @@
   },
   {
     "hash": "019FAF91BE6B5578",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/parts_average/apparel/footwear/sandals_flipflop/geometry_deformation/sandals_flipflop/sandals_flipflop.gar?/sandals_flipflop.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -107651,7 +107651,7 @@
   },
   {
     "hash": "01EC041CA5F4678F",
-    "path": "",
+    "path": "[assembly:/_knt/vehicles/geometry/aircraft/cargo_plane_cinematic_b.wl2?/cargo_plane_cinematic_gate_top_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -108426,7 +108426,7 @@
   },
   {
     "hash": "01DEBE0AC9A6F5D2",
-    "path": "",
+    "path": "[assembly:/_pro/environment/geometry/kits/dugong_ruin_kit/dugong_ruin_kit_a.wl2?/burnt_brick_d.prim].prim",
     "gameFlags": 1
   },
   {
@@ -109456,7 +109456,7 @@
   },
   {
     "hash": "019FABC1A5E05699",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/parts_average/apparel/neckwear/tie_simple/geometry_deformation/tie_simple/tie_simple.gar?/tie_simple.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -111136,7 +111136,7 @@
   },
   {
     "hash": "013B905D33B82ADF",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/foliage/seaweed_a.wl2?/seaweed_n.prim].prim",
     "gameFlags": 1
   },
   {
@@ -112546,7 +112546,7 @@
   },
   {
     "hash": "01AEC9FDA0BB5B22",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/electronics/keypad_generic_a.wl2?/keypad_generic_a_button_b.prim].prim",
     "gameFlags": 1
   },
   {
@@ -114836,7 +114836,7 @@
   },
   {
     "hash": "0192DF05486432B9",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/cloths/outwear_cloth_hanging.wl2?/outwear_cloth_hanging_f.prim].prim",
     "gameFlags": 1
   },
   {
@@ -116631,7 +116631,7 @@
   },
   {
     "hash": "0115C94E946BFDC1",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/individuals/_maincast/greenway/kits/kit_daisy/geometry_deformation/kit_daisy/kit_daisy.gar?/kit_daisy_suit.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -116826,7 +116826,7 @@
   },
   {
     "hash": "01129DCC9C7B97C7",
-    "path": "",
+    "path": "[assembly:/_knt/items/geometry/firearms/shotgun_semiauto_a/shotgun_semiauto_a.wl2?/shotgun_semiauto_a.linkedprim].linkedprim",
     "gameFlags": 1
   },
   {
@@ -117686,7 +117686,7 @@
   },
   {
     "hash": "01D1A9C79C12D488",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/foliage/seaweed_a.wl2?/seaweed_o.prim].prim",
     "gameFlags": 1
   },
   {
@@ -123096,7 +123096,7 @@
   },
   {
     "hash": "014F9994B6B215BB",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/individuals/_maincast/q/kits/kit_ivy_labcoat/geometry_deformation/kit_ivy_labcoat/kit_ivy_labcoat.gar?/labcoat_crouch_kit_ivy.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -123481,7 +123481,7 @@
   },
   {
     "hash": "01A48AB3F5BD6777",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/parts_average/hair/hair_slickback/geometry_deformation/hair_slickback/hair_slickback.gar?/hair_slickback.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -124141,7 +124141,7 @@
   },
   {
     "hash": "013F78ADBED6AB45",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/fem_reg/individuals/_maincast/isola/hairs/hair_long_wet/geometry_deformation/hair_long_wet/hair_long_wet.gar?/hair_long_wet.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -125101,7 +125101,7 @@
   },
   {
     "hash": "01E292E2EAFA5EA2",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/fem_reg/parts_average/apparel/footwear/shoes_highheel_sandals_anklestraps/geometry_deformation/shoes_highheel_sandals_anklestraps/shoes_highheel_sandals_anklestraps.gar?/shoes_highheel_sandals_anklestraps.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -125141,7 +125141,7 @@
   },
   {
     "hash": "0101AEC1465A1852",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/parts_average/apparel/upperbody/l01/shirt_dress_2btnopen_tkd/geometry_deformation/shirt_dress_2btnopen_tkd/shirt_dress_2btnopen_tkd.gar?/shirt_dress_2btnopen_tkd_cut_jacket_closed.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -125941,7 +125941,7 @@
   },
   {
     "hash": "013EAD41DE5746E3",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/electronics/keypad_generic_a.wl2?/keypad_generic_a_button_g.prim].prim",
     "gameFlags": 1
   },
   {
@@ -127426,7 +127426,7 @@
   },
   {
     "hash": "01CC7621DAC70D71",
-    "path": "",
+    "path": "[assembly:/_knt/vehicles/geometry/pro_remastered_vehicles/old_truck_a/old_truck_a.wl2?/old_truck_a.linkedprim].linkedprim",
     "gameFlags": 1
   },
   {
@@ -129811,7 +129811,7 @@
   },
   {
     "hash": "01ED9729793C91A5",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/parts_average/apparel/upperbody/l01/waistcoat_shirt_dress/geometry_deformation/waistcoat_shirt_dress/waistcoat_shirt_dress.gar?/waistcoat_shirt_dress_cut_jacket_open.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -129846,7 +129846,7 @@
   },
   {
     "hash": "016F09E52328CB16",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/parts_average/heads/_head_mannequin/geometry_deformation/head_mannequin/head_mannequin.gar?/head_mannequin.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -129921,7 +129921,7 @@
   },
   {
     "hash": "01B1A8D0650E706E",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/vehicles/land_rover_defender_110_a/land_rover_defender_110_a.wl2?/land_rover_defender_110_b.prim].prim",
     "gameFlags": 1
   },
   {
@@ -129996,7 +129996,7 @@
   },
   {
     "hash": "0112CE572B6FA273",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/parts_average/heads/head_mid_asian_02/geometry_deformation/head_mid_asian_02/head_mid_asian_02.gar?/head_mid_asian_02.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -130056,7 +130056,7 @@
   },
   {
     "hash": "0105590ECC90068C",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/fem_reg/parts_average/apparel/footwear/shoes_highheel_pumps_pointy/geometry_deformation/shoes_highheel_pumps_pointy/shoes_highheel_pumps_pointy.gar?/shoes_highheel_pumps_pointy.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -130371,7 +130371,7 @@
   },
   {
     "hash": "01FA23366A844546",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/individuals/_maincast/bond/kits/kit_reward_gentlemanoperator/geometry_deformation/kit_reward_gentlemanoperator/kit_reward_gentlemanoperator.gar?/sweater_kit_reward_gentlemanoperator.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -130576,7 +130576,7 @@
   },
   {
     "hash": "01E2EBA53AFBD7C9",
-    "path": "",
+    "path": "[assembly:/_knt/vehicles/geometry/land_rover_series_iii_a/land_rover_series_iii_b.wl2?/cin_land_rover_series_iii_b.linkedprim].linkedprim",
     "gameFlags": 1
   },
   {
@@ -130601,7 +130601,7 @@
   },
   {
     "hash": "01E53394E5214FC9",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/cloths/coat_hanger_b.wl2?/coat_hanger_b.prim].prim",
     "gameFlags": 1
   },
   {
@@ -131336,7 +131336,7 @@
   },
   {
     "hash": "0141BEAC7DA60824",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/fem_reg/individuals/_maincast/isola/body/geometry_deformation/body_isola/body_isola.gar?/arms_isola.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -132286,7 +132286,7 @@
   },
   {
     "hash": "01DD2093A9D11906",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/cloths/outwear_cloth_hanging.wl2?/outwear_cloth_hanging_j.prim].prim",
     "gameFlags": 1
   },
   {
@@ -134341,7 +134341,7 @@
   },
   {
     "hash": "014263CB88FCF3A5",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/electronics/keypad_generic_a.wl2?/keypad_generic_a_button_d.prim].prim",
     "gameFlags": 1
   },
   {
@@ -134711,7 +134711,7 @@
   },
   {
     "hash": "011C3DC2DF99E0AD",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/parts_average/heads/head_young_asian_01/geometry_deformation/head_young_asian_01/head_young_asian_01.gar?/head_young_asian_01.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -136951,7 +136951,7 @@
   },
   {
     "hash": "01C97FE6E8D443EA",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/furniture/furniture_office_antique_a.wl2?/bureau_box_office_antique_c.prim].prim",
     "gameFlags": 1
   },
   {
@@ -138016,7 +138016,7 @@
   },
   {
     "hash": "01FA4C621ADD5380",
-    "path": "",
+    "path": "[assembly:/_knt/vehicles/geometry/wheels_a.wl2?/generic_wheel_c.prim].prim",
     "gameFlags": 1
   },
   {
@@ -138271,7 +138271,7 @@
   },
   {
     "hash": "01A60A3C64E19D6A",
-    "path": "",
+    "path": "[assembly:/_knt/vehicles/geometry/wheels_a.wl2?/luxury_wheel_c.prim].prim",
     "gameFlags": 1
   },
   {
@@ -139211,7 +139211,7 @@
   },
   {
     "hash": "01A255058C73D09D",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/individuals/_maincast/bond/kits/kit_reward_gentlemanoperator/geometry_deformation/kit_reward_gentlemanoperator/kit_reward_gentlemanoperator.gar?/pants_kit_reward_gentlemanoperator.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -139951,7 +139951,7 @@
   },
   {
     "hash": "0157E9ABAF451298",
-    "path": "",
+    "path": "[assembly:/_knt/vehicles/geometry/wheels_a.wl2?/generic_wheel_b.prim].prim",
     "gameFlags": 1
   },
   {
@@ -142186,7 +142186,7 @@
   },
   {
     "hash": "01AF51A1BC7F7D1E",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/parts_average/kits/clover/kit_clover_arrowhead_mercenary/geometry_deformation/kit_clover_arrowhead_mercenary/kit_clover_arrowhead_mercenary.gar?/balaclava_kit_arrowhead_mercenary.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -142606,7 +142606,7 @@
   },
   {
     "hash": "01DA75241DF13A7C",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/fem_reg/parts_average/apparel/footwear/shoes_lowheel_pumps/geometry_deformation/shoes_lowheel_pumps/shoes_lowheel_pumps.gar?/shoes_lowheel_pumps.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -142636,7 +142636,7 @@
   },
   {
     "hash": "014F20924F9310B9",
-    "path": "",
+    "path": "[assembly:/_knt/items/geometry/gadgets/qpistol_a/qpistol_a.wl2?/qpistol_a.weightedprim].weightedprim",
     "gameFlags": 1
   },
   {
@@ -143971,7 +143971,7 @@
   },
   {
     "hash": "0184E5947211FFFE",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/kits/bluebell/webbhq_int_perch_server_centre_kit_a.wl2?/a_perch_int_glass_corner_b.prim].prim",
     "gameFlags": 1
   },
   {
@@ -148586,7 +148586,7 @@
   },
   {
     "hash": "0186BCDB51EBD7AC",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/parts_average/apparel/upperbody/l02/coat_lab_rldslv_open/geometry_deformation/coat_lab_rldslv_open/coat_lab_rldslv_open.gar?/coat_gloves_rlower.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -148791,7 +148791,7 @@
   },
   {
     "hash": "01357B0022CCDD3B",
-    "path": "",
+    "path": "[assembly:/_knt/vehicles/geometry/wheels_a.wl2?/luxury_wheel_e.prim].prim",
     "gameFlags": 1
   },
   {
@@ -149291,7 +149291,7 @@
   },
   {
     "hash": "01AC93A5E77F1CCE",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/individuals/_maincast/bond/kits/kit_cocacolazz_skin2/geometry_deformation/kit_cocacolazz_skin2/kit_cocacolazz_skin2.gar?/jacket_kit_cocacolazz_skin2.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -149371,7 +149371,7 @@
   },
   {
     "hash": "012A454C397C2D97",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/individuals/_maincast/greenway/kits/kit_lotus_shirt_polo/geometry_deformation/kit_lotus_shirt_polo/kit_lotus_shirt_polo.gar?/kit_lotus_shirt_polo.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -149581,7 +149581,7 @@
   },
   {
     "hash": "01F0A8E64092AF32",
-    "path": "",
+    "path": "[assembly:/_knt/vehicles/geometry/mining_dump_truck_a/mining_dump_truck_a.wl2?/mining_dump_truck_a.linkedprim].linkedprim",
     "gameFlags": 1
   },
   {
@@ -149636,7 +149636,7 @@
   },
   {
     "hash": "01999FDF9ED1B6AC",
-    "path": "",
+    "path": "[assembly:/_pro/environment/geometry/kits/dugong_ruin_kit/dugong_ruin_kit_a.wl2?/burnt_brick_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -150411,7 +150411,7 @@
   },
   {
     "hash": "01DF7B502FBF0E07",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/electronics/keypad_generic_a.wl2?/keypad_generic_a_button_c.prim].prim",
     "gameFlags": 1
   },
   {
@@ -150971,7 +150971,7 @@
   },
   {
     "hash": "0178F0B92CB3307A",
-    "path": "",
+    "path": "[assembly:/_knt/effects/geometry/misc/fx_laser_a.wl2?/fx_laser_scope_flare_d.prim].prim",
     "gameFlags": 1
   },
   {
@@ -152761,7 +152761,7 @@
   },
   {
     "hash": "0118CCFFE16730E7",
-    "path": "",
+    "path": "[assembly:/_knt/items/geometry/firearms/burstpistol_3round_a/burstpistol_3round_a.wl2?/burstpistol_3round_a.linkedprim].linkedprim",
     "gameFlags": 1
   },
   {
@@ -153796,7 +153796,7 @@
   },
   {
     "hash": "015A63E234ABB137",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/parts_average/apparel/upperbody/l01/cardigan_vneck_closed_btmopen/geometry_deformation/cardigan_vneck_closed_btmopen/cardigan_vneck_closed_btmopen.gar?/cardigan_vneck_closed_btmopen_shirt_tie.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -154316,7 +154316,7 @@
   },
   {
     "hash": "014CC304128AA49D",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/fem_reg/individuals/_maincast/isola/body/geometry_deformation/body_isola/body_isola.gar?/torso_neck_isola.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -154366,7 +154366,7 @@
   },
   {
     "hash": "01049ABE2F68B512",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/vehicles/land_rover_defender_110_a/land_rover_defender_110_a.wl2?/land_rover_defender_110_door_left_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -156046,7 +156046,7 @@
   },
   {
     "hash": "0184ADBAAE5FE161",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/parts_average/apparel/lowerbody/pants_khakis_slim/geometry_deformation/pants_khakis_slim/pants_khakis_slim.gar?/pants_khakis_slim.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -159021,7 +159021,7 @@
   },
   {
     "hash": "01E51F34147D7BCD",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/lamps/museum_lights_a.wl2?/museum_ceiling_light_spinningtop_b.prim].prim",
     "gameFlags": 1
   },
   {
@@ -159241,7 +159241,7 @@
   },
   {
     "hash": "0101800AC6E3962A",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/geometry/foliage/quixel_scatter_dry_plants_fox_a.wl2?/quixel_scatter_dry_plants_fox_a.prim].prim",
     "gameFlags": 1
   },
   {
@@ -159866,7 +159866,7 @@
   },
   {
     "hash": "012C2A428DE5C916",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/fem_reg/individuals/_maincast/isola/hairs/hair_long_wet_bluebell/geometry_deformation/hair_long_wet_bluebell/hair_long_wet_bluebell.gar?/hair_long_wet_bluebell.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -161606,7 +161606,7 @@
   },
   {
     "hash": "01B03C0B89D9E6F1",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/parts_muscular/heads/head_muscular_arabic_03/geometry_deformation/head_muscular_arabic_03/head_muscular_arabic_03.gar?/head_muscular_arabic_03.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {
@@ -162806,7 +162806,7 @@
   },
   {
     "hash": "010D26257F8B4F2B",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/fem_reg/individuals/_maincast/ponsonby/head_ponsonby/geometry_deformation/head_ponsonby/head_ponsonby.gar?/head_ponsonby.weighted.fbx].weightedprim",
     "gameFlags": 1
   },
   {

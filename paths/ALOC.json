@@ -50856,7 +50856,7 @@
   },
   {
     "hash": "01A7C3C6FD009F58",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/kits/rose/rose_exterior_rampart_kit_a.wl2?/rose_ext_castle_balustrade_4x1_a.prim].coll",
     "gameFlags": 1
   },
   {
@@ -88221,7 +88221,7 @@
   },
   {
     "hash": "012137EF76F696F6",
-    "path": "",
+    "path": "[assembly:/_knt/vehicles/geometry/garbage_truck_a/garbage_truck_a.wl2?/garbage_truck_c_wheel_rear_right_a.prim].coll",
     "gameFlags": 1
   },
   {
@@ -94611,7 +94611,7 @@
   },
   {
     "hash": "01EAC0A2C0B9AC3B",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/vehicles/land_rover_defender_110_a/land_rover_defender_110_a.wl2?/land_rover_defender_110_wheel_right_a.prim].coll",
     "gameFlags": 1
   },
   {

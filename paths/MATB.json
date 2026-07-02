@@ -76,12 +76,12 @@
   },
   {
     "hash": "011F656EFA0B7604",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/glass/generic_glass_h.mi].entityblueprint",
     "gameFlags": 1
   },
   {
     "hash": "01E776B4E675088B",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/office/whiteboard_marker_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -196,7 +196,7 @@
   },
   {
     "hash": "01A4663CFB9D04AA",
-    "path": "",
+    "path": "[assembly:/_knt/items/materials/gadgets/laser_device_a/braided_pvc_flooring_regular_artisan_e.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -216,7 +216,7 @@
   },
   {
     "hash": "01C9B345C79BC434",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/trash/sack_plastic_recycling_a_00.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -301,7 +301,7 @@
   },
   {
     "hash": "01F74EB0074CAAB6",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/levels/ivy/architexture/emissive_lightstrip_d.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -311,7 +311,7 @@
   },
   {
     "hash": "0108132E455F295F",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/materials/foliage/quixel_arrowhead_plant_sjsmd_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -391,7 +391,7 @@
   },
   {
     "hash": "01F409D3F11D07CC",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/paper/paper_letter_training_regimen_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -411,7 +411,7 @@
   },
   {
     "hash": "0148883E0B706550",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/sculptures/smk/smk_cupid_playing_the_lyre_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -451,7 +451,7 @@
   },
   {
     "hash": "01EA1DD43ABD9A18",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/materials/props/industrial/quixel_wrinkled_tarp_vh2mee1_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -706,7 +706,7 @@
   },
   {
     "hash": "017DB68571749634",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/materials/foliage/quixel_foxglove_pfglj2_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -781,7 +781,7 @@
   },
   {
     "hash": "01D00997E2C992D9",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/furniture/chair_qlab_a_arms.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -1021,7 +1021,7 @@
   },
   {
     "hash": "014D7DF17A008248",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/levels/bluebell/server_cloth_cover_cage_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -1031,7 +1031,7 @@
   },
   {
     "hash": "01791BFA56642F7F",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/sculptures/smk/smk_lemnian_athena_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -1116,7 +1116,7 @@
   },
   {
     "hash": "015308D53F8ED907",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/glass/generic_mirror_c.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -1136,7 +1136,7 @@
   },
   {
     "hash": "01F3048C0A881828",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/furniture/museum_library_chair_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -1386,7 +1386,7 @@
   },
   {
     "hash": "0122D16370A3E068",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/furniture/furniture_office_antique_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -1421,7 +1421,7 @@
   },
   {
     "hash": "01FC3D8C7C897E11",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/furniture/hm_chair_side_terassi_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -1576,7 +1576,7 @@
   },
   {
     "hash": "01BAB3CD6D0D2E11",
-    "path": "",
+    "path": "[assembly:/_knt/effects/materials/insects/fx_insect_butterfly_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -1646,7 +1646,7 @@
   },
   {
     "hash": "0120ACBD169C4250",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/industrial/plastic_sheet_transparent_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -1731,7 +1731,7 @@
   },
   {
     "hash": "017E56D02549F8ED",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/materials/foliage/quixel_cat_palm_tjejafeia_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -1871,7 +1871,7 @@
   },
   {
     "hash": "016FA15428A23A17",
-    "path": "",
+    "path": "[assembly:/_knt/vehicles/materials/pro_remastered_vehicles/outrigger_dugong_a/outrigger_dugong_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -1951,7 +1951,7 @@
   },
   {
     "hash": "01ABB328BC37C80A",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/lamps/branding_hm_pao_portable_lamp_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -1966,7 +1966,7 @@
   },
   {
     "hash": "012168B5A8788A3F",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/architecture/doors/door_metal_sliding_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -1996,7 +1996,7 @@
   },
   {
     "hash": "01D86FBDF831DA05",
-    "path": "",
+    "path": "[assembly:/_knt/effects/materials/water/ocean/fx_water_ocean_magnolia_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -2141,7 +2141,7 @@
   },
   {
     "hash": "015896C71AFDE7D9",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/materials/generic/wall/quixel_concrete_smooth_sdcldjyb_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -2226,7 +2226,7 @@
   },
   {
     "hash": "014CE8680A8691DE",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/lamps/lantern_silk_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -2256,7 +2256,7 @@
   },
   {
     "hash": "01AD5452F38A53F1",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/electronics/computer_mouse_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -2416,7 +2416,7 @@
   },
   {
     "hash": "01F6426294BAC415",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/materials/foliage/quixel_climber_xfqicgrqx_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -2486,7 +2486,7 @@
   },
   {
     "hash": "016FF405EF7D30CF",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/paper/paper_outoforder_sign_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -2641,7 +2641,7 @@
   },
   {
     "hash": "01AA8160AFB79B6B",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/collectibles/collectible_monroe_grandad_photo_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -2746,7 +2746,7 @@
   },
   {
     "hash": "015B9EE605594104",
-    "path": "",
+    "path": "[assembly:/_knt/items/materials/gadgets/laser_device_a/braided_pvc_flooring_regular_artisan_d.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -2761,7 +2761,7 @@
   },
   {
     "hash": "0131C87371D50C74",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/materials/generic/wood/quixel_wood_veneer_te3ecdyc_e.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -2801,12 +2801,12 @@
   },
   {
     "hash": "01B7341D03737A84",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/materials/roof/quixel_metal_painted_roof_vdqkfek_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
     "hash": "0122F065275C7EDC",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/sculptures/nm/nm_apollo_kitharoidos_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -3141,7 +3141,7 @@
   },
   {
     "hash": "0112ABABD7367480",
-    "path": "",
+    "path": "[assembly:/_knt/_test/simons/materials/fire_ocean_floating_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -3346,7 +3346,7 @@
   },
   {
     "hash": "01F314E7398DBA51",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/generic/floor/floor_concrete_carpark_c_zmapped.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -3366,7 +3366,7 @@
   },
   {
     "hash": "0136A36AADCD456E",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/collectibles/collectible_selina_workshop_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -3446,7 +3446,7 @@
   },
   {
     "hash": "01C10595E03DD2D6",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/sculptures/smk/smk_copy_of_caryatid_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -3531,7 +3531,7 @@
   },
   {
     "hash": "010F0AE100A3415E",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/levels/bluebell/server_cloth_cover_1x1x1_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -3746,7 +3746,7 @@
   },
   {
     "hash": "012642C05AA8E8F2",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/kits/ships/wreckage/ship_interior_b_ceiling_lp.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -3871,7 +3871,7 @@
   },
   {
     "hash": "01BC4807AFE7B14E",
-    "path": "",
+    "path": "[assembly:/_knt/items/materials/gadgets/blast_device_a/blast_device_ball_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -3976,7 +3976,7 @@
   },
   {
     "hash": "014C80F25EC75FFE",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/glass/glass_old_wet_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -4041,7 +4041,7 @@
   },
   {
     "hash": "010F5B16EF7F5B6A",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/materials/architecture/interior/floor/quixel_marble_floor_pattern_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -4086,7 +4086,7 @@
   },
   {
     "hash": "010F61DF97407808",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/food/bottle_ketchup_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -4181,7 +4181,7 @@
   },
   {
     "hash": "0177EAE1F1529CD3",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/fem_reg/parts_average/apparel/neckwear/necklace_pearl/materials/necklace_pearl.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -4216,7 +4216,7 @@
   },
   {
     "hash": "01580E3D5BE40159",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/generic/wood/mahogany_polished_door_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -4261,7 +4261,7 @@
   },
   {
     "hash": "01EAB9E606CFA478",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/accessories/glasses_case_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -4271,7 +4271,7 @@
   },
   {
     "hash": "0119291D264CB629",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/trims/bond_appartment_trims_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -4366,7 +4366,7 @@
   },
   {
     "hash": "01D58FA845519A23",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/materials/architecture/interior/floor/quixel_granite_tiles_ukfkbbvfw_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -4431,7 +4431,7 @@
   },
   {
     "hash": "0142C71B15D924B4",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/parts_average/heads/head_young_indian_01/materials/head_young_indian_01.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -4451,7 +4451,7 @@
   },
   {
     "hash": "0142E1BCFAECD886",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/materials/foliage/quixel_alexandra_palm_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -4631,7 +4631,7 @@
   },
   {
     "hash": "0138D43C621203E1",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/sculptures/smk/smk_apollo_of_omphalos_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -4651,7 +4651,7 @@
   },
   {
     "hash": "015F20352E8E1456",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/lamps/modern_fabric_lantern_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -4681,7 +4681,7 @@
   },
   {
     "hash": "01C36C84A8104DC2",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/generic/floor/floor_concrete_carpark_g_zmapped.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -4691,7 +4691,7 @@
   },
   {
     "hash": "01D3D5E36294E92E",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/accessories/smartphone_c.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -4751,7 +4751,7 @@
   },
   {
     "hash": "018DCDB143B4DB96",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/generic/wood/wood_zebrawood_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -4801,7 +4801,7 @@
   },
   {
     "hash": "01A08C8454D64C74",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/industrial/portable_generator_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -4886,7 +4886,7 @@
   },
   {
     "hash": "01310DFBDB770A86",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/furniture/chesterfield_sofa_1s_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -4921,7 +4921,7 @@
   },
   {
     "hash": "0123094791027C8B",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/lamps/branding_hm_ode_freestanding_floorlamp_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -4966,7 +4966,7 @@
   },
   {
     "hash": "016A4055CF957C88",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/decorative/fireplace_antique_puzzle_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -5131,12 +5131,12 @@
   },
   {
     "hash": "01AF7CF79AC900CD",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/materials/props/decorative/quixel_wood_decorative_uhblbb3jw_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
     "hash": "0177C7060ED76994",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/decorative/cloth_tarps_c.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -5186,7 +5186,7 @@
   },
   {
     "hash": "01657042350FDAB1",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/trash/sack_plastic_recycling_b_00.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -5226,7 +5226,7 @@
   },
   {
     "hash": "011D9097EB712C4E",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/office/laptop_case_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -5361,7 +5361,7 @@
   },
   {
     "hash": "0146DAA83B202D1F",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/furniture/chair_leather_antique_e.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -5386,7 +5386,7 @@
   },
   {
     "hash": "01DFC025B0D10BE9",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/levels/magnolia/quarry_bossfight_container.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -5471,7 +5471,7 @@
   },
   {
     "hash": "016BEE06B7DEAB9D",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/lamps/branding_hm_nelson_cigar_tripod_lamp_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -5481,7 +5481,7 @@
   },
   {
     "hash": "01F78636132AE290",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/backdrop/buildings/highrise_plane_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -5501,7 +5501,7 @@
   },
   {
     "hash": "01A5C8F52CA1D4B3",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/materials/props/bathroom/quixel_folded_towel_vgbibg0_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -5571,7 +5571,7 @@
   },
   {
     "hash": "01B5F58B2E7C4A87",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/generic/wall/walnut_burr_wall_panels_c.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -5616,7 +5616,7 @@
   },
   {
     "hash": "012E91DC32B42DD3",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/levels/dahlia/dahlia_rocks_rubble_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -5651,7 +5651,7 @@
   },
   {
     "hash": "01240A2CC3ACABFB",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/materials/architecture/interior/stone/quixel_granite_polished_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -5706,7 +5706,7 @@
   },
   {
     "hash": "0192A0E586FB4838",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/decorative/cloth_tarps_stand_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -5876,7 +5876,7 @@
   },
   {
     "hash": "01827461D0FC0D7A",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/lamps/branding_hm_nelson_saucer_bubble_pendant_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -5926,7 +5926,7 @@
   },
   {
     "hash": "01A2C1103BBFEAB6",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/materials/props/rocks/quixel_western_rock_medium_ulmtabz_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -6026,12 +6026,12 @@
   },
   {
     "hash": "01BB4BBEBB2137C0",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/generic/floor/linoleum_floor_zmapped_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
     "hash": "01628FF5EE99E82A",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/lamps/light_wall_emissive_e.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -6071,7 +6071,7 @@
   },
   {
     "hash": "01337F2750CAFA84",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/materials/architecture/interior/floor/quixel_mable_tiles_pattern_vjhmci0v_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -6086,7 +6086,7 @@
   },
   {
     "hash": "01123B3E590BD7B8",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/sculptures/nm/nm_venus_kalyppigos_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -6146,7 +6146,7 @@
   },
   {
     "hash": "01DE4A22F8B7870B",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/generic/metal/metal_old_painted_blend_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -6356,7 +6356,7 @@
   },
   {
     "hash": "011942AC74554A8D",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/collectibles/collectible_locket_gemini_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -6431,7 +6431,7 @@
   },
   {
     "hash": "01A1C4A22F55745C",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/decals/markings/tape_hazard_zone_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -6506,7 +6506,7 @@
   },
   {
     "hash": "010B4505D8DB53C6",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/materials/props/industrial/quixel_metal_plate_vj1tfaj_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -6576,7 +6576,7 @@
   },
   {
     "hash": "013D300225788862",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/materials/generic/fabric/quixel_felt_blanket_sbplptp0_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -6686,7 +6686,7 @@
   },
   {
     "hash": "019E353052335059",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/street_props/burglar_alarm_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -6726,7 +6726,7 @@
   },
   {
     "hash": "016D01B2FB493C7B",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/sculptures/smk/smk_statue_of_priestess_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -6756,7 +6756,7 @@
   },
   {
     "hash": "01F03A1940B1581E",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/materials/props/industrial/quixel_bulk_bag_ukxkbesqa_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -6806,12 +6806,12 @@
   },
   {
     "hash": "010B9ED9806E47E6",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/harbour_props/liferaft_container_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
     "hash": "0164A9C89B3FA9D9",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/materials/props/industrial/quixel_metal_plate_vj1wdcq_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -6956,7 +6956,7 @@
   },
   {
     "hash": "01EAAC8566F23ADE",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/sculptures/smk/smk_kneeling_warrior_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -7001,7 +7001,7 @@
   },
   {
     "hash": "015BA65390FB3FA2",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/materials/generic/rock/quixel_ground_snow_blend_e.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -7031,7 +7031,7 @@
   },
   {
     "hash": "013F002A98BE7A7B",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/vehicles/land_rover_defender_110_a/land_rover_defender_110_interior_decals_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -7046,7 +7046,7 @@
   },
   {
     "hash": "013329CEB2967418",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/materials/levels/iceland/quixel_nature_rock_vdssailfa_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -7061,7 +7061,7 @@
   },
   {
     "hash": "01FAE09E318B1D12",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/kits/clover/clover_tents_a/tent_ext_fabric_f.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -7166,7 +7166,7 @@
   },
   {
     "hash": "0149C35DEAC0D4CB",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/trash/garbage_modern_bin_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -7266,7 +7266,7 @@
   },
   {
     "hash": "01125E520B87EE5F",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/furniture/hm_chair_arm_jens_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -7296,12 +7296,12 @@
   },
   {
     "hash": "019C0521FE23E5B6",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/foliage/grass/grass_wild_blend_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
     "hash": "019BB24189A38873",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/materials/props/industrial/quixel_industrial_storage_vh3lbfy_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -7426,7 +7426,7 @@
   },
   {
     "hash": "0141D0E88191FDA8",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/materials/foliage/lotus_flower_uc2kajgia_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -7456,7 +7456,7 @@
   },
   {
     "hash": "0114F94BD9C43778",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/lamps/branding_hm_ambient_ray_lantern_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -7491,7 +7491,7 @@
   },
   {
     "hash": "01154FD5AF438998",
-    "path": "",
+    "path": "[assembly:/_pro/materials/basicmaterials/constants/color_white.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -7516,7 +7516,7 @@
   },
   {
     "hash": "0142AB709EA939EC",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/lamps/searchlight_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -7526,7 +7526,7 @@
   },
   {
     "hash": "017F672485E63A1A",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/collectibles/collectible_greenway_photo_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -7571,12 +7571,12 @@
   },
   {
     "hash": "0132680FBCA1D1AD",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/furniture/chesterfield_sofa_3s_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
     "hash": "01C525AB0E24AC6A",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/materials/props/industrial/quixel_trash_bags_street_props_ve2hddjga_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -7611,7 +7611,7 @@
   },
   {
     "hash": "014A5AA5F53535FB",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/decorative/pillow_resort_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -7801,7 +7801,7 @@
   },
   {
     "hash": "01166484BB230CEA",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/street_props/london_road_barrier_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -7841,7 +7841,7 @@
   },
   {
     "hash": "012D32956D1848C4",
-    "path": "",
+    "path": "[assembly:/_knt/items/materials/fierarms/frames/ar_pirate_a/ar_pirat_muzzle_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -7896,7 +7896,7 @@
   },
   {
     "hash": "01AB0BCF27DB41C0",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/equipment/anti_slip_mat_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -7921,7 +7921,7 @@
   },
   {
     "hash": "015733C817C3D325",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/levels/ivy/plastic_tarp_curtains_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -8221,7 +8221,7 @@
   },
   {
     "hash": "01065464F5C25848",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/sculptures/smk/smk_sea_deity_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -8231,7 +8231,7 @@
   },
   {
     "hash": "01C74A556029BEE1",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/furniture/branding_hm_pastille_sofa_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -8281,7 +8281,7 @@
   },
   {
     "hash": "01C430628F09DD2E",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/furniture/branding_hm_vantum_gaming_chair_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -8306,7 +8306,7 @@
   },
   {
     "hash": "014FF2FE82A137A2",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/electronics/computer_bank_screen_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -8356,7 +8356,7 @@
   },
   {
     "hash": "014261EF8C64C7A7",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/materials/props/rocks/quixel_nature_rock_ukolajj_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -8381,7 +8381,7 @@
   },
   {
     "hash": "013F9128545B519F",
-    "path": "",
+    "path": "[assembly:/_knt/vehicles/materials/garbage_truck_b/revolving_light_garbage_truck_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -8421,7 +8421,7 @@
   },
   {
     "hash": "01F4A3F4F1C5A624",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/food/takeaway_paper_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -8476,7 +8476,7 @@
   },
   {
     "hash": "01DB8A5BD1B71751",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/furniture/table_side_antique_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -8571,12 +8571,12 @@
   },
   {
     "hash": "015E4346F27CE48A",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/generic/metal/painted_metal_rough_e.mi].entityblueprint",
     "gameFlags": 1
   },
   {
     "hash": "018E545320391E27",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/materials/props/equipment/quixel_wooden_pallet_texcdfcda_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -8596,7 +8596,7 @@
   },
   {
     "hash": "0103E0A4F452E814",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/parts_muscular/kits/global/kit_global_damien/damien_mercs_tactical_kit/materials/materials/damien_mercs_tactical_earpiece.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -8656,7 +8656,7 @@
   },
   {
     "hash": "01C82A16F7F52496",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/lamps/stage_lamp_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -8666,7 +8666,7 @@
   },
   {
     "hash": "017C8A2236F86F92",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/lamps/polyhaven_chandelier_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -8681,7 +8681,7 @@
   },
   {
     "hash": "01DEC1167BCDDAEA",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/collectibles/collectible_memento_06_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -8786,7 +8786,7 @@
   },
   {
     "hash": "011C27A92DC9AFF4",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/screens/exhibition_screen_alcove_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -8796,7 +8796,7 @@
   },
   {
     "hash": "012C6CFF2FF16DB8",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/mockup/whitebox_white_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -8841,7 +8841,7 @@
   },
   {
     "hash": "014F821D89DCFAD6",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/materials/generic/rock/quixel_cliff_uglmehzo_thfkchjs_blend_c.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -8851,7 +8851,7 @@
   },
   {
     "hash": "019603A04E534ECD",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/equipment/winch_rope_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -8886,7 +8886,7 @@
   },
   {
     "hash": "0138A2E6F97559D3",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/decals/wall/decal_wall_water_running_c.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -8996,7 +8996,7 @@
   },
   {
     "hash": "014E7C3B50DD3998",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/custom/ruby/tacsim_floor_lightstrips_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -9041,7 +9041,7 @@
   },
   {
     "hash": "01874F18B7C40D75",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/equipment/underwater_sea_scooter_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -9101,7 +9101,7 @@
   },
   {
     "hash": "016ACB712ABF3815",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/electronics/militaryradio_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -9146,7 +9146,7 @@
   },
   {
     "hash": "01D06851A597C696",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/sculptures/smk/smk_pergamene_c.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -9171,7 +9171,7 @@
   },
   {
     "hash": "013141948B5C5D4E",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/collectibles/collectible_nightclub_napkin_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -9571,7 +9571,7 @@
   },
   {
     "hash": "0115507C8DE23C9B",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/sculptures/smk/smk_the_chiaramonti_niobid_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -9601,7 +9601,7 @@
   },
   {
     "hash": "01E6CB8912A6D026",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/levels/lotus/decal_trophy_wall_text_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -9796,7 +9796,7 @@
   },
   {
     "hash": "011E3A5D60179519",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/sculptures/tm/tm_ganymede_filling_the_cup_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -9866,7 +9866,7 @@
   },
   {
     "hash": "01D55F3107C95FD1",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/parts_muscular/heads/head_muscular_arabic_03/materials/head_muscular_arabic_03.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -9921,7 +9921,7 @@
   },
   {
     "hash": "0155DF39CAB50AD2",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/street_props/asphalt_debris_a_sandstone.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -9976,7 +9976,7 @@
   },
   {
     "hash": "01ADF1CBA91E2B49",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/generic/plastic/rubber_antislip_c.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -10071,7 +10071,7 @@
   },
   {
     "hash": "01F7A50942848C72",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/electronics/radio_bnb_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -10086,7 +10086,7 @@
   },
   {
     "hash": "01F9636FA11826C6",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/decorative/cloth_tarp_big_c.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -10161,7 +10161,7 @@
   },
   {
     "hash": "01DB45D9BA4EF1E4",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/electronic/elevator_buttons_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -10281,12 +10281,12 @@
   },
   {
     "hash": "01A198D89DC37E15",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/generic/cloth/pipe_insulation_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
     "hash": "017D62D6BFAE7B4A",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/sculptures/dragon_head_statue_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -10446,7 +10446,7 @@
   },
   {
     "hash": "0114FF776DB47D71",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/bathroom/toilet_bag_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -10456,7 +10456,7 @@
   },
   {
     "hash": "01BEB315E4013863",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/kits/london/museum/victorian_int_walkway_4x1_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -10471,7 +10471,7 @@
   },
   {
     "hash": "01177CC4FDD68238",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/containers/container_military_mi6_v4_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -10506,7 +10506,7 @@
   },
   {
     "hash": "01B918C7D4E8D1F7",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/furniture/branding_hm_marl_moroccan_wool_rug_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -10631,7 +10631,7 @@
   },
   {
     "hash": "015BA1F6EB3CF01B",
-    "path": "",
+    "path": "[assembly:/_knt/vehicles/materials/bicycle_rentbike_a/bicycle_rentbike_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -10641,7 +10641,7 @@
   },
   {
     "hash": "0161A3C174FA6680",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/materials/levels/mauritania/quixel_aset_nature_rock_xl_vepneiy_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -10851,7 +10851,7 @@
   },
   {
     "hash": "01CA5E1F64BDA3BD",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/generic/foam/acoustic_foam_c.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -10886,7 +10886,7 @@
   },
   {
     "hash": "01F131E6A1300BDB",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/materials/generic/fabric/quixel_carpet_pckhvhp0_d.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -10896,7 +10896,7 @@
   },
   {
     "hash": "01E81EF60D785374",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/industrial/rusty_metal_barrels_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -10921,7 +10921,7 @@
   },
   {
     "hash": "016ADBE8A467673B",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/generic/trim/plastic_trim_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -10961,7 +10961,7 @@
   },
   {
     "hash": "01994F6E5A4E0FDB",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/sculptures/smk/smk_head_of_giant_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -11001,7 +11001,7 @@
   },
   {
     "hash": "01C08C571C8D5F98",
-    "path": "",
+    "path": "[assembly:/_pro/_licensed/quixel/materials/props/industrial/quixel_brickrubble_decal_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -11016,7 +11016,7 @@
   },
   {
     "hash": "014ECF82675C1C41",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/levels/orchid/robotics_lens_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -11051,7 +11051,7 @@
   },
   {
     "hash": "013C7A38DC586C01",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/generic/metal/metal_painted_g.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -11076,7 +11076,7 @@
   },
   {
     "hash": "018314F3B9561DC5",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/sculptures/smk/smk_st_jerome_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -11116,7 +11116,7 @@
   },
   {
     "hash": "010FF1AAAAA0C99F",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/materials/decals/quixel_painted_metal_rusty_decal_tklkebpl_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -11176,7 +11176,7 @@
   },
   {
     "hash": "011C593A81214494",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/levels/bluebell/server_cloth_cover_2x2x1_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -11196,7 +11196,7 @@
   },
   {
     "hash": "01C58E9B5E1E0550",
-    "path": "",
+    "path": "[assembly:/_knt/items/materials/gadgets/laser_device_a/laser_device_watch_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -11211,7 +11211,7 @@
   },
   {
     "hash": "01493D04E04DB0F8",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/materials/foliage/quixel_zamia_palm_ulrtcjsia_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -11226,7 +11226,7 @@
   },
   {
     "hash": "01D8847BF2C0F2D6",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/decorative/yacht_heater_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -11331,7 +11331,7 @@
   },
   {
     "hash": "01C422075BBA080D",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/furniture/branding_hm_marl_moroccan_wool_rug_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -11411,7 +11411,7 @@
   },
   {
     "hash": "0110EBCA7E747505",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/decorative/pot_ceramic_big_c_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -11531,7 +11531,7 @@
   },
   {
     "hash": "01103F3E8A91C6D2",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/generic/stone/marble_black_e.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -11646,12 +11646,12 @@
   },
   {
     "hash": "0167BD2D3CFD6822",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/sculptures/smk/smk_fresco_pitti_tondo_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
     "hash": "01C96DE7BD998641",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/materials/foliage/quixel_common_fern_rhdso_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -11741,7 +11741,7 @@
   },
   {
     "hash": "014997D61A564D55",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/lamps/branding_hm_nelson_pear_lotus_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -11751,7 +11751,7 @@
   },
   {
     "hash": "0109291DCE3155F5",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/paper/postit_takeaway_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -11856,7 +11856,7 @@
   },
   {
     "hash": "01A57AE1438087F4",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/sculptures/smk/smk_saint_george_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -11891,7 +11891,7 @@
   },
   {
     "hash": "01770DC50800AA9B",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/furniture/hm_chair_arm_terassi_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -11966,7 +11966,7 @@
   },
   {
     "hash": "01DCAF253DC3DF6E",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/lamps/lamp_modern_ceiling_light_flood_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -12016,7 +12016,7 @@
   },
   {
     "hash": "019E7DFFB4D4EA69",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/sculptures/nm/nm_neptune_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -12086,7 +12086,7 @@
   },
   {
     "hash": "012926F10CA21122",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/materials/foliage/quixel_grass_wild_vdilbaiia_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -12236,7 +12236,7 @@
   },
   {
     "hash": "015D2F741F29B6B3",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/decals/fonts/font_gecko_numbers_letters_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -12296,7 +12296,7 @@
   },
   {
     "hash": "0103CA0DC1A60EA4",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/furniture/chair_antique_a_fabric.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -12341,7 +12341,7 @@
   },
   {
     "hash": "018BF6BBE8586858",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/architecture/exterior/concrete_sewers_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -12381,7 +12381,7 @@
   },
   {
     "hash": "01EF6BEF3AADC7C2",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/street_props/car_barricade_bollard_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -12476,7 +12476,7 @@
   },
   {
     "hash": "0103B37D183E52A8",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/materials/props/industrial/quixel_polystyrene_block_weurdik_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -12536,7 +12536,7 @@
   },
   {
     "hash": "0137EAC59A8342C2",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/materials/props/decorative/quixel_wood_container_uhckbgiva_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -12681,7 +12681,7 @@
   },
   {
     "hash": "01E13B8E72CD5748",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/parts_average/heads/head_young_african_01/materials/head_young_african_01.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -12731,7 +12731,7 @@
   },
   {
     "hash": "01D03EDCA4E51056",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/sculptures/smk/smk_head_from_athena_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -12741,7 +12741,7 @@
   },
   {
     "hash": "0161BDD9CA20AB7B",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/collectibles/collectible_snowglobe_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -13051,7 +13051,7 @@
   },
   {
     "hash": "0101235106035CC8",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/glass/frosted_glass_opaque_h.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -13061,7 +13061,7 @@
   },
   {
     "hash": "01D4E974ECDB3D8B",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/wall/concrete_bare_modular_f_zmapped.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -13101,7 +13101,7 @@
   },
   {
     "hash": "017E492869E6F1B0",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/materials/levels/iceland/quixel_rock_assembly_jagged_mossy_rough_smooth_tayv6_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -13196,7 +13196,7 @@
   },
   {
     "hash": "01DE9DA512DEF7F1",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/floor/vinyl_nobbles_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -13396,12 +13396,12 @@
   },
   {
     "hash": "016ABA4F0E9F0DF1",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/materials/levels/iceland/quixel_nature_rock_ve3qdhmqx_c.mi].entityblueprint",
     "gameFlags": 1
   },
   {
     "hash": "017580A753B2FFB0",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/trim/trim_classic_largesupportbeam_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -13471,12 +13471,12 @@
   },
   {
     "hash": "012A76A7DC5DC546",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/lamps/polyhaven_chandelier_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
     "hash": "0178E294EEEEDD82",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/sculptures/smk/smk_john_the_baptist_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -13521,12 +13521,12 @@
   },
   {
     "hash": "017420853CD9A891",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/sculptures/tm/tm_psyche_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
     "hash": "010567574517C3ED",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/decorative/mia_thai_jar_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -13726,7 +13726,7 @@
   },
   {
     "hash": "0118827C484580DD",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/lamps/m_office_wall_lamp_d.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -13811,7 +13811,7 @@
   },
   {
     "hash": "01B3DB4EAA07E480",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/furniture/branding_hm_blis_swivel_chair_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -13946,7 +13946,7 @@
   },
   {
     "hash": "01BC87317F5AAFB3",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/lamps/branding_hm_nelson_cigar_tripod_lamp_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -14021,7 +14021,7 @@
   },
   {
     "hash": "017B275E925C4124",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/lamps/branding_hm_nelson_pear_bubble_pendant_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -14056,7 +14056,7 @@
   },
   {
     "hash": "01F00D95DF07C190",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/furniture/polyhaven_plastic_chair_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -14136,7 +14136,7 @@
   },
   {
     "hash": "012A951331A57963",
-    "path": "",
+    "path": "[assembly:/_knt/effects/materials/custom/gadgets/fx_gadget_blastdevice_glow_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -14186,7 +14186,7 @@
   },
   {
     "hash": "01D9432B4B40507E",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/collectibles/collectible_postcard_magnolia_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -14236,7 +14236,7 @@
   },
   {
     "hash": "01EEFCAF3B1BC665",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/bathroom/polyhaven_allpurpose_cleaner_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -14371,7 +14371,7 @@
   },
   {
     "hash": "01F4E7B3115BE934",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/signs/traffic_sign_left_turn_ahead_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -14441,12 +14441,12 @@
   },
   {
     "hash": "01DC4683D1BE4167",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/furniture/sunbed_table_wooden_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
     "hash": "0164352DF38061A6",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/decorative/pillow_resort_e.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -14591,7 +14591,7 @@
   },
   {
     "hash": "01D25AB566017B3E",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/levels/lotus/decal_trophy_wall_text_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -14646,7 +14646,7 @@
   },
   {
     "hash": "01B4D2AC799ABA9D",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/parts_average/heads/head_young_hispanic_01/materials/head_young_hispanic_01.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -14756,7 +14756,7 @@
   },
   {
     "hash": "015BA80E22D8B726",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/materials/props/rocks/quixel_rock_slumo_c.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -14806,7 +14806,7 @@
   },
   {
     "hash": "015E050DB90B630F",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/materials/levels/iceland/quixel_rock_assembly_telpahfda_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -14886,7 +14886,7 @@
   },
   {
     "hash": "01BFE593BFE8A2E7",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/screens/exhibition_screen_info_chivalry_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -14921,7 +14921,7 @@
   },
   {
     "hash": "01B23B5833A8F515",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/pipes/smokepipe_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -14956,7 +14956,7 @@
   },
   {
     "hash": "0199D05BF2AA4CC1",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/materials/generic/wall/concrete_wall_stripes_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -14971,7 +14971,7 @@
   },
   {
     "hash": "0133FDD4BFB2B24C",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/street_props/rose_food_stalls_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -15031,7 +15031,7 @@
   },
   {
     "hash": "01BC20CCB8400682",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/materials/foliage/quixel_ivy_climbers_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -15056,7 +15056,7 @@
   },
   {
     "hash": "01241915D12A2B97",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/sculptures/smk/smk_dionysus_of_tivoli_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -15106,7 +15106,7 @@
   },
   {
     "hash": "0168F5B87E939C50",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/furniture/hm_chair_arm_jens_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -15136,7 +15136,7 @@
   },
   {
     "hash": "016BE03E2E354429",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/decals/glass/decals_glass_cracked_c.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -15156,7 +15156,7 @@
   },
   {
     "hash": "01691D7BB6080C20",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/materials/generic/metal/quixel_metal_flooring_ubklbdzaw_c.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -15191,7 +15191,7 @@
   },
   {
     "hash": "01460223DB6A091A",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/resourcegadgets/gadgetresource_sanitizer_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -15381,7 +15381,7 @@
   },
   {
     "hash": "01812AC60983E95F",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/generic/plastic/resin_black_e_zmapped.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -15406,7 +15406,7 @@
   },
   {
     "hash": "0191D568764EEB46",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/screens/screen_tacsim_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -15456,7 +15456,7 @@
   },
   {
     "hash": "01A42B4CBA1AA73F",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/levels/bluebell/server_cloth_cover_1x150x1_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -15591,7 +15591,7 @@
   },
   {
     "hash": "012C1E3CA5D7AAA2",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/lamps/branding_hm_nelson_cigar_bubble_pendant_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -15611,7 +15611,7 @@
   },
   {
     "hash": "010F71EC9BA6316F",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/decorative/pillow_resort_d.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -15796,7 +15796,7 @@
   },
   {
     "hash": "01AAF7AC7B676360",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/materials/foliage/quixel_taro_sjlkg_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -15811,7 +15811,7 @@
   },
   {
     "hash": "01075418501D0135",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/electronics/powertool_chargingstation_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -15836,7 +15836,7 @@
   },
   {
     "hash": "01E81F480F1663D0",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/foliage/trees/silver_fir_tree_c.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -16021,12 +16021,12 @@
   },
   {
     "hash": "0184BA7FCCDCF574",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/generic/wood/wood_zebrawood_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
     "hash": "011D1DCF8B9D20D3",
-    "path": "",
+    "path": "[assembly:/_knt/vehicles/materials/military_tech_gunboat_a/military_tech_gunboat_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -16066,7 +16066,7 @@
   },
   {
     "hash": "014164A56D66B369",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/materials/foliage/quixel_plant_boradleaf_lady_palm_shqke_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -16151,7 +16151,7 @@
   },
   {
     "hash": "01D251AAAD1ABDA6",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/sculptures/wraps/smk_statue_of_priestess_wrap_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -16296,12 +16296,12 @@
   },
   {
     "hash": "01F560CFB2651C07",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/gym/jar_protein_powder_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
     "hash": "01EB6A4A6A465A87",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/furniture/hm_chair_setu_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -16346,7 +16346,7 @@
   },
   {
     "hash": "0189F27A90305ACD",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/sculptures/tm/tm_caroline_amalie_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -16421,12 +16421,12 @@
   },
   {
     "hash": "01794ED5F08586AD",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/backdrop/buildings/skyline_plane_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
     "hash": "0130052AF638B9F0",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/levels/ivy/plastic_tarp_curtains_c.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -16681,7 +16681,7 @@
   },
   {
     "hash": "01C27365303526B2",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/lamps/branding_hm_nelson_arco_floor_lamp_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -16766,7 +16766,7 @@
   },
   {
     "hash": "01DDF7A7BEEE2FB1",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/furniture/side_table_round_wood_c.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -16786,7 +16786,7 @@
   },
   {
     "hash": "019454D2FB2BB776",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/decorative/cloth_tarp_triangle_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -16881,7 +16881,7 @@
   },
   {
     "hash": "01D93C1BD0ADF1E5",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/materials/generic/stone/quixel_mossy_forest_rock_wdbnbbb_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -17001,7 +17001,7 @@
   },
   {
     "hash": "01A3BEF66AB7A1DA",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/collectibles/collectible_calliban_profile_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -17026,7 +17026,7 @@
   },
   {
     "hash": "011D2442EDAEB606",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/gym/yoga_mat_rolled_up_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -17136,7 +17136,7 @@
   },
   {
     "hash": "012F88761C1B3375",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/screens/exhibition_screen_large_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -17171,7 +17171,7 @@
   },
   {
     "hash": "01B06EBF1EC7E854",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/food/orange_juice_carton_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -17306,7 +17306,7 @@
   },
   {
     "hash": "01A1D5A106D92AEE",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/generic/floor/linoleum_floor_zmapped_d.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -17376,7 +17376,7 @@
   },
   {
     "hash": "01F1E8DE69D947FD",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/lamps/branding_hm_bell_portable_lamp_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -17391,7 +17391,7 @@
   },
   {
     "hash": "018445787CB7CE46",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/sculptures/smk/smk_head_from_vatican_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -17406,7 +17406,7 @@
   },
   {
     "hash": "01C4862DBA120EC4",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/lamps/branding_hm_nelson_saucer_bubble_pendant_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -17526,7 +17526,7 @@
   },
   {
     "hash": "0163E79FA1112F8D",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/levels/bluebell/server_cloth_cover_2x2x1_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -17621,7 +17621,7 @@
   },
   {
     "hash": "0126ACF22EF9AD18",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/kits/clover/clover_tents_a/tent_ext_fabric_k.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -17641,7 +17641,7 @@
   },
   {
     "hash": "0105ECD918DC8A12",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/sculptures/nm/nm_pacing_horse_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -18006,7 +18006,7 @@
   },
   {
     "hash": "0166B163D3534A9D",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/electronics/atac_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -18096,7 +18096,7 @@
   },
   {
     "hash": "012B62198F365B6D",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/materials/foliage/quixel_climber_xfqicgrqx_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -18141,7 +18141,7 @@
   },
   {
     "hash": "01D3B65D532E4E25",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/collectibles/collectible_calliban_dossier_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -18166,7 +18166,7 @@
   },
   {
     "hash": "01448F8A353943C2",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/pipes/pipes_tileset_painted_black_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -18251,7 +18251,7 @@
   },
   {
     "hash": "01DA28FE9651BB57",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/levels/bluebell/server_cloth_cover_2x1x1_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -18401,7 +18401,7 @@
   },
   {
     "hash": "016C1C52DC493841",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/paper/rose_paper_note_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -18486,7 +18486,7 @@
   },
   {
     "hash": "0128D2F7B044759E",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/sculptures/smk/smk_bust_venus_italica_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -18516,7 +18516,7 @@
   },
   {
     "hash": "011083D7BD47FFD1",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/individuals/_maincast/gaius/kits/kit_pepper_blazer/materials/jacket_kit_pepper_blazer.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -18676,7 +18676,7 @@
   },
   {
     "hash": "013E36CA0359B8A7",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/decorative/pillow_resort_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -18906,7 +18906,7 @@
   },
   {
     "hash": "01AF3D2B737E58B2",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/decorative/vase_palace_museflowers_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -18996,12 +18996,12 @@
   },
   {
     "hash": "017DE9862E7F0F92",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/trash/paper_trash_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
     "hash": "012E374C110722A5",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/materials/levels/iceland/quixel_nature_rock_ve3qdhmqx_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -19026,7 +19026,7 @@
   },
   {
     "hash": "01EB07492F8BE4D6",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/materials/generic/fabric/quixel_carpet_pckhvhp0_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -19141,7 +19141,7 @@
   },
   {
     "hash": "016E4D7695025160",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/equipment/military_walkie_talkie_radio_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -19186,7 +19186,7 @@
   },
   {
     "hash": "0190317492BF2CA1",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/glass/generic_glass_dark_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -19206,7 +19206,7 @@
   },
   {
     "hash": "016C2EBA9F87A691",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/lamps/work_lamp_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -19436,7 +19436,7 @@
   },
   {
     "hash": "01BA4B9E089832FC",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/materials/foliage/quixel_dead_tree_rlthg_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -19486,7 +19486,7 @@
   },
   {
     "hash": "0197BC8A992F3F20",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/sculptures/smk/smk_sculpture_andre_cheniers_muse_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -19496,7 +19496,7 @@
   },
   {
     "hash": "01F6773955D0C112",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/materials/foliage/quixel_lawn_grass_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -19581,7 +19581,7 @@
   },
   {
     "hash": "01E223205141759E",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/backdrop/buildings/backdrop_building_paris_k.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -19651,7 +19651,7 @@
   },
   {
     "hash": "01362D9FC633EFE0",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/paper/books_bond_apartment_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -19746,7 +19746,7 @@
   },
   {
     "hash": "01D0615AEC1AF075",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/sculptures/smk/smk_the_lycean_apollo_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -19766,7 +19766,7 @@
   },
   {
     "hash": "01ACEEA461E43CB3",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/materials/foliage/quixel_hydrangea_bush_umogderp2_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -19956,7 +19956,7 @@
   },
   {
     "hash": "01967742C82343EB",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/decorative/fireplace_antique_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -20001,7 +20001,7 @@
   },
   {
     "hash": "01BD9EE822A68798",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/materials/foliage/quixel_shrub_vdknafgha_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -20016,7 +20016,7 @@
   },
   {
     "hash": "011717701EDEEA87",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/foliage/trees/palm_queen_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -20046,7 +20046,7 @@
   },
   {
     "hash": "01E2593C21DA280E",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/sculptures/tm/tm_ganymede_offering_the_cup_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -20101,7 +20101,7 @@
   },
   {
     "hash": "012E1E9C3164E008",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/generic/metal/metal_old_painted_f.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -20231,7 +20231,7 @@
   },
   {
     "hash": "0137A1404756440E",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/decorative/vase_baroque_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -20391,7 +20391,7 @@
   },
   {
     "hash": "01F687CBCCD73566",
-    "path": "",
+    "path": "[assembly:/_knt/vehicles/materials/bicycle_rentbike_a/bicycle_rentbike_stand_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -20421,7 +20421,7 @@
   },
   {
     "hash": "01A00B5F7B144D81",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/equipment/cargo_net_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -20431,7 +20431,7 @@
   },
   {
     "hash": "01F4EBCE7F6F3A15",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/sculptures/tm/tm_sculpture_recumbent_lion_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -20556,7 +20556,7 @@
   },
   {
     "hash": "012AE61E60591D0A",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/furniture/table_weapon_shopwork_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -20581,7 +20581,7 @@
   },
   {
     "hash": "01C3A7EEA7378B58",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/sculptures/nm/nm_pacing_horse_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -20631,7 +20631,7 @@
   },
   {
     "hash": "01EA99CAFAD87D71",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/parts_average/heads/head_young_asian_01/materials/head_young_asian_01.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -20646,7 +20646,7 @@
   },
   {
     "hash": "01E1BFBFEBA5F700",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/sculptures/nm/nm_venus_rising_from_the_waves_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -20776,7 +20776,7 @@
   },
   {
     "hash": "0113B4DA4F4E423E",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/sculptures/smk/smk_standing_warrior_temple_of_aphaia_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -20926,7 +20926,7 @@
   },
   {
     "hash": "01C269CD1453772D",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/foliage/trees/tree_shrub_desert_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -20941,7 +20941,7 @@
   },
   {
     "hash": "01B4C66677190976",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/signs/signs_museum_directions_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -21121,7 +21121,7 @@
   },
   {
     "hash": "01271E89912E7E9F",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/generic/metal/clover_container_painted_metal_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -21136,7 +21136,7 @@
   },
   {
     "hash": "0153590B471F30FB",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/sculptures/tm/tm_bacchus_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -21211,7 +21211,7 @@
   },
   {
     "hash": "0178EE69BE403FE8",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/lamps/m_office_wall_lamp_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -21311,12 +21311,12 @@
   },
   {
     "hash": "013A56C78CF7D765",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/street_props/dahlia_market_umbrella_c.mi].entityblueprint",
     "gameFlags": 1
   },
   {
     "hash": "01620F6D243171C2",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/sculptures/tm/tm_deianira_abducted_nessus_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -21366,7 +21366,7 @@
   },
   {
     "hash": "01E272646CE114BE",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/generic/stone/marble_black_f.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -21406,7 +21406,7 @@
   },
   {
     "hash": "01F3A8C6A6BD1666",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/food/water_bottle_metal_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -21436,12 +21436,12 @@
   },
   {
     "hash": "017F80190A4F4FE9",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/materials/props/rocks/quixel_western_rock_large_xgoraef_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
     "hash": "019F2663F787231D",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/materials/levels/mauritania/quixel_nature_rock_cliff_vennei3_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -21476,7 +21476,7 @@
   },
   {
     "hash": "014AA64133CAB984",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/decorative/pillow_resort_c.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -21511,7 +21511,7 @@
   },
   {
     "hash": "0173DFE79C7C7CE7",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/electronics/movieset_wire_b.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -21556,12 +21556,12 @@
   },
   {
     "hash": "010A30FF3854BDE5",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/materials/decals/quixel_atlas_decals_sgzh1so_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
     "hash": "015547EC7586BA5D",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/materials/levels/iceland/quixel_rock_cliffs_cliffs_jagged_lava_rough_smooth_sjnbp_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -21741,7 +21741,7 @@
   },
   {
     "hash": "018C2A8ED03FF5A3",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/paper/inspectable_note_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -21816,7 +21816,7 @@
   },
   {
     "hash": "010933B11D867B38",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/props/food/steel_bottle_a.mi].entityblueprint",
     "gameFlags": 1
   },
   {
@@ -21886,7 +21886,7 @@
   },
   {
     "hash": "013E54C2FC438318",
-    "path": "",
+    "path": "[assembly:/_knt/environment/materials/generic/metal/metal_brushed_g.mi].entityblueprint",
     "gameFlags": 1
   },
   {

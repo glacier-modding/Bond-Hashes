@@ -6,7 +6,7 @@
   },
   {
     "hash": "01F8541BE3E46A8B",
-    "path": "",
+    "path": "[assembly:/_pro/effects/textures/projections/fx_projection_3d_generic_floorlamp.texture?/diffuse_h.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -446,7 +446,7 @@
   },
   {
     "hash": "015B66B182853176",
-    "path": "",
+    "path": "[assembly:/_pro/effects/textures/debris/fx_par_debris_stone_4x4_01.texture?/normal_a.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -1626,7 +1626,7 @@
   },
   {
     "hash": "0146C5877A1E7C3B",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/furniture/restaurant_sofa_plexiglass_a.texture?/diffuse_a.tex](ascompoundnormal).mipblock1",
     "gameFlags": 1
   },
   {
@@ -1686,7 +1686,7 @@
   },
   {
     "hash": "012E07793069805E",
-    "path": "",
+    "path": "[assembly:/_pro/_licensed/quixel/textures/foliage/quixel_perwinkle_a.texture?/quixel_translucency_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -2111,7 +2111,7 @@
   },
   {
     "hash": "01A8D0FA0266615E",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/electronics/computer_bank_screen_a.texture?/diffuse_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -2446,7 +2446,7 @@
   },
   {
     "hash": "0141B545B1317DD4",
-    "path": "",
+    "path": "[assembly:/_pro/_licensed/quixel/textures/foliage/quixel_perwinkle_a.texture?/quixel_specular_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -3556,7 +3556,7 @@
   },
   {
     "hash": "014CD099CDC8FF20",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/metal/metal_grid_b.texture?/height_a.tex](asheightmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -4216,7 +4216,7 @@
   },
   {
     "hash": "018EA6F53B754DB4",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/wood/wooden_balcony_a.texture?/diffuse_c.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -5406,7 +5406,7 @@
   },
   {
     "hash": "01BDFBF3B163B211",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/props/furniture/chair_antique_a.texture?/normal_c.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -5756,7 +5756,7 @@
   },
   {
     "hash": "0166773FD13F06EE",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/stone/marble_bricks_wall_irregular_b.texture?/diffuse_c.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -6301,7 +6301,7 @@
   },
   {
     "hash": "01E6F165C7C0FAEC",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/floor/planks_modern_birchwood_a.texture?/normal_b.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -6501,7 +6501,7 @@
   },
   {
     "hash": "013A3241CA49FD63",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/props/electronic/refrigerator_beverage_a.texture?/emissive_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -6736,7 +6736,7 @@
   },
   {
     "hash": "01AC0D9665155BA3",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/decorative/office_desk_pad_a.texture?/diffuse_b.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -6931,7 +6931,7 @@
   },
   {
     "hash": "014878EB730CAC74",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/food/cookies_plate_b.texture?/normal_a.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -7791,7 +7791,7 @@
   },
   {
     "hash": "0187D1B92E306D90",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/props/furniture/table_drawer_antique_a.texture?/mask_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -7966,7 +7966,7 @@
   },
   {
     "hash": "01235C495EA38CC5",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/decals/markings/road_markings_d.texture?/diffuse_g.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -8261,7 +8261,7 @@
   },
   {
     "hash": "01415041532B1297",
-    "path": "",
+    "path": "[assembly:/_pro/_licensed/quixel/textures/foliage/quixel_perwinkle_a.texture?/quixel_diffuse_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -8841,7 +8841,7 @@
   },
   {
     "hash": "019CF71926C1A903",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/makeup/toothpaste_hotel_a.texture?/diffuse_b.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -9196,7 +9196,7 @@
   },
   {
     "hash": "01A964A74994DD2E",
-    "path": "",
+    "path": "[assembly:/_frl/environment/textures/generic/wall/concrete_wood_ingrained_b.texture?/diffuse_c.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -9421,7 +9421,7 @@
   },
   {
     "hash": "0172B202FCCF9A76",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/generic/glass/generic_mirror_a.texture?/normal_a.tex](ascompoundnormal).mipblock1",
     "gameFlags": 1
   },
   {
@@ -9541,7 +9541,7 @@
   },
   {
     "hash": "01887843A0BC7B0D",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/wall/wooden_panel_gold_ornate_a.texture?/normal_c.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -9986,7 +9986,7 @@
   },
   {
     "hash": "01DF953FF0BC0CAC",
-    "path": "",
+    "path": "[assembly:/_pro/effects/textures/screen/fx_screen_broken_glass.texture?/diffuse_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -10301,7 +10301,7 @@
   },
   {
     "hash": "012BE7009A49C9AF",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/generic/wall/limestone_palace_a.texture?/height_a.tex](asheightmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -13856,7 +13856,7 @@
   },
   {
     "hash": "01822BB1E6B9535F",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/props/lamps/light_wall_emissive_a.texture?/emissive_e.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -14671,7 +14671,7 @@
   },
   {
     "hash": "01E3AE0203A703A7",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/panels/panels_wooden_decorated_c.texture?/diffuse_b.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -14701,7 +14701,7 @@
   },
   {
     "hash": "01EABE590DAD8225",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/props/decorative/wall_clock_a.texture?/mask_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -14721,7 +14721,7 @@
   },
   {
     "hash": "010326C843623484",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/props/containers/laundry_carts_b.texture?/mask_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -14851,7 +14851,7 @@
   },
   {
     "hash": "0136BCF635181880",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/stone/marble_bricks_wall_irregular_a.texture?/diffuse_b.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -15721,7 +15721,7 @@
   },
   {
     "hash": "0138E178D722165C",
-    "path": "",
+    "path": "[assembly:/_pro/effects/textures/water/fx_waterfall_white_water.texture?/mask_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -16301,7 +16301,7 @@
   },
   {
     "hash": "0179859F1C1D0858",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/detailmaps/plastic/detailmap_tarp_a.texture?/detail_b.tex](ascompoundnormal).mipblock1",
     "gameFlags": 1
   },
   {
@@ -16586,7 +16586,7 @@
   },
   {
     "hash": "018F20A904DBCB3F",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/wood/wooden_balcony_a.texture?/diffuse_b.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -17251,7 +17251,7 @@
   },
   {
     "hash": "01F20A4F2E760D07",
-    "path": "",
+    "path": "[assembly:/_frl/environment/textures/decals/edges/edge_decals_concrete_b.texture?/normal_a.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -18206,7 +18206,7 @@
   },
   {
     "hash": "0113E565D86B90EF",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/props/food/beerbottles_a_decal.texture?/normal_a.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -19011,7 +19011,7 @@
   },
   {
     "hash": "01409DA9CCF6B633",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/food/cookies_plate_b.texture?/diffuse_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -19601,7 +19601,7 @@
   },
   {
     "hash": "012DD2967EA04F48",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/stone/marble_bricks_wall_irregular_a.texture?/normal_c.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -19636,7 +19636,7 @@
   },
   {
     "hash": "010E56DB38000339",
-    "path": "",
+    "path": "[assembly:/_pro/effects/textures/water/fx_water_waves_shore.texture?/emissive_b.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -21126,7 +21126,7 @@
   },
   {
     "hash": "0110D54A8D3B9E17",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/foliage/fur_grass_a.texture?/diffuse_a.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -24211,7 +24211,7 @@
   },
   {
     "hash": "01CBE6C090439C8B",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/papers/letter_from_constant_a.texture?/diffuse_c.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -24601,7 +24601,7 @@
   },
   {
     "hash": "01824CB6A08D1315",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/generic/fabric/mumbai_set_red_fabric.texture?/diffuse_b.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -24871,7 +24871,7 @@
   },
   {
     "hash": "014C9F9E97CC7947",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/decals/scratches/metal_dents_b.texture?/specular_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -24896,7 +24896,7 @@
   },
   {
     "hash": "01351968216C1133",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/generic/ground/grass_park_a.texture?/height_a.tex](ascompoundnormal).mipblock1",
     "gameFlags": 1
   },
   {
@@ -25496,7 +25496,7 @@
   },
   {
     "hash": "01C7AE2413F88F74",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/wall/concrete_bare_weathered_b.texture?/diffuse_e.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -26216,7 +26216,7 @@
   },
   {
     "hash": "013DFF5CC7FFC6C7",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/papers/letter_from_constant_a.texture?/diffuse_d.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -27791,7 +27791,7 @@
   },
   {
     "hash": "01B1F03D027A2FD2",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/cloth/pipe_insulation_b.texture?/height_a.tex](asheightmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -27806,7 +27806,7 @@
   },
   {
     "hash": "018D8E02235F8B1C",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/props/furniture/chair_modern_a.texture?/mask_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -28011,7 +28011,7 @@
   },
   {
     "hash": "013BA318327C3A64",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/ground/concrete_ground_weathered_a.texture?/normal_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -29001,7 +29001,7 @@
   },
   {
     "hash": "01C0135E42023FE6",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/generic/metal/metal_grid_c.texture?/specular_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -29486,7 +29486,7 @@
   },
   {
     "hash": "01D4C1FAB37CD921",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/architecture/doors/door_palace_a.texture?/height_a.tex](asheightmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -30156,7 +30156,7 @@
   },
   {
     "hash": "0173F31F087B41CF",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/metal/metal_grid_a.texture?/height_a.tex](asheightmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -30221,7 +30221,7 @@
   },
   {
     "hash": "01B9FA747C04E99C",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/panels/panels_wooden_decorated_c.texture?/diffuse_c.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -31806,7 +31806,7 @@
   },
   {
     "hash": "015705ABD5ACD3C9",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/electronic/tv_security_screens_llama_a.texture?/emissive_j.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -32656,7 +32656,7 @@
   },
   {
     "hash": "01A44FD377474963",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/decals/markings/tape_hazard_zone_bronx_a.texture?/diffuse_b.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -32781,7 +32781,7 @@
   },
   {
     "hash": "01D4386E55872DDA",
-    "path": "",
+    "path": "[assembly:/_pro/_licensed/quixel/textures/props/industrial/quixel_cement_rubble_pile_fox_a.texture?/quixel_diffuse_c.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -33276,7 +33276,7 @@
   },
   {
     "hash": "01DAB88D5EE9E485",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/props/fabric/restaurant_sofa_leather_a.texture?/diffuse_b.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -34426,7 +34426,7 @@
   },
   {
     "hash": "0194904FC3FB166F",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/floor/linoleum_floor_industrial_a.texture?/diffuse_e.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -35606,7 +35606,7 @@
   },
   {
     "hash": "010DE3AAEE5A0199",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/props/harbour_props/windsock_a.texture?/diffuse_b.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -35796,7 +35796,7 @@
   },
   {
     "hash": "0134743B75497D89",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/props/containers/crate_wooden_a.texture?/diffuse_d.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -35931,7 +35931,7 @@
   },
   {
     "hash": "01F43428C5015627",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/props/furniture/sofa_antique_a.texture?/normal_b.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -37286,7 +37286,7 @@
   },
   {
     "hash": "010AB7BBE869575E",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/props/bedroom/blanket_a_folded_c.texture?/diffuse_c.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -38576,7 +38576,7 @@
   },
   {
     "hash": "01979B0F8BC5E18E",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/generic/wall/concrete_bare_a.texture?/normal_a.tex](ascompoundnormal).mipblock1",
     "gameFlags": 1
   },
   {
@@ -39016,7 +39016,7 @@
   },
   {
     "hash": "018078AC22CBB60D",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/props/containers/crate_wooden_a.texture?/normal_f.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -41711,7 +41711,7 @@
   },
   {
     "hash": "0171A3B0BA205008",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/props/furniture/puff_chair_antique_b.texture?/mask_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -42521,7 +42521,7 @@
   },
   {
     "hash": "01EB2F5C57F17C1F",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/metal/clover_container_painted_metal_c.texture?/diffuse_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -43311,7 +43311,7 @@
   },
   {
     "hash": "01346F0D78E0247E",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/detailmaps/organic/water_drops_a.texture?/detail_b.tex](ascompoundnormal).mipblock1",
     "gameFlags": 1
   },
   {
@@ -43356,7 +43356,7 @@
   },
   {
     "hash": "01B7D962C72811B0",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/wall/concrete_bare_weathered_b.texture?/diffuse_c.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -43646,7 +43646,7 @@
   },
   {
     "hash": "014E0A93C7C794F6",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/stone/marble_bricks_wall_irregular_b.texture?/normal_b.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -44706,7 +44706,7 @@
   },
   {
     "hash": "016F20E3A9DCB769",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/toilets/urinal_small_fox_a.texture?/diffuse_b.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -45266,7 +45266,7 @@
   },
   {
     "hash": "01076FCB3CB92CC0",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/props/containers/crate_wooden_a.texture?/diffuse_f.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -45756,7 +45756,7 @@
   },
   {
     "hash": "01F5E4F517937028",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/floor/metal_catwalk_a.texture?/normal_b.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -45781,7 +45781,7 @@
   },
   {
     "hash": "01A8479D46504DC3",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/metal/aluminium_foil_b.texture?/normal_b.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -45816,7 +45816,7 @@
   },
   {
     "hash": "0122A19C134CD59A",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/props/furniture/puff_chair_antique_a.texture?/mask_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -46846,7 +46846,7 @@
   },
   {
     "hash": "011A0147736AF58F",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/backdrop/buildings/backdrop_building_bangkok_n.texture?/emissive_b.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -47401,7 +47401,7 @@
   },
   {
     "hash": "01D1827160ADD069",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/cloth/pipe_insulation_b.texture?/normal_a.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -48516,7 +48516,7 @@
   },
   {
     "hash": "01521924EDEE3D37",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/furniture/office_chair_a.texture?/normal_a.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -49211,7 +49211,7 @@
   },
   {
     "hash": "014F0514EDBEEBF1",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/books/library_books_b.texture?/normal_b.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -49346,7 +49346,7 @@
   },
   {
     "hash": "01CEE0999FA2FD32",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/stone/marble_bricks_wall_irregular_b.texture?/normal_c.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -49391,7 +49391,7 @@
   },
   {
     "hash": "01AA6704EC431A2B",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/papers/letter_from_constant_a.texture?/diffuse_b.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -49721,7 +49721,7 @@
   },
   {
     "hash": "01BCBE8C7B3BCAD3",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/levels/gecko/painted_metal_panels_a.texture?/diffuse_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -50136,7 +50136,7 @@
   },
   {
     "hash": "01D1F131B9DDF102",
-    "path": "",
+    "path": "[assembly:/_frl/effects/textures/water/fx_water_caustics_a.texture?/emissive_a.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -50361,7 +50361,7 @@
   },
   {
     "hash": "016C33E9F99733C4",
-    "path": "",
+    "path": "[assembly:/_knt/effects/textures/water/fx_water_waves_ocean_a.texture?/normal_d.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -51396,7 +51396,7 @@
   },
   {
     "hash": "01C52A4267C3CF4A",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/wall/panel_gold_ornate_a.texture?/diffuse_b.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -54816,7 +54816,7 @@
   },
   {
     "hash": "0158AD7631EB086E",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/generic/metal/metal_grid_c.texture?/normal_a.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -54826,7 +54826,7 @@
   },
   {
     "hash": "01BDFE4377F95D1E",
-    "path": "",
+    "path": "[assembly:/_pro/_licensed/quixel/textures/foliage/quixel_perwinkle_a.texture?/quixel_normal_a.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -55666,7 +55666,7 @@
   },
   {
     "hash": "017D5D8DCAABE8D0",
-    "path": "",
+    "path": "[assembly:/_pro/effects/textures/liquid/fx_par_liquid_splashbig_4t_8x4_01.texture?/normal_a.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -56496,7 +56496,7 @@
   },
   {
     "hash": "01181ACCC140DDF9",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/stone/marble_bricks_wall_irregular_b.texture?/diffuse_b.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -56586,7 +56586,7 @@
   },
   {
     "hash": "0156B1579AAAFC74",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/props/electronic/computer_screen_generic_a.texture?/diffuse_p.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -56951,7 +56951,7 @@
   },
   {
     "hash": "01C30809853031DF",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/props/pipes/pipes_tileset_a.texture?/normal_d.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -58241,7 +58241,7 @@
   },
   {
     "hash": "011B6ED16418285B",
-    "path": "",
+    "path": "[assembly:/_pro/effects/textures/projections/fx_projection_3d_generic_lamp_b.texture?/diffuse_c.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -58371,7 +58371,7 @@
   },
   {
     "hash": "0137F740C40F7A75",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/wood/wood_oiled_noseams_a.texture?/normal_c.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -58876,7 +58876,7 @@
   },
   {
     "hash": "01475F2CCAAD006B",
-    "path": "",
+    "path": "[assembly:/_pro/_licensed/quixel/textures/scatter/quixel_dry_plants_fox_a.texture?/quixel_diffuse_b.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -60531,7 +60531,7 @@
   },
   {
     "hash": "0150E4413B0E4A1F",
-    "path": "",
+    "path": "[assembly:/_pro/effects/textures/liquid/fx_decal_liquid_leakmask_2x2_01.texture?/normal_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -60821,7 +60821,7 @@
   },
   {
     "hash": "01907B74F221862B",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/electronic/kitchen_stove_block_a_01.texture?/normal_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -61196,7 +61196,7 @@
   },
   {
     "hash": "01BD9F6C1961D62F",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/metal/metal_grid_a.texture?/diffuse_b.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -61971,7 +61971,7 @@
   },
   {
     "hash": "018671672184C1A7",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/stone/marble_bricks_wall_irregular_b.texture?/diffuse_d.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -62226,7 +62226,7 @@
   },
   {
     "hash": "01B2E1A2BD9AD6EF",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/furniture/ext_front_lounge_bar_gradient.texture?/emissive_a.tex](asheightmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -63346,7 +63346,7 @@
   },
   {
     "hash": "019AB0172569E3B7",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/street_props/traffic_sign_speedlimit50_a.texture?/specular_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -63456,7 +63456,7 @@
   },
   {
     "hash": "012F0EC2F0F53B41",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/decals/dirt/dirt_facade_a.texture?/diffuse_c.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -65571,7 +65571,7 @@
   },
   {
     "hash": "0112AF3B62A734F2",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/props/containers/gymbag_a.texture?/normal_c.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -66191,7 +66191,7 @@
   },
   {
     "hash": "019877C2EE578E73",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/food/winebottles_a.texture?/normal_a.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -66526,7 +66526,7 @@
   },
   {
     "hash": "018B47C35E564603",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/panels/panels_wooden_decorated_c.texture?/height_a.tex](asheightmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -66811,7 +66811,7 @@
   },
   {
     "hash": "017C1CCAACA22CDF",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/wall/ceramictiles_modern_white_a.texture?/height_a.tex](asheightmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -66891,7 +66891,7 @@
   },
   {
     "hash": "01D34E6560B03015",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/props/sculptures/sculpture_facade_ornate_e.texture?/height_a.tex](asheightmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -66991,7 +66991,7 @@
   },
   {
     "hash": "01FA0F7ACB2AFE9F",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/generic/metal/metal_painted_white_rust.texture?/normal_b.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -67056,7 +67056,7 @@
   },
   {
     "hash": "017F1DE2592D4301",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/metal/metal_painted_c.texture?/normal_a.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -67266,7 +67266,7 @@
   },
   {
     "hash": "01C44DF8C337FDAF",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/architecture/doors/door_metal_sliding_a.texture?/specular_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -67786,7 +67786,7 @@
   },
   {
     "hash": "01B10A92BB2714CE",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/decals/dirt/dirt_facade_a.texture?/diffuse_b.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -68301,7 +68301,7 @@
   },
   {
     "hash": "018A4262F0E772F1",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/wall/wall_plaster_generic_a.texture?/height_a.tex](ascompoundnormal).mipblock1",
     "gameFlags": 1
   },
   {
@@ -68741,7 +68741,7 @@
   },
   {
     "hash": "015C9D780AB48B02",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/props/sculptures/sculpture_facade_ornate_d.texture?/height_a.tex](asheightmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -71571,7 +71571,7 @@
   },
   {
     "hash": "0197827A90D71AD1",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/props/decorative/carpet_marrakesh_m.texture?/diffuse_b.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -71796,7 +71796,7 @@
   },
   {
     "hash": "0182E48F6A6EAF52",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/textures/generic/rock/quixel_aset_nature_rock_xl_a.texture?/height_a.tex](asheightmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -72291,7 +72291,7 @@
   },
   {
     "hash": "01D889838A1E4C9B",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/decals/ground/decal_puddle_a.texture?/diffuse_b.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -72861,7 +72861,7 @@
   },
   {
     "hash": "01B2EC7097F64EF4",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/industrial/telegraph_pole_a.texture?/diffuse_b.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -73451,7 +73451,7 @@
   },
   {
     "hash": "014C55C7509B2B8B",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/generic/wall/limestone_palace_a.texture?/mask_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -73576,7 +73576,7 @@
   },
   {
     "hash": "01D638F100A64964",
-    "path": "",
+    "path": "[assembly:/_pro/effects/textures/liquid/fx_decal_liquid_bloodsplat_02.texture?/diffuse_a.tex](asheightmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -73871,7 +73871,7 @@
   },
   {
     "hash": "01DB7D8745272FE1",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/textures/decals/quixel_ash_charcoal_pile_a.texture?/quixel_normal_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -74186,7 +74186,7 @@
   },
   {
     "hash": "0186FDFA37573CE4",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/props/decorative/vase_palace_chinese_a.texture?/mask_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -74586,7 +74586,7 @@
   },
   {
     "hash": "01AD3DF982202E73",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/props/furniture/sofa_antique_a.texture?/mask_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -74671,7 +74671,7 @@
   },
   {
     "hash": "013CADD1AD3B2F8D",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/detailmaps/metal/mumbai_metal_dented_a.texture?/detail_c.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -74886,7 +74886,7 @@
   },
   {
     "hash": "01BB2C1301D83C69",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/architecture/trims/trims_stucco_italy_a.texture?/height_a.tex](asheightmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -75321,7 +75321,7 @@
   },
   {
     "hash": "01ACAB627E2B3BCF",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/floor/linoleum_floor_industrial_a.texture?/diffuse_d.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -75336,7 +75336,7 @@
   },
   {
     "hash": "01C2CB5EE2D96381",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/wood/wooden_balcony_a.texture?/height_a.tex](asheightmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -75746,7 +75746,7 @@
   },
   {
     "hash": "01D0FFBA76A84D14",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/generic/floor/metal_catwalk_a.texture?/height_a.tex](asheightmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -75926,7 +75926,7 @@
   },
   {
     "hash": "01FAB84C0F5D14B1",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/metal/metal_brushed_panels_a.texture?/height_a.tex](asheightmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -77376,7 +77376,7 @@
   },
   {
     "hash": "0156A51FC41633BF",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/props/food/beerbottles_a_decal.texture?/diffuse_b.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -77461,7 +77461,7 @@
   },
   {
     "hash": "019E0EDF31BF7DF8",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/trim/trim_baroque_goldcarving_b.texture?/height_a.tex](asheightmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -78186,7 +78186,7 @@
   },
   {
     "hash": "01081C93A593100D",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/ceiling/stucco_plain_white_a.texture?/height_a.tex](asheightmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -78526,7 +78526,7 @@
   },
   {
     "hash": "0119C9300CA6AB02",
-    "path": "",
+    "path": "[assembly:/_pro/effects/textures/projections/fx_projection_2d_strips.texture?/diffuse_d.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -79111,7 +79111,7 @@
   },
   {
     "hash": "0169E2347654798A",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/props/street_props/traffic_light_interstate_a.texture?/emissive_b.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -79331,7 +79331,7 @@
   },
   {
     "hash": "01AB0E62AD8B8876",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/generic/wall/bricks_modern_red_worn_b.texture?/height_a.tex](ascompoundnormal).mipblock1",
     "gameFlags": 1
   },
   {
@@ -79681,7 +79681,7 @@
   },
   {
     "hash": "0133188111EBAE98",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/decals/ground/decal_crab_hole_a.texture?/diffuse_b.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -79881,7 +79881,7 @@
   },
   {
     "hash": "01C7B84DEE25D9AD",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/props/containers/crate_wooden_a.texture?/normal_g.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -79891,7 +79891,7 @@
   },
   {
     "hash": "0101ABA79762EF22",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/architecture/doors/door_palace_a.texture?/diffuse_b.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -80886,7 +80886,7 @@
   },
   {
     "hash": "01ACA019480570C7",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/wall/concrete_bare_weathered_b.texture?/diffuse_b.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -82766,7 +82766,7 @@
   },
   {
     "hash": "0125515088E5CCA2",
-    "path": "",
+    "path": "[assembly:/_pro/effects/textures/liquid/fx_decal_liquid_leakmask_2x2_01.texture?/mask_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -84036,7 +84036,7 @@
   },
   {
     "hash": "012D1C6930955EF7",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/architecture/windows/stone_palace_arch_exterior_entrance_a.texture?/height_a.tex](asheightmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -85516,7 +85516,7 @@
   },
   {
     "hash": "0120F316856D0814",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/books/library_books_b.texture?/diffuse_b.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -85806,7 +85806,7 @@
   },
   {
     "hash": "01CD6A982202F603",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/furniture/office_chair_a.texture?/specular_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -86146,7 +86146,7 @@
   },
   {
     "hash": "01AD2DC95120DA1F",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/props/food/salt_shaker_a.texture?/diffuse_b.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -86186,7 +86186,7 @@
   },
   {
     "hash": "01D5FE46A14E22F9",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/architecture/doors/door_metal_sliding_a.texture?/normal_a.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -86476,7 +86476,7 @@
   },
   {
     "hash": "0136A1DF8818024F",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/cloth/pipe_insulation_b.texture?/diffuse_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -86726,7 +86726,7 @@
   },
   {
     "hash": "015D434BAEAA4413",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/electronic/computer_old_a.texture?/emissive_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -87336,7 +87336,7 @@
   },
   {
     "hash": "018C427F248095F8",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/floor/parquet_diamond_a.texture?/height_a.tex](asheightmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -88156,7 +88156,7 @@
   },
   {
     "hash": "01D7B7B85D7F73A9",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/props/furniture/sunbed_table_wooden_a.texture?/mask_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -91126,7 +91126,7 @@
   },
   {
     "hash": "01E56541DF88D1F8",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/wall/concrete_bare_weathered_b.texture?/diffuse_f.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -91356,7 +91356,7 @@
   },
   {
     "hash": "017B73B620079865",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/generic/metal/brushed_copper_a.texture?/specular_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -93131,7 +93131,7 @@
   },
   {
     "hash": "014137D3BA28D672",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/industrial/telegraph_pole_a.texture?/normal_b.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -94601,7 +94601,7 @@
   },
   {
     "hash": "01CD5DFE960766D3",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/props/industrial/rusty_metal_barrels_a_e.texture?/normal_a.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -95661,7 +95661,7 @@
   },
   {
     "hash": "011F99A0AE16210B",
-    "path": "",
+    "path": "[assembly:/_knt/items/textures/gadgets/dartgun_a/dartgun_b.texture?/normal_a.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -95711,7 +95711,7 @@
   },
   {
     "hash": "0162BC3F486268BD",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/props/decorative/carpet_penthouse_main_a.texture?/height_a.tex](asheightmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -95906,7 +95906,7 @@
   },
   {
     "hash": "013EFE666949F17A",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/generic/metal/metal_painted_white_rust.texture?/height_c.tex](asheightmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -96321,7 +96321,7 @@
   },
   {
     "hash": "014EF955DDC2359F",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/electronics/computer_bank_screen_a.texture?/specular_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -96871,7 +96871,7 @@
   },
   {
     "hash": "01646C4BDCE73580",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/wires/electric_wires_b.texture?/diffuse_c.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -97196,7 +97196,7 @@
   },
   {
     "hash": "01DFB4386F60CFFA",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/props/industrial/rusty_metal_barrels_a_a.texture?/mask_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -97916,7 +97916,7 @@
   },
   {
     "hash": "01F322ECFB3F2F4C",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/props/furniture/sofa_antique_d.texture?/diffuse_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -98691,7 +98691,7 @@
   },
   {
     "hash": "01A6224A32233F18",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/decals/signs/signs_danger_a.texture?/diffuse_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -101351,7 +101351,7 @@
   },
   {
     "hash": "01A3C20C4DB05FAE",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/props/decorative/curtains_bathroom_penthouse_b.texture?/normal_a.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -102801,7 +102801,7 @@
   },
   {
     "hash": "016A077969F7B046",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/props/industrial/padlock_a.texture?/mask_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -103211,7 +103211,7 @@
   },
   {
     "hash": "01ED0EA9D0EC716F",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/props/electronic/computer_old_a.texture?/emissive_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -103551,7 +103551,7 @@
   },
   {
     "hash": "014F90C084196B22",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/panels/panels_wooden_decorated_d.texture?/height_a.tex](asheightmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -104011,7 +104011,7 @@
   },
   {
     "hash": "019EB8D4A7124817",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/industrial/lashing_strap_a.texture?/diffuse_b.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -104581,7 +104581,7 @@
   },
   {
     "hash": "01BAD14FF9FF552D",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/paintings/painting_modern_art_winery_a.texture?/diffuse_e.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -104631,7 +104631,7 @@
   },
   {
     "hash": "01F04D91787937BD",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/props/lamps/lamp_spot_light_a.texture?/diffuse_b.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -104891,12 +104891,12 @@
   },
   {
     "hash": "01EF8C386F7E2F14",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/furniture/office_chair_a.texture?/diffuse_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
     "hash": "013EC6E6AA2BE272",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/food/vodkabottle_a.texture?/specular_a.tex](ascompoundnormal).mipblock1",
     "gameFlags": 1
   },
   {
@@ -108356,7 +108356,7 @@
   },
   {
     "hash": "014869AB0540010C",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/generic/wood/panel_wood_polished_a.texture?/diffuse_b.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -108691,7 +108691,7 @@
   },
   {
     "hash": "016011149A21324B",
-    "path": "",
+    "path": "[assembly:/_pro/textures/basicsurface/detailmaps/detailmap_stone_01.texture?/diffuse_a.tex](ascompoundnormal).mipblock1",
     "gameFlags": 1
   },
   {
@@ -109011,7 +109011,7 @@
   },
   {
     "hash": "017EC54FD53079AD",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/wall/concrete_bare_weathered_b.texture?/normal_b.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -109401,7 +109401,7 @@
   },
   {
     "hash": "01ADF3E62EB39316",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/generic/metal/metal_painted_white_rust.texture?/diffuse_b.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -109491,7 +109491,7 @@
   },
   {
     "hash": "01E4050E4B17302B",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/stone/marble_bricks_wall_irregular_c.texture?/diffuse_c.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -109651,7 +109651,7 @@
   },
   {
     "hash": "01CCEB24CCED822C",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/generic/metal/mumbai_rust_a.texture?/diffuse_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -110861,7 +110861,7 @@
   },
   {
     "hash": "01509FD856B2D315",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/props/decorative/curtains_bathroom_penthouse_b.texture?/diffuse_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -111801,7 +111801,7 @@
   },
   {
     "hash": "0196ACA9B54DAA09",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/props/furniture/puff_chair_antique_a.texture?/normal_b.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -112006,7 +112006,7 @@
   },
   {
     "hash": "010FAB0F533F7A5A",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/architecture/doors/door_metal_sliding_a.texture?/diffuse_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -112941,7 +112941,7 @@
   },
   {
     "hash": "0130B14BF640BAD3",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/wall/panel_gold_ornate_a.texture?/diffuse_c.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -113241,7 +113241,7 @@
   },
   {
     "hash": "016835044D28B3EB",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/props/food/brandyebottle_a.texture?/normal_a.tex](ascompoundnormal).mipblock1",
     "gameFlags": 1
   },
   {
@@ -114631,7 +114631,7 @@
   },
   {
     "hash": "01D83B16BF059E32",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/plastic/plastic_tube_a.texture?/height_a.tex](asheightmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -114781,7 +114781,7 @@
   },
   {
     "hash": "018D0E41F477D47A",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/floor/carpet_hotel_livingroom_b.texture?/normal_a.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -115496,7 +115496,7 @@
   },
   {
     "hash": "01925C4D99E1E7BD",
-    "path": "",
+    "path": "[assembly:/_knt/items/textures/gadgets/dartgun_a/dartgun_b.texture?/emissive_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -115956,7 +115956,7 @@
   },
   {
     "hash": "013249EA2F1B4984",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/generic/metal/metal_grid_c.texture?/diffuse_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -115971,7 +115971,7 @@
   },
   {
     "hash": "01A5970658C647CC",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/props/furniture/sofa_antique_a.texture?/diffuse_d.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -115981,7 +115981,7 @@
   },
   {
     "hash": "014DB816251BC248",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/levels/gecko/painted_metal_panels_a.texture?/normal_a.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -117566,7 +117566,7 @@
   },
   {
     "hash": "0141A40222F5AE17",
-    "path": "",
+    "path": "[assembly:/_knt/effects/textures/water/fx_water_foam.texture?/foam_g.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -118451,7 +118451,7 @@
   },
   {
     "hash": "0115D15D883AE45C",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/stone/marble_bricks_wall_irregular_a.texture?/height_a.tex](asheightmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -119311,7 +119311,7 @@
   },
   {
     "hash": "0158F2165D3ED2E6",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/generic/plastic/plastic_green_a.texture?/normal_a.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -121296,7 +121296,7 @@
   },
   {
     "hash": "018E50F9576B2BBF",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/decals/road/tyre_tracks_carpark_a.texture?/diffuse_b.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -121726,7 +121726,7 @@
   },
   {
     "hash": "0157B15F36F843BC",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/props/bedroom/blanket_a_folded_i.texture?/normal_b.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -122241,7 +122241,7 @@
   },
   {
     "hash": "0191049EAA320AD2",
-    "path": "",
+    "path": "[assembly:/_pro/effects/textures/detail/fx_car_glass_broken.texture?/diffuse_b.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -123006,7 +123006,7 @@
   },
   {
     "hash": "013D340C1CCF08F5",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/wall/wooden_panel_gold_ornate_b.texture?/normal_c.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -123196,7 +123196,7 @@
   },
   {
     "hash": "016CA2305640D247",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/trim/trim_baroque_goldcarving_b.texture?/diffuse_c.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -123306,7 +123306,7 @@
   },
   {
     "hash": "01F5E563CA8A54BC",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/props/containers/gymbag_a.texture?/normal_b.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -124266,7 +124266,7 @@
   },
   {
     "hash": "0120355679827BE0",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/generic/fabric/construction_net_a.texture?/diffuse_c.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -127841,7 +127841,7 @@
   },
   {
     "hash": "0154DCF973064E5E",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/props/furniture/chair_antique_a.texture?/diffuse_c.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -127856,7 +127856,7 @@
   },
   {
     "hash": "013E234DFC422E2A",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/detailmaps/organic/water_drops_a.texture?/detail_a.tex](asheightmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -128871,7 +128871,7 @@
   },
   {
     "hash": "01575C6EF90EF5D7",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/stone/marble_bricks_wall_irregular_b.texture?/normal_d.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -130096,7 +130096,7 @@
   },
   {
     "hash": "01213029339BFFF1",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/trim/trims_baroque_goldcarvingcarving_a.texture?/height_a.tex](asheightmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -130301,7 +130301,7 @@
   },
   {
     "hash": "01D7F96679CBCE03",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/generic/metal/aluminium_foil_a.texture?/normal_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -130646,7 +130646,7 @@
   },
   {
     "hash": "012C2F00DA4F0C60",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/agent47_parachute/textures/agent47_parachute.texture?/specular_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -131116,7 +131116,7 @@
   },
   {
     "hash": "01D0118EACFFC4AE",
-    "path": "",
+    "path": "[assembly:/_pro/effects/textures/misc/fx_noise.texture?/normal_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -131291,7 +131291,7 @@
   },
   {
     "hash": "01D043898DA67348",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/generic/glass/generic_glass_dirty_a.texture?/diffuse_a.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -131456,7 +131456,7 @@
   },
   {
     "hash": "013D61CE580F1619",
-    "path": "",
+    "path": "[assembly:/_pro/_licensed/quixel/textures/generic/wall/quixel_brickrubble_a.texture?/quixel_diffuse_c_alpha.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -131766,7 +131766,7 @@
   },
   {
     "hash": "01005C01815FE72B",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/ground/concrete_ground_weathered_a.texture?/diffuse_b.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -132391,7 +132391,7 @@
   },
   {
     "hash": "016A006004E8E20A",
-    "path": "",
+    "path": "[assembly:/_pro/_licensed/quixel/textures/props/rocks/quixel_sharp_cliff_fox_a.texture?/quixel_diffuse_b.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -135141,7 +135141,7 @@
   },
   {
     "hash": "01657D762181E421",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/props/containers/crate_wooden_a.texture?/diffuse_g.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -135721,7 +135721,7 @@
   },
   {
     "hash": "01A732E34FD7D293",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/levels/evergreen/shooting_target_evergreen_a.texture?/normal_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -135991,7 +135991,7 @@
   },
   {
     "hash": "01365B5ECBF782C4",
-    "path": "",
+    "path": "[assembly:/_frl/environment/textures/decals/edges/edge_decals_concrete_b.texture?/diffuse_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -136396,7 +136396,7 @@
   },
   {
     "hash": "01E51A5D6F46A364",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/decals/markings/road_markings_d.texture?/diffuse_f.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -137131,7 +137131,7 @@
   },
   {
     "hash": "01BDFCBD9B3C750A",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/props/decorative/curtains_bathroom_penthouse_b.texture?/translucent_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -137176,7 +137176,7 @@
   },
   {
     "hash": "01A952DB97E9279B",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/furniture/sofa_antique_b.texture?/normal_b.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -137236,7 +137236,7 @@
   },
   {
     "hash": "01073B3FA8718E8A",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/generic/wood/wood_birchwood_a.texture?/diffuse_c.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -137641,7 +137641,7 @@
   },
   {
     "hash": "018F83405282110E",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/wood/wood_panels_a.texture?/specular_a.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -138166,7 +138166,7 @@
   },
   {
     "hash": "0101FF8376E15BC7",
-    "path": "",
+    "path": "[assembly:/_pro/effects/textures/water/fx_water_window_dripping.texture?/normal_c.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -138681,7 +138681,7 @@
   },
   {
     "hash": "01AF6FA277DFFB05",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/wall/wall_plaster_rough_b.texture?/height_a.tex](ascompoundnormal).mipblock1",
     "gameFlags": 1
   },
   {
@@ -139426,7 +139426,7 @@
   },
   {
     "hash": "01DC6E1C7051D3E4",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/props/plants/plants_decorative_c.texture?/diffuse_b.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -139971,7 +139971,7 @@
   },
   {
     "hash": "0125C0FCB3D93225",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/ground/concrete_ground_weathered_a.texture?/normal_b.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -140926,7 +140926,7 @@
   },
   {
     "hash": "011D5AC118D4B6AB",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/furniture/sofa_antique_b.texture?/diffuse_b.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -141046,7 +141046,7 @@
   },
   {
     "hash": "017394D0852036E3",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/generic/floor/planks_modern_birchwood_a.texture?/diffuse_h.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -141606,7 +141606,7 @@
   },
   {
     "hash": "014744A1875D7000",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/levels/gecko/gecko_numbers_letters_a.texture?/normal_a.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -142261,7 +142261,7 @@
   },
   {
     "hash": "012E7D1A6FB3166A",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/electronic/tv_security_screens_llama_a.texture?/emissive_k.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -142806,7 +142806,7 @@
   },
   {
     "hash": "018A24E19607D09A",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/architecture/windows/townhouse_italian_old_a.texture?/mask_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -142856,7 +142856,7 @@
   },
   {
     "hash": "01FA207E3D4C0FD0",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/floor/carpet_hotel_livingroom_b.texture?/diffuse_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -143621,7 +143621,7 @@
   },
   {
     "hash": "0198050F4A9EFCAB",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/decals/scratches/metal_dents_b.texture?/normal_a.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -143781,7 +143781,7 @@
   },
   {
     "hash": "01073B5736257A5C",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/props/lamps/light_wall_emissive_a.texture?/emissive_d.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -143806,7 +143806,7 @@
   },
   {
     "hash": "016624D9FADE6830",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/wood/bamboo_a.texture?/height_a.tex](asheightmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -144001,7 +144001,7 @@
   },
   {
     "hash": "01ED4D2274AE4B83",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/wall/wall_plaster_broken_a.texture?/height_a.tex](ascompoundnormal).mipblock1",
     "gameFlags": 1
   },
   {
@@ -144401,7 +144401,7 @@
   },
   {
     "hash": "013B7FA4BFC328B4",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/stone/marble_bricks_wall_irregular_a.texture?/normal_b.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -144611,7 +144611,7 @@
   },
   {
     "hash": "0180E65DC1635B80",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/props/furniture/sofa_antique_d.texture?/normal_a.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -145126,7 +145126,7 @@
   },
   {
     "hash": "017E009032266976",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/generic/metal/metal_grid_c.texture?/height_a.tex](asheightmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -147151,7 +147151,7 @@
   },
   {
     "hash": "01EE503FC9F9A80B",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/props/furniture/library_italy_units_a.texture?/diffuse_e.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -147361,7 +147361,7 @@
   },
   {
     "hash": "015361CCD7E0108B",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/trim/trim_baroque_goldcarving_b.texture?/diffuse_d.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -148186,7 +148186,7 @@
   },
   {
     "hash": "017693C0A8749EF2",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/stone/marble_bricks_wall_irregular_c.texture?/diffuse_b.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -148886,7 +148886,7 @@
   },
   {
     "hash": "01B486B6749373F5",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/props/decorative/carpet_marrakesh_m.texture?/normal_b.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -148941,7 +148941,7 @@
   },
   {
     "hash": "014E379629A050D9",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/props/furniture/armchair_antique_b.texture?/mask_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -149131,7 +149131,7 @@
   },
   {
     "hash": "0168B1FF2548FA1A",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/decals/signs/signs_danger_a.texture?/normal_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -150031,12 +150031,12 @@
   },
   {
     "hash": "0133AA4879F0C2B4",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/decals/scratches/metal_dents_b.texture?/diffuse_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
     "hash": "0145227FBB147B02",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/accessories/smartphone_helmut.texture?/emissive_d.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -150331,7 +150331,7 @@
   },
   {
     "hash": "011CF664244ECE3A",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/trim/moldings_palace_exterior.texture?/height_a.tex](asheightmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -150806,7 +150806,7 @@
   },
   {
     "hash": "01EB3D2D068FC90C",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/wall/wooden_panel_gold_ornate_a.texture?/diffuse_b.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -150891,7 +150891,7 @@
   },
   {
     "hash": "013E360D1016B5DB",
-    "path": "",
+    "path": "[assembly:/_pro/effects/textures/detail/fx_car_glass_broken.texture?/normal_b.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -151011,7 +151011,7 @@
   },
   {
     "hash": "0118370417D2CCFD",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/floor/carpet_red_velvet_c.texture?/normal_a.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -151026,7 +151026,7 @@
   },
   {
     "hash": "01970341726E13ED",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/levels/gecko/gecko_numbers_letters_a.texture?/diffuse_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -151191,7 +151191,7 @@
   },
   {
     "hash": "01033F2A3214A986",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/metal/clover_container_painted_metal_e.texture?/diffuse_a.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -151266,7 +151266,7 @@
   },
   {
     "hash": "0174C3CF438F0E2A",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/props/electronic/cabletray_cables_b.texture?/diffuse_d.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -151301,7 +151301,7 @@
   },
   {
     "hash": "010BE2A29C22558B",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/decals/edges/edge_decal_plaster_b.texture?/height_a.tex](asheightmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -152796,7 +152796,7 @@
   },
   {
     "hash": "013B802F9F619DD5",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/props/furniture/restaurant_furniture_blackmarble_a.texture?/diffuse_e.tex](ascolormap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -153121,7 +153121,7 @@
   },
   {
     "hash": "018F3E657B036CFC",
-    "path": "",
+    "path": "[assembly:/_pro/effects/textures/water/fx_water_window_dripping.texture?/normal_d.tex](asnormalmap).mipblock1",
     "gameFlags": 1
   },
   {
@@ -153966,7 +153966,7 @@
   },
   {
     "hash": "013B5A1918158CAD",
-    "path": "",
+    "path": "[assembly:/_knt/environment/textures/generic/stone/marble_white_quarry_a.texture?/normal_a.tex](ascompoundnormal).mipblock1",
     "gameFlags": 1
   },
   {

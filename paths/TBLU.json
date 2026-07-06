@@ -75699,9 +75699,8 @@
   },
   {
     "hash": "01F85F0C797ADEDD",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "setpiece_bluebell_destructiblecover_2x1x1_a"
+    "path": "[assembly:/_knt/design/setpieces/setpieces_bluebell.template?/setpiece_bluebell_destructiblecover_2x1x1_a.entitytemplate](cratemesh+[assembly:/_knt/environment/geometry/props/containers/crate_destructible_b.wl2?/crate_destructible_f.linkedprim].entitytype).entityblueprint",
+    "gameFlags": 1
   },
   {
     "hash": "01DF42A15B0D167E",
@@ -137837,9 +137836,8 @@
   },
   {
     "hash": "01A1FC998FAAB355",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "setpiece_bluebell_destructiblecover_1x1x1_a"
+    "path": "[assembly:/_knt/design/setpieces/setpieces_bluebell.template?/setpiece_bluebell_destructiblecover_1x1x1_a.entitytemplate](cratemesh+[assembly:/_knt/environment/geometry/props/containers/crate_destructible_b.wl2?/crate_destructible_j.linkedprim].entitytype).entityblueprint",
+    "gameFlags": 1
   },
   {
     "hash": "0180311B47750F1E",
@@ -211700,9 +211698,8 @@
   },
   {
     "hash": "0122CE1224D89816",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "setpiece_bluebell_destructiblecover_1x1x1_a"
+    "path": "[assembly:/_knt/design/setpieces/setpieces_bluebell.template?/setpiece_bluebell_destructiblecover_1x1x1_a.entitytemplate](cratemesh+[assembly:/_knt/environment/geometry/props/containers/crate_destructible_b.wl2?/crate_destructible_h.linkedprim].entitytype).entityblueprint",
+    "gameFlags": 1
   },
   {
     "hash": "01A0D43E976A2019",
@@ -241048,9 +241045,8 @@
   },
   {
     "hash": "01B27DA161136082",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "setpiece_bluebell_destructiblecover_2x1x1_a"
+    "path": "[assembly:/_knt/design/setpieces/setpieces_bluebell.template?/setpiece_bluebell_destructiblecover_2x1x1_a.entitytemplate](cratemesh+[assembly:/_knt/environment/geometry/props/containers/crate_destructible_b.wl2?/crate_destructible_i.linkedprim].entitytype).entityblueprint",
+    "gameFlags": 1
   },
   {
     "hash": "01AD14E3C53A329E",

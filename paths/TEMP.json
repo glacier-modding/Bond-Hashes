@@ -45615,9 +45615,8 @@
   },
   {
     "hash": "01D23E79E9DD08AD",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "setpiece_bluebell_destructiblecover_2x1x1_a"
+    "path": "[assembly:/_knt/design/setpieces/setpieces_bluebell.template?/setpiece_bluebell_destructiblecover_2x1x1_a.entitytemplate](cratemesh+[assembly:/_knt/environment/geometry/props/containers/crate_destructible_b.wl2?/crate_destructible_i.linkedprim].entitytype).entitytype",
+    "gameFlags": 1
   },
   {
     "hash": "01B7B6879074AB68",
@@ -172670,9 +172669,8 @@
   },
   {
     "hash": "01248F6901401C9F",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "setpiece_bluebell_destructiblecover_1x1x1_a"
+    "path": "[assembly:/_knt/design/setpieces/setpieces_bluebell.template?/setpiece_bluebell_destructiblecover_1x1x1_a.entitytemplate](cratemesh+[assembly:/_knt/environment/geometry/props/containers/crate_destructible_b.wl2?/crate_destructible_j.linkedprim].entitytype).entitytype",
+    "gameFlags": 1
   },
   {
     "hash": "016C14D3724FFA8A",
@@ -269960,9 +269958,8 @@
   },
   {
     "hash": "01B0B22507C357AE",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "setpiece_bluebell_destructiblecover_1x1x1_a"
+    "path": "[assembly:/_knt/design/setpieces/setpieces_bluebell.template?/setpiece_bluebell_destructiblecover_1x1x1_a.entitytemplate](cratemesh+[assembly:/_knt/environment/geometry/props/containers/crate_destructible_b.wl2?/crate_destructible_h.linkedprim].entitytype).entitytype",
+    "gameFlags": 1
   },
   {
     "hash": "011024073A72C929",
@@ -348197,9 +348194,8 @@
   },
   {
     "hash": "01FCBC693CAC1323",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "setpiece_bluebell_destructiblecover_2x1x1_a"
+    "path": "[assembly:/_knt/design/setpieces/setpieces_bluebell.template?/setpiece_bluebell_destructiblecover_2x1x1_a.entitytemplate](cratemesh+[assembly:/_knt/environment/geometry/props/containers/crate_destructible_b.wl2?/crate_destructible_f.linkedprim].entitytype).entitytype",
+    "gameFlags": 1
   },
   {
     "hash": "01544B2D786FB8A2",

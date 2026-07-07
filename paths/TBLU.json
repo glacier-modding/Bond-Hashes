@@ -6986,9 +6986,8 @@
   },
   {
     "hash": "01E32B8E3D228FD2",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "setpiecehelper_door_transitionlogic"
+    "path": "[assembly:/_knt/design/setpieces/setpieces_doors.template?/setpiecehelper_door_transitionlogic.entitytemplate](sounddoorinteraction_knt+[assembly:/_knt/sound/templates/sound_doortemplates_knt.template?/sound_doorinteraction_knt_template_double_metal_security_glass_mediumdoor.entitytemplate].entitytype).entityblueprint",
+    "gameFlags": 1
   },
   {
     "hash": "0167B4394D8CDA1C",
@@ -18804,9 +18803,8 @@
   },
   {
     "hash": "017FED65FED814CA",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "setpiecehelper_door_transitionlogic"
+    "path": "[assembly:/_knt/design/setpieces/setpieces_doors.template?/setpiecehelper_door_transitionlogic.entitytemplate](sounddoorinteraction_knt+[assembly:/_knt/sound/templates/sound_doortemplates_knt.template?/sound_doorinteraction_knt_template_single_wood_mediumdoor.entitytemplate].entitytype).entityblueprint",
+    "gameFlags": 1
   },
   {
     "hash": "013E0100A2B7F55B",
@@ -40489,9 +40487,8 @@
   },
   {
     "hash": "01FB00247248AA3A",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "setpiecehelper_door_transitionlogic"
+    "path": "[assembly:/_knt/design/setpieces/setpieces_doors.template?/setpiecehelper_door_transitionlogic.entitytemplate](sounddoorinteraction_knt+[assembly:/_knt/sound/templates/sound_doortemplates_knt.template?/sound_doorinteraction_knt_template_double_metal_security_thickdoor.entitytemplate].entitytype).entityblueprint",
+    "gameFlags": 1
   },
   {
     "hash": "01E3FCA6FE6CFA5C",
@@ -75380,9 +75377,8 @@
   },
   {
     "hash": "0192E8EA69885B17",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "setpiecehelper_door_transitionlogic"
+    "path": "[assembly:/_knt/design/setpieces/setpieces_doors.template?/setpiecehelper_door_transitionlogic.entitytemplate](sounddoorinteraction_knt+[assembly:/_knt/sound/templates/sound_doortemplates_knt.template?/sound_doorinteraction_knt_template_single_metal_security_thickdoor.entitytemplate].entitytype).entityblueprint",
+    "gameFlags": 1
   },
   {
     "hash": "01E73212EF036E70",
@@ -83509,9 +83505,8 @@
   },
   {
     "hash": "016B45489D75C184",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "setpiecehelper_door_transitionlogic"
+    "path": "[assembly:/_knt/design/setpieces/setpieces_doors.template?/setpiecehelper_door_transitionlogic.entitytemplate](sounddoorinteraction_knt+[assembly:/_knt/sound/templates/sound_doortemplates_knt.template?/sound_doorinteraction_knt_template_double_wood_thickdoor.entitytemplate].entitytype).entityblueprint",
+    "gameFlags": 1
   },
   {
     "hash": "01941778D65D06F2",
@@ -113945,9 +113940,8 @@
   },
   {
     "hash": "01A96BE7E0DEB8DC",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "setpiecehelper_door_transitionlogic"
+    "path": "[assembly:/_knt/design/setpieces/setpieces_doors.template?/setpiecehelper_door_transitionlogic.entitytemplate](sounddoorinteraction_knt+[assembly:/_knt/sound/templates/sound_doortemplates_knt.template?/sound_doorinteraction_knt_template_double_fence_noocclusiondoor.entitytemplate].entitytype).entityblueprint",
+    "gameFlags": 1
   },
   {
     "hash": "019634E4A856A8CD",
@@ -151018,9 +151012,8 @@
   },
   {
     "hash": "012C940CAABD5F53",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "setpiecehelper_door_transitionlogic"
+    "path": "[assembly:/_knt/design/setpieces/setpieces_doors.template?/setpiecehelper_door_transitionlogic.entitytemplate](sounddoorinteraction_knt+[assembly:/_knt/sound/templates/sound_doortemplates_knt.template?/sound_doorinteraction_knt_template_double_glass_mediumdoor.entitytemplate].entitytype).entityblueprint",
+    "gameFlags": 1
   },
   {
     "hash": "01B3D2EE5E92FD7B",
@@ -245033,9 +245026,8 @@
   },
   {
     "hash": "01197C2EB5DBF7A6",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "setpiecehelper_door_transitionlogic"
+    "path": "[assembly:/_knt/design/setpieces/setpieces_doors.template?/setpiecehelper_door_transitionlogic.entitytemplate](sounddoorinteraction_knt+[assembly:/_knt/sound/templates/sound_doortemplates_knt.template?/sound_doorinteraction_knt_template_single_wood_thickdoor.entitytemplate].entitytype).entityblueprint",
+    "gameFlags": 1
   },
   {
     "hash": "0157B34D39D4809C",

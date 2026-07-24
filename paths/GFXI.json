@@ -13633,5 +13633,235 @@
     "hash": "017D60D4F2C6B440",
     "path": "[assembly:/_knt/online/default/cloudstorage/resources/images/tileparts/t_ui_takeoverbackground_backmasked.png].gfx",
     "gameFlags": 1
+  },
+  {
+    "hash": "011270568D949DA8",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/images/tacticalsims/escalations/pepper/s_pepper_cricket_challenge_tier01.jpg].gfx",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01A271D8D17A0ADA",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/images/tacticalsims/escalations/pepper/pepper_cricket_challenge_tier02.jpg].gfx",
+    "gameFlags": 1
+  },
+  {
+    "hash": "015C5FF19BF352DC",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/images/tacticalsims/escalations/pepper/pepper_cricket_challenge_completeescalation.jpg].gfx",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01DA802B4CA28B41",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/images/tacticalsims/escalations/pepper/pepper_pillbug_challenge_tier01.jpg].gfx",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01CE2F0B2DC56309",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/images/tacticalsims/escalations/pepper/pepper_pillbug_challenge_tier03.jpg].gfx",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0137A2A03338E530",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/images/tacticalsims/weapons/pngs/machinepistol_highrecoil_a-small.png].gfx",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0136530127CEE1CE",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/images/tacticalsims/escalations/pepper/s_pepper_pillbug_challenge_neverspotted.jpg].gfx",
+    "gameFlags": 1
+  },
+  {
+    "hash": "010B914D8D1BF318",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/images/tacticalsims/escalations/pepper/pepper_pillbug_challenge_completeescalation.jpg].gfx",
+    "gameFlags": 1
+  },
+  {
+    "hash": "019E93EF7D483003",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/images/tacticalsims/escalations/pepper/pepper_cricket_challenge_copythat.jpg].gfx",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01FBEAFC683DDCC5",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/images/tacticalsims/escalations/pepper/pepper_pillbug_challenge_wayfourth.jpg].gfx",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01B12396BC853525",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/images/tacticalsims/escalations/pepper/pepper_cricket_challenge_tier01.jpg].gfx",
+    "gameFlags": 1
+  },
+  {
+    "hash": "014E1D87AA4DD241",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/images/tacticalsims/escalations/pepper/s_pepper_pillbug_challenge_completeescalation.jpg].gfx",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01671667F7AD6433",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/images/tacticalsims/escalations/pepper/pepper_cricket_challenge_completeallchallenges.jpg].gfx",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01670C91A01EB55F",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/images/tacticalsims/escalations/pepper/s_pepper_pillbug_challenge_tier03.jpg].gfx",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01900E73AE0E1A36",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/images/tacticalsims/escalations/pepper/s_pepper_cricket_challenge_tier02.jpg].gfx",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0133E64959D1265F",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/images/tacticalsims/escalations/pepper/pepper_pillbug_challenge_neverspotted.jpg].gfx",
+    "gameFlags": 1
+  },
+  {
+    "hash": "014EC7B61F7B3EE3",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/images/tacticalsims/escalations/pepper/pepper_pillbug_challenge_aheadofthecurve.jpg].gfx",
+    "gameFlags": 1
+  },
+  {
+    "hash": "017B8234FFD2FDAC",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/images/tacticalsims/escalations/pepper/s_pepper_pillbug_challenge_noseetv.jpg].gfx",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0199670C60EB1503",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/images/tacticalsims/escalations/pepper/pepper_pillbug_challenge_firestarter.jpg].gfx",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01A0B92B12ED86E9",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/images/tacticalsims/escalations/pepper/s_pepper_cricket_challenge_nogadgets.jpg].gfx",
+    "gameFlags": 1
+  },
+  {
+    "hash": "011B0C9AE529DE3E",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/images/tacticalsims/weapons/pngs/smg_silenced_a.png].gfx",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0142515CC5F3CC5B",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/images/tacticalsims/escalations/pepper/s_pepper_cricket_challenge_tier03.jpg].gfx",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0149C434315000A6",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/images/tacticalsims/escalations/pepper/s_pepper_cricket_challenge_completeescalation.jpg].gfx",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01646EB96603CA8E",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/images/tacticalsims/weapons/pngs/heavypistol_50cal_a.png].gfx",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01213EF527F5128A",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/images/tacticalsims/weapons/pngs/smg_silenced_a-small.png].gfx",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01A1A904FCE4ACE7",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/images/tacticalsims/escalations/pepper/s_pepper_pillbug_challenge_aheadofthecurve.jpg].gfx",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01FEB8DA6F1101DA",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/images/tacticalsims/escalations/pepper/pepper_cricket_challenge_disconnected.jpg].gfx",
+    "gameFlags": 1
+  },
+  {
+    "hash": "017EEF1875992D92",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/images/tacticalsims/escalations/pepper/s_pepper_pillbug_challenge_firestarter.jpg].gfx",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0183008AD2615D5F",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/images/tacticalsims/escalations/pepper/s_pepper_pillbug_challenge_wayfourth.jpg].gfx",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01C3C6DFEE077C78",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/images/tacticalsims/escalations/pepper/s_pepper_pillbug_challenge_tier01.jpg].gfx",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01918E21CD0CA919",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/images/tacticalsims/escalations/pepper/pepper_pillbug_challenge_tier02.jpg].gfx",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01E26CA35F2C5369",
+    "path": "",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01B64366961FA4AE",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/images/tacticalsims/escalations/pepper/pepper_cricket_challenge_firehazard.jpg].gfx",
+    "gameFlags": 1
+  },
+  {
+    "hash": "010540ACE1512A59",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/images/tacticalsims/escalations/pepper/pepper_pillbug_challenge_noseetv.jpg].gfx",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01CA731BE2F83E63",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/images/tacticalsims/weapons/pngs/machinepistol_highrecoil_a.png].gfx",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01E54486C2790BB6",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/images/tacticalsims/escalations/pepper/s_pepper_cricket_challenge_completeallchallenges.jpg].gfx",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01AC0CF51954ABA1",
+    "path": "",
+    "gameFlags": 1
+  },
+  {
+    "hash": "013CA93A06F70C86",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/images/tacticalsims/escalations/pepper/pepper_cricket_challenge_tier03.jpg].gfx",
+    "gameFlags": 1
+  },
+  {
+    "hash": "017AC05827DFF579",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/images/tacticalsims/escalations/pepper/pepper_cricket_challenge_nogadgets.jpg].gfx",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01CDDDBF5059994E",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/images/tacticalsims/escalations/pepper/s_pepper_cricket_challenge_disconnected.jpg].gfx",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01E164B36208DED3",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/images/tacticalsims/escalations/pepper/s_pepper_cricket_challenge_firehazard.jpg].gfx",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01B3A16CC2348AAE",
+    "path": "",
+    "gameFlags": 1
+  },
+  {
+    "hash": "013F65C4812797B1",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/images/tacticalsims/weapons/pngs/heavypistol_50cal_a-small.png].gfx",
+    "gameFlags": 1
+  },
+  {
+    "hash": "019CDDD8339D2179",
+    "path": "",
+    "gameFlags": 1
+  },
+  {
+    "hash": "010434BE9DA78006",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/images/tacticalsims/escalations/pepper/s_pepper_pillbug_challenge_tier02.jpg].gfx",
+    "gameFlags": 1
+  },
+  {
+    "hash": "014F426075FD81CD",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/images/tacticalsims/escalations/pepper/s_pepper_cricket_challenge_copythat.jpg].gfx",
+    "gameFlags": 1
   }
 ]

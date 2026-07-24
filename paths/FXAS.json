@@ -457363,5 +457363,45 @@
     "hash": "01A11830CFEFD23F",
     "path": "[assembly:/_knt/facefx/exported_animation/english(us)/ai_dialog/civmrf02/dstrctn_inv_lone_t2_switch_civmrf02/dstrctn_inv_lone_t2__dflt_civmrf02_civmrf02_002.animset].animset",
     "gameFlags": 1
+  },
+  {
+    "hash": "010BE5FE69371668",
+    "path": "[assembly:/_knt/facefx/exported_animation/placeholder/lotus/lotusendhub_story/s12063_bandmonliftdescent_monroe_007.animset].animset",
+    "gameFlags": 1
+  },
+  {
+    "hash": "016708425D06F965",
+    "path": "",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01E38F88528C6E7F",
+    "path": "",
+    "gameFlags": 1
+  },
+  {
+    "hash": "017D3DFC1ACB5CFB",
+    "path": "[assembly:/_knt/facefx/exported_animation/placeholder/lotus/lotusendhub_story/s12063_bandmonliftdescent_monroe_001.animset].animset",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0157E947DE8C0DB1",
+    "path": "",
+    "gameFlags": 1
+  },
+  {
+    "hash": "016A680285F38A24",
+    "path": "",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01D627CBA82EC4C7",
+    "path": "[assembly:/_knt/facefx/exported_animation/placeholder/lotus/lotusendhub_story/s12063_bandmonliftdescent_monroe_005.animset].animset",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01C870BFACB3F0CA",
+    "path": "[assembly:/_knt/facefx/exported_animation/placeholder/lotus/lotusendhub_story/s12063_bandmonliftdescent_monroe_003.animset].animset",
+    "gameFlags": 1
   }
 ]

@@ -11448,5 +11448,30 @@
     "hash": "01153182DF6EE901",
     "path": "[modules:/zcrowdprop.class].entitytype",
     "gameFlags": 1
+  },
+  {
+    "hash": "019047F5B45D75AC",
+    "path": "[modules:/zuisetscalemanual.class].entitytype",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01B5AF1EB9D90526",
+    "path": "[modules:/zinteractionuiprovider_exit.class].entitytype",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01C932A5A75802D3",
+    "path": "[modules:/zclgamemanagersetinonlinehubfrommaincampaign.class].entitytype",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01B88B89A88137F2",
+    "path": "[modules:/zclgamemanagergetinonlinehubfrommaincampaign.class].entitytype",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01B2AFFE6FA21D56",
+    "path": "[modules:/zistextsizemodeactive.class].entitytype",
+    "gameFlags": 1
   }
 ]

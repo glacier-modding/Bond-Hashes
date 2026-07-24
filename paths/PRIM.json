@@ -163838,5 +163838,30 @@
     "hash": "0102D1B8B2FCB32D",
     "path": "[assembly:/_pro/environment/geometry/props/sculptures/sculpture_palace_frog_a.wl2?/sculpture_palace_frog_a.prim].prim",
     "gameFlags": 1
+  },
+  {
+    "hash": "013DC69643A9E150",
+    "path": "[assembly:/_knt/characters/actors/male_reg/individuals/_maincast/bond/kits/kit_burgerking_skin2/geometry_deformation/kit_burgerking_skin2_shorts/kit_burgerking_skin2_shorts.gar?/shorts_kit_burgerking_skin2.weighted.fbx].weightedprim",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0111CF583F9CF326",
+    "path": "[assembly:/_pro/environment/geometry/props/plants/bushes_garden_a.wl2?/bush_garden_f_00.prim].prim",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0170BC63670DDCDE",
+    "path": "[assembly:/_knt/environment/geometry/props/signs/sign_emergency_exit_a.wl2?/sign_emergency_exit_a.prim].prim",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01729732D90AC40B",
+    "path": "[assembly:/_knt/environment/geometry/kits/office/webbplex_office_kit_a.wl2?/a_office_ext_bottom_detail_grid_4x4_a.prim].prim",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01BB6EF33CC6D8EE",
+    "path": "[assembly:/_knt/vehicles/geometry/speed_boat_luxury_a/speed_boat_luxury_a.wl2?/speed_boat_luxury_a_rotor.prim^speed_boat_luxury_a_rotor_v1.prim].prim",
+    "gameFlags": 1
   }
 ]

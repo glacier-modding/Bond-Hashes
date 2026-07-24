@@ -59648,5 +59648,15 @@
     "hash": "0100FC016C2767F8",
     "path": "[assembly:/_glacier/templates/aspectdummy.aspect]([modules:/zgeomentity.class].entitytype,[modules:/zstaticphysicsaspect.class].entitytype,[modules:/zcollisionresourceshapeaspect.class].entitytype,[assembly:/_knt/environment/geometry/levels/london/museum/museum_mainhall_stage_a.wl2?/speaker_podium_b.prim](material_overwrite).entitytype).entityblueprint",
     "gameFlags": 1
+  },
+  {
+    "hash": "017A155CD7E2D69A",
+    "path": "[assembly:/_glacier/templates/aspectdummy.aspect]([modules:/zbodypartentity.class].entitytype,[assembly:/_knt/characters/actors/male_reg/individuals/_maincast/bond/kits/kit_burgerking_skin2/geometry_deformation/kit_burgerking_skin2_shorts/kit_burgerking_skin2_shorts.gar?/shorts_kit_burgerking_skin2.weighted.fbx](material_overwrite).entitytype).entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01B1602DC945AEAA",
+    "path": "[assembly:/_glacier/templates/aspectdummy.aspect]([assembly:/_knt/effects/geometry/misc/fx_basic_shapes.wl2?/fx_plane_10m.prim](materials).entitytype,[modules:/zpurewatersimpleplaneaspect.class].entitytype).entityblueprint",
+    "gameFlags": 1
   }
 ]

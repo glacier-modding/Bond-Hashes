@@ -8868,5 +8868,35 @@
     "hash": "01C9192191D4014B",
     "path": "[assembly:/_knt/design/setpieces/setpieces_orchid.template?/targetingcontext_orchid_escapeboat.entitytemplate].entityresource",
     "gameFlags": 1
+  },
+  {
+    "hash": "01D98E47EB5C4CAE",
+    "path": "[assembly:/_knt/design/tsim/tsim_gamechangers.template?/kntgamechangerdefinition_silenttakedownsonly.entitytemplate].entityresource",
+    "gameFlags": 1
+  },
+  {
+    "hash": "018C601A32ECADFE",
+    "path": "[assembly:/_knt/items/templates/firearms/firearms.template?/firearm_resourcedefinition_smg_silenced_a.entitytemplate].entityresource",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01D2D905A18C35A3",
+    "path": "[assembly:/_knt/design/tsim/tsim_gamechangers.template?/kntgamechangerdefinition_noresourceregen.entitytemplate].entityresource",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01502919374FD5C0",
+    "path": "[assembly:/_knt/effects/templates/_materialdescriptors/character.template?/fx_md_character_metal_ricochet_a.entitytemplate].entityresource",
+    "gameFlags": 1
+  },
+  {
+    "hash": "017993F7A3DEE9AD",
+    "path": "[assembly:/_knt/items/templates/firearms/firearms.template?/firearm_resourcedefinition_heavypistol_50cal_a.entitytemplate].entityresource",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01ECE545994B4C2D",
+    "path": "[assembly:/_knt/items/templates/firearms/firearms.template?/firearm_resourcedefinition_machinepistol_highrecoil_a.entitytemplate].entityresource",
+    "gameFlags": 1
   }
 ]

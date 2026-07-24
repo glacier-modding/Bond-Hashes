@@ -448,5 +448,10 @@
     "path": "",
     "gameFlags": 1,
     "hint": "subtitlesourceindicator"
+  },
+  {
+    "hash": "01809FB2575359B7",
+    "path": "[assembly:/_knt/ui/enums/textsizemode.enumtype].enumtype",
+    "gameFlags": 1
   }
 ]

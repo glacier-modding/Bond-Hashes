@@ -248857,5 +248857,65 @@
     "hash": "01013D3313C5C261",
     "path": "[assembly:/_knt/environment/geometry/levels/london/museum/museum_mainhall_stage_a.wl2?/speaker_podium_b.prim](materials).entityblueprint",
     "gameFlags": 1
+  },
+  {
+    "hash": "01E4E05B935FEC1E",
+    "path": "[assembly:/_knt/design/tsim/tsim_gamechangers.template?/kntgamechanger_noresourceregen.entitytemplate].entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01541514D47E85BF",
+    "path": "[assembly:/_knt/environment/templates/foliage/bushes_a.template?/bush_garden_f_00.entitytemplate].entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "018B53D788A0981A",
+    "path": "[assembly:/_knt/characters/actors/male_reg/individuals/_maincast/bond/kits/kit_burgerking_skin2/geometry_deformation/kit_burgerking_skin2_shorts/kit_burgerking_skin2_shorts.gar?/shorts_kit_burgerking_skin2.weighted.fbx](materials).entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01E154B05D5E9F68",
+    "path": "[assembly:/_knt/design/tsim/tsim_gamechangers.template?/kntgamechangerdefinition_silenttakedownsonly.entitytemplate].entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01346D43FE2C3123",
+    "path": "[assembly:/_knt/design/tsim/tsim_gamechangers.template?/kntgamechangerdefinition_noresourceregen.entitytemplate].entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "013531FA9AAA10BD",
+    "path": "[assembly:/_knt/effects/templates/_materialdescriptors/character.template?/fx_md_character_metal_ricochet_a.entitytemplate].entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01528A33762C1C0E",
+    "path": "[assembly:/_knt/items/templates/throwable_items/throwable_items.template?/throwable_instance_poolball_10.entitytemplate].entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "013C2DF3CC220654",
+    "path": "[assembly:/_knt/items/templates/firearms/firearms.template?/firearm_resourcedefinition_heavypistol_50cal_a.entitytemplate].entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01E4E60F8557C9AD",
+    "path": "[assembly:/_knt/environment/templates/props/signs/signs_a.template?/sign_emergency_exit_a.entitytemplate].entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01702BF84B46CE0E",
+    "path": "[assembly:/_knt/design/interaction_prompts/kntinputoverridedefinitions.template?/knt_actioninputtype_agility.entitytemplate].entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01E5D3CD24A217AC",
+    "path": "[assembly:/_knt/items/templates/firearms/firearms.template?/firearm_resourcedefinition_smg_silenced_a.entitytemplate].entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01AD4ECB1D216A21",
+    "path": "[assembly:/_knt/items/templates/firearms/firearms.template?/firearm_resourcedefinition_machinepistol_highrecoil_a.entitytemplate].entityblueprint",
+    "gameFlags": 1
   }
 ]

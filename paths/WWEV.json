@@ -39788,5 +39788,161 @@
     "path": "",
     "gameFlags": 1,
     "hint": "env_pos_dah_drivetologoship_construction_abstract_lp_04_play"
+  },
+  {
+    "hash": "0186D3DEE3232880",
+    "path": "",
+    "gameFlags": 1,
+    "hint": "vfx_dst_pep_workshop_3dprinter_play"
+  },
+  {
+    "hash": "01C65B232B27002D",
+    "path": "",
+    "gameFlags": 1,
+    "hint": "vfx_dst_pep_workshop_wardrobe_play"
+  },
+  {
+    "hash": "01E63DF1C8401466",
+    "path": "",
+    "gameFlags": 1,
+    "hint": "vfx_dst_pep_security_kitchentable_play"
+  },
+  {
+    "hash": "017B7120363E8E05",
+    "path": "",
+    "gameFlags": 1,
+    "hint": "vfx_dst_pep_workshop_filingcabinet_play"
+  },
+  {
+    "hash": "01003D01EB6313B5",
+    "path": "",
+    "gameFlags": 1,
+    "hint": "vfx_dst_pep_workshop_canvas_play"
+  },
+  {
+    "hash": "014104642AE00DFF",
+    "path": "",
+    "gameFlags": 1,
+    "hint": "vfx_dst_pep_workshop_small_woodenbox_play"
+  },
+  {
+    "hash": "01AEBFF2CF850DF1",
+    "path": "",
+    "gameFlags": 1,
+    "hint": "vfx_dst_pep_security_arcademachine_play"
+  },
+  {
+    "hash": "010DA13B93DF5320",
+    "path": "",
+    "gameFlags": 1,
+    "hint": "vfx_dst_pep_workshop_spraycans_play"
+  },
+  {
+    "hash": "0139908E51FFFCB8",
+    "path": "",
+    "gameFlags": 1,
+    "hint": "vfx_dst_pep_workshop_plasticbox_play"
+  },
+  {
+    "hash": "01F303C097253A62",
+    "path": "",
+    "gameFlags": 1,
+    "hint": "vfx_dst_pep_security_jukeboxmusic_play"
+  },
+  {
+    "hash": "01B996A21AF28446",
+    "path": "",
+    "gameFlags": 1,
+    "hint": "vfx_dst_pep_workshop_woodentripod_play"
+  },
+  {
+    "hash": "0117A66B5CB16903",
+    "path": "",
+    "gameFlags": 1,
+    "hint": "vfx_dst_pep_security_table_play"
+  },
+  {
+    "hash": "01644456441751B8",
+    "path": "",
+    "gameFlags": 1,
+    "hint": "vfx_dst_pep_workshop_spraycan_punctured_play"
+  },
+  {
+    "hash": "0121A3E325BA917B",
+    "path": "",
+    "gameFlags": 1,
+    "hint": "vfx_dst_pep_security_jukebox_play"
+  },
+  {
+    "hash": "01E52D7CE5B5FC3A",
+    "path": "",
+    "gameFlags": 1,
+    "hint": "vfx_dst_pep_workshop_table_play"
+  },
+  {
+    "hash": "0191D29DD2E1D6A7",
+    "path": "",
+    "gameFlags": 1,
+    "hint": "vfx_dst_pep_workshop_hanginglights_play"
+  },
+  {
+    "hash": "014FE34B06DE72D1",
+    "path": "",
+    "gameFlags": 1,
+    "hint": "vfx_dst_pep_workshop_woodenstool_play"
+  },
+  {
+    "hash": "012681212E4CC416",
+    "path": "",
+    "gameFlags": 1,
+    "hint": "vfx_dst_pep_workshop_drawers_play"
+  },
+  {
+    "hash": "018738690FFED584",
+    "path": "",
+    "gameFlags": 1,
+    "hint": "vfx_dst_pep_security_books_play"
+  },
+  {
+    "hash": "01FC87B3FEB3B1C5",
+    "path": "",
+    "gameFlags": 1,
+    "hint": "vfx_dst_pep_security_fridge_play"
+  },
+  {
+    "hash": "0122FB2A55F57003",
+    "path": "",
+    "gameFlags": 1,
+    "hint": "vfx_dst_pep_workshop_robotarm_sparks_lp_play"
+  },
+  {
+    "hash": "01DB104D09A2E13B",
+    "path": "",
+    "gameFlags": 1,
+    "hint": "vfx_dst_pep_security_desk_play"
+  },
+  {
+    "hash": "0181A59C31998A4D",
+    "path": "",
+    "gameFlags": 1,
+    "hint": "vfx_dst_pep_security_bench_play"
+  },
+  {
+    "hash": "01A6F55A1F76D053",
+    "path": "",
+    "gameFlags": 1,
+    "hint": "vfx_dst_pep_workshop_robotarm_play"
+  },
+  {
+    "hash": "01A29313F39F4B88",
+    "path": "",
+    "gameFlags": 1,
+    "hint": "vfx_dst_pep_workshop_easel_play"
+  },
+  {
+    "hash": "01F7BB4F6753232E",
+    "path": "",
+    "gameFlags": 1,
+    "hint": "vfx_dst_pep_security_plantcage_play"
   }
 ]

@@ -101248,5 +101248,20 @@
     "hash": "01B8898953DCBBE4",
     "path": "[assembly:/_knt/environment/geometry/props/electronics/speaker_box_outdoor_a.wl2?/speaker_box_outdoor_a.prim].coll",
     "gameFlags": 1
+  },
+  {
+    "hash": "01CFCE43463EB7EF",
+    "path": "[assembly:/_knt/vehicles/geometry/speed_boat_luxury_a/speed_boat_luxury_a.wl2?/speed_boat_luxury_a_rotor.prim^speed_boat_luxury_a_rotor_v1.prim].coll",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0170C18A1B50D00A",
+    "path": "[assembly:/_pro/environment/geometry/props/plants/bushes_garden_a.wl2?/bush_garden_f_00.prim].coll",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01DEA441C822CB58",
+    "path": "[assembly:/_knt/environment/geometry/kits/office/webbplex_office_kit_a.wl2?/a_office_ext_bottom_detail_grid_4x4_a.prim].coll",
+    "gameFlags": 1
   }
 ]

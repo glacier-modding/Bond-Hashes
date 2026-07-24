@@ -3103,5 +3103,10 @@
     "hash": "017612D105F6A75C",
     "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/aurora/pages/onlineprivacypolicy/onlineprivacypolicy_page.bs.xml].bechaml",
     "gameFlags": 1
+  },
+  {
+    "hash": "019A4E97575039C0",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/aurora/components/scrollwithpadding.component.xml].bechaml",
+    "gameFlags": 1
   }
 ]

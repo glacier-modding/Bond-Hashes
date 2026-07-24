@@ -350322,5 +350322,95 @@
     "hash": "01231E669923F200",
     "path": "[assembly:/_knt/environment/geometry/levels/london/museum/museum_mainhall_stage_a.wl2?/speaker_podium_b.prim](materials).entitytype",
     "gameFlags": 1
+  },
+  {
+    "hash": "019CFCEF895B9158",
+    "path": "[assembly:/_knt/environment/templates/foliage/bushes_a.template?/bush_garden_f_00.entitytemplate].entitytype",
+    "gameFlags": 1
+  },
+  {
+    "hash": "011DE50DF75130D9",
+    "path": "[assembly:/_knt/items/templates/firearms/firearms.template?/firearm_resourcedefinition_heavypistol_50cal_a.entitytemplate].entitytype",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01C81EF7572F6C98",
+    "path": "[assembly:/_knt/design/tsim/tsim_gamechangers.template?/kntgamechangerdefinition_noresourceregen.entitytemplate].entitytype",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01FF9482ADDED4C7",
+    "path": "[assembly:/_knt/effects/templates/_materialdescriptors/character.template?/fx_md_character_metal_ricochet_a.entitytemplate].entitytype",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01E1975A29D23489",
+    "path": "[assembly:/_knt/items/templates/throwable_items/throwable_items.template?/throwable_instance_poolball_10.entitytemplate].entitytype",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01D0E332D6AC52A3",
+    "path": "[assembly:/_knt/environment/templates/props/signs/signs_a.template?/sign_emergency_exit_a.entitytemplate].entitytype",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0121CE19D6066238",
+    "path": "[assembly:/_knt/design/interaction_prompts/kntinputoverridedefinitions.template?/knt_actioninputtype_agility.entitytemplate].entitytype",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0155A2ABC639B7BB",
+    "path": "[assembly:/_knt/characters/actors/male_reg/individuals/_maincast/bond/kits/kit_burgerking_skin2/geometry_deformation/kit_burgerking_skin2_shorts/kit_burgerking_skin2_shorts.gar?/shorts_kit_burgerking_skin2.weighted.fbx](materials).entitytype",
+    "gameFlags": 1
+  },
+  {
+    "hash": "017BC16DD3ABF591",
+    "path": "[assembly:/_knt/vehicles/geometry/speed_boat_luxury_a/speed_boat_luxury_a.wl2?/speed_boat_luxury_a_rotor.prim^speed_boat_luxury_a_rotor_v1.prim].entitytype",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01944366657CDD9F",
+    "path": "[assembly:/_knt/characters/templates/outfits/_maincast/outfits_theresalorca.template?/outfit_magnolia_civ_theresalorca_day_fem_reg_v2.entitytemplate].entitytype",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01E7699325EF58CE",
+    "path": "[assembly:/_knt/items/templates/firearms/firearms.template?/firearm_resourcedefinition_machinepistol_highrecoil_a.entitytemplate].entitytype",
+    "gameFlags": 1
+  },
+  {
+    "hash": "011A9DE974D5D4BE",
+    "path": "[assembly:/_knt/items/templates/firearms/firearms.template?/firearm_resourcedefinition_smg_silenced_a.entitytemplate].entitytype",
+    "gameFlags": 1
+  },
+  {
+    "hash": "011234E47D19FF14",
+    "path": "[assembly:/_knt/environment/geometry/props/signs/sign_emergency_exit_a.wl2?/sign_emergency_exit_a.prim].entitytype",
+    "gameFlags": 1
+  },
+  {
+    "hash": "015AC40AA6111978",
+    "path": "[assembly:/_knt/characters/templates/outfits/_maincast/outfits_m.template?/outfit_sunflower_civ_m_female_reg_v0.entitytemplate].entitytype",
+    "gameFlags": 1
+  },
+  {
+    "hash": "016F12715DCDF64C",
+    "path": "[assembly:/_knt/design/tsim/tsim_gamechangers.template?/kntgamechangerdefinition_silenttakedownsonly.entitytemplate].entitytype",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0148F6742C068899",
+    "path": "[assembly:/_knt/environment/geometry/kits/office/webbplex_office_kit_a.wl2?/a_office_ext_bottom_detail_grid_4x4_a.prim].entitytype",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01F7174F32AAC6A8",
+    "path": "[assembly:/_pro/environment/geometry/props/plants/bushes_garden_a.wl2?/bush_garden_f_00.prim].entitytype",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01DDE7F612945281",
+    "path": "[assembly:/_knt/design/tsim/tsim_gamechangers.template?/kntgamechanger_noresourceregen.entitytemplate].entitytype",
+    "gameFlags": 1
   }
 ]

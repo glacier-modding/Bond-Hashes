@@ -11448,5 +11448,30 @@
     "hash": "01EE540BC78E22EC",
     "path": "[modules:/zclisplayerindangerlevel.class].entityblueprint",
     "gameFlags": 1
+  },
+  {
+    "hash": "01E5AC77E0D7ECC2",
+    "path": "[modules:/zistextsizemodeactive.class].entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01478AA44332F5FB",
+    "path": "[modules:/zuisetscalemanual.class].entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01166F2FB16FF259",
+    "path": "[modules:/zclgamemanagergetinonlinehubfrommaincampaign.class].entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01113BEFB733DFA0",
+    "path": "[modules:/zclgamemanagersetinonlinehubfrommaincampaign.class].entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "010D2E401C9145A3",
+    "path": "[modules:/zinteractionuiprovider_exit.class].entityblueprint",
+    "gameFlags": 1
   }
 ]

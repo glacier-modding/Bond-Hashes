@@ -41533,5 +41533,10 @@
     "hash": "01A8064B25F81379",
     "path": "[assembly:/_knt/environment/geometry/levels/london/museum/museum_mainhall_stage_a.wl2?/speaker_podium_b.prim](material_overwrite).entitytype",
     "gameFlags": 1
+  },
+  {
+    "hash": "01CBDD09F0B878E3",
+    "path": "[assembly:/_knt/characters/actors/male_reg/individuals/_maincast/bond/kits/kit_burgerking_skin2/geometry_deformation/kit_burgerking_skin2_shorts/kit_burgerking_skin2_shorts.gar?/shorts_kit_burgerking_skin2.weighted.fbx](material_overwrite).entitytype",
+    "gameFlags": 1
   }
 ]

@@ -1,9 +1,8 @@
 [
   {
     "hash": "01C646FF1C4FB675",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "dialogexodamien"
+    "path": "[assembly:/_knt/common/dialogexodamien.enumtype].enumtype",
+    "gameFlags": 1
   },
   {
     "hash": "016B9F7E5DF3C8BC",
@@ -46,9 +45,8 @@
   },
   {
     "hash": "01C3F8BA9E1E80B0",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "gameplaytags"
+    "path": "[assembly:/_knt/common/gameplaytags.enumtype].enumtype",
+    "gameFlags": 1
   },
   {
     "hash": "01A6AA2C36DF19FC",
@@ -106,9 +104,8 @@
   },
   {
     "hash": "01572936714DD981",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "difficultyparameters"
+    "path": "[assembly:/_knt/common/difficultyparameters.enumtype].enumtype",
+    "gameFlags": 1
   },
   {
     "hash": "018291F87582EA3F",
@@ -140,9 +137,8 @@
   },
   {
     "hash": "0175EE99C8AFEA67",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "cameratags"
+    "path": "[assembly:/_knt/common/cameratags.enumtype].enumtype",
+    "gameFlags": 1
   },
   {
     "hash": "01A8D118FC349573",
@@ -299,15 +295,13 @@
   },
   {
     "hash": "01FA1E5B62D83EE7",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "materialdescriptortags"
+    "path": "[assembly:/_knt/common/materialdescriptortags.enumtype].enumtype",
+    "gameFlags": 1
   },
   {
     "hash": "01EA2A1502E0E9AB",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "difficultylevels"
+    "path": "[assembly:/_knt/common/difficultylevels.enumtype].enumtype",
+    "gameFlags": 1
   },
   {
     "hash": "01B8BCE2693596F9",
@@ -348,9 +342,8 @@
   },
   {
     "hash": "01F0214CB1D5999E",
-    "path": "",
-    "gameFlags": 1,
-    "hint": "bossreactiontype"
+    "path": "[assembly:/_knt/common/bossreactiontype.enumtype].enumtype",
+    "gameFlags": 1
   },
   {
     "hash": "013957FBFAADC6C5",

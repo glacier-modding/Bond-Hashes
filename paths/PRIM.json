@@ -7871,7 +7871,7 @@
   },
   {
     "hash": "01F29DF7D785D919",
-    "path": "",
+    "path": "[assembly:/_glacier/geometry/gizmos.wl2?/gizmo_light_directional_01.prim].prim",
     "gameFlags": 1
   },
   {
@@ -31296,7 +31296,7 @@
   },
   {
     "hash": "01436CE4682BD0A1",
-    "path": "",
+    "path": "[assembly:/_glacier/geometry/gizmos.wl2?/gizmo_direction_01.prim].prim",
     "gameFlags": 1
   },
   {
@@ -32371,7 +32371,7 @@
   },
   {
     "hash": "019995314D91BB22",
-    "path": "",
+    "path": "[assembly:/_glacier/geometry/gizmos.wl2?/gizmo_camera_01.prim].prim",
     "gameFlags": 1
   },
   {
@@ -43691,7 +43691,7 @@
   },
   {
     "hash": "01378AD2B0ED6784",
-    "path": "",
+    "path": "[assembly:/_glacier/geometry/gizmos.wl2?/gizmo_arrow_01.prim].prim",
     "gameFlags": 1
   },
   {
@@ -53396,7 +53396,7 @@
   },
   {
     "hash": "013BF251EF9CFA35",
-    "path": "",
+    "path": "[assembly:/_glacier/geometry/gizmos.wl2?/gizmo_decal_01.prim].prim",
     "gameFlags": 1
   },
   {
@@ -56981,7 +56981,7 @@
   },
   {
     "hash": "01D1E26EF2ADD1CF",
-    "path": "",
+    "path": "[assembly:/_glacier/geometry/gizmos.wl2?/gizmo_colibox.prim].prim",
     "gameFlags": 1
   },
   {
@@ -63921,7 +63921,7 @@
   },
   {
     "hash": "01CEDA5D251E493A",
-    "path": "",
+    "path": "[assembly:/_glacier/geometry/gizmos.wl2?/unit_circle.prim].prim",
     "gameFlags": 1
   },
   {
@@ -67001,7 +67001,7 @@
   },
   {
     "hash": "015CC2E289955F9C",
-    "path": "",
+    "path": "[assembly:/_glacier/geometry/gizmos.wl2?/gizmo_cubemap_01.prim].prim",
     "gameFlags": 1
   },
   {
@@ -67051,7 +67051,7 @@
   },
   {
     "hash": "0198464F57D750A9",
-    "path": "",
+    "path": "[assembly:/_glacier/geometry/gizmos.wl2?/gizmo_spline_01.prim].prim",
     "gameFlags": 1
   },
   {
@@ -78076,7 +78076,7 @@
   },
   {
     "hash": "015334B76E17E4DA",
-    "path": "",
+    "path": "[assembly:/_glacier/geometry/gizmos.wl2?/gizmo_light_spot_01.prim].prim",
     "gameFlags": 1
   },
   {
@@ -84516,7 +84516,7 @@
   },
   {
     "hash": "0160F1268A9065AE",
-    "path": "",
+    "path": "[assembly:/_glacier/geometry/gizmos.wl2?/gizmo_annotation_01.prim].prim",
     "gameFlags": 1
   },
   {
@@ -84641,7 +84641,7 @@
   },
   {
     "hash": "01CB8E0E518898A5",
-    "path": "",
+    "path": "[assembly:/_glacier/geometry/gizmos.wl2?/gizmo_spline_point.prim].prim",
     "gameFlags": 1
   },
   {
@@ -95196,7 +95196,7 @@
   },
   {
     "hash": "01E2A5B67E8D30C5",
-    "path": "",
+    "path": "[assembly:/_glacier/geometry/gizmos.wl2?/gizmo_particles_01.prim].prim",
     "gameFlags": 1
   },
   {
@@ -100106,7 +100106,7 @@
   },
   {
     "hash": "014BB3A779C8B238",
-    "path": "",
+    "path": "[assembly:/_glacier/geometry/gizmos.wl2?/gizmo_colisphere.prim].prim",
     "gameFlags": 1
   },
   {
@@ -109016,7 +109016,7 @@
   },
   {
     "hash": "01F0BB1532B68586",
-    "path": "",
+    "path": "[assembly:/_glacier/geometry/gizmos.wl2?/gizmo_sound_01.prim].prim",
     "gameFlags": 1
   },
   {
@@ -110896,7 +110896,7 @@
   },
   {
     "hash": "019CD83FD99F0200",
-    "path": "",
+    "path": "[assembly:/_glacier/geometry/gizmos.wl2?/gizmo_gate_closed.prim].prim",
     "gameFlags": 1
   },
   {
@@ -122866,7 +122866,7 @@
   },
   {
     "hash": "013D86E4BC93D339",
-    "path": "",
+    "path": "[assembly:/_glacier/geometry/gizmos.wl2?/gizmo_wind_01.prim].prim",
     "gameFlags": 1
   },
   {
@@ -131211,7 +131211,7 @@
   },
   {
     "hash": "0187471320355E4F",
-    "path": "",
+    "path": "[assembly:/_glacier/geometry/gizmos.wl2?/gizmo_signal_01.prim].prim",
     "gameFlags": 1
   },
   {
@@ -135401,7 +135401,7 @@
   },
   {
     "hash": "0131F76658C504F2",
-    "path": "",
+    "path": "[assembly:/_glacier/geometry/gizmos.wl2?/coli_boundary.prim].prim",
     "gameFlags": 1
   },
   {
@@ -138156,7 +138156,7 @@
   },
   {
     "hash": "018BAF3349E81820",
-    "path": "",
+    "path": "[assembly:/_glacier/geometry/gizmos.wl2?/gizmo_point_01.prim].prim",
     "gameFlags": 1
   },
   {
@@ -142526,7 +142526,7 @@
   },
   {
     "hash": "0106CB879EF3051C",
-    "path": "",
+    "path": "[assembly:/_glacier/geometry/gizmos.wl2?/scatter_container.prim].prim",
     "gameFlags": 1
   },
   {
@@ -146276,7 +146276,7 @@
   },
   {
     "hash": "011AA436636795D9",
-    "path": "",
+    "path": "[assembly:/_glacier/geometry/gizmos.wl2?/gizmo_light_capsule_01.prim].prim",
     "gameFlags": 1
   },
   {
@@ -148006,7 +148006,7 @@
   },
   {
     "hash": "015053BDC1232858",
-    "path": "",
+    "path": "[assembly:/_glacier/geometry/gizmos.wl2?/gizmo_colicapsule.prim].prim",
     "gameFlags": 1
   },
   {
@@ -149181,7 +149181,7 @@
   },
   {
     "hash": "01C4B4B392560ACC",
-    "path": "",
+    "path": "[assembly:/_glacier/geometry/gizmos.wl2?/gizmo_light_01.prim].prim",
     "gameFlags": 1
   },
   {
@@ -149446,7 +149446,7 @@
   },
   {
     "hash": "017F34DBD342779A",
-    "path": "",
+    "path": "[assembly:/_glacier/geometry/gizmos.wl2?/gizmo_trigger_01.prim].prim",
     "gameFlags": 1
   },
   {
@@ -154781,7 +154781,7 @@
   },
   {
     "hash": "01F5A58FB29DA23F",
-    "path": "",
+    "path": "[assembly:/_glacier/geometry/gizmos.wl2?/gizmo_target_01.prim].prim",
     "gameFlags": 1
   },
   {
@@ -158071,7 +158071,7 @@
   },
   {
     "hash": "01DB5840F6A05BDB",
-    "path": "",
+    "path": "[assembly:/_glacier/geometry/gizmos.wl2?/gizmo_group_01.prim].prim",
     "gameFlags": 1
   },
   {
@@ -159341,7 +159341,7 @@
   },
   {
     "hash": "017A52EAE32AB54F",
-    "path": "",
+    "path": "[assembly:/_glacier/geometry/gizmos.wl2?/gizmo_gate_01.prim].prim",
     "gameFlags": 1
   },
   {
@@ -160836,7 +160836,7 @@
   },
   {
     "hash": "019542191DEE22DE",
-    "path": "",
+    "path": "[assembly:/_glacier/geometry/gizmos.wl2?/gizmo_postfilter_01.prim].prim",
     "gameFlags": 1
   },
   {

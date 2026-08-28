@@ -1,6 +1,6 @@
 # Bond-Hashes
 <!-- BADGES_START -->
-![Resources Badge](https://img.shields.io/badge/Total%20Resources-749,210-blue.svg)
+![Resources Badge](https://img.shields.io/badge/Total%20Resources-749,215-blue.svg)
 ![Completion Badge](https://img.shields.io/badge/Total%20Completion-65.23%25-red.svg)
 ![Formats Badge](https://img.shields.io/badge/Formats%20completed-21/82-blue.svg)
 ![Firstlight Badge](https://img.shields.io/badge/Firstlight%20Completion-65.23%25-red.svg)
@@ -19,10 +19,10 @@
 |BORG     |3078           |2819         |91.59%            |0    |0.00%          |
 |BOXC     |4706           |0            |0.00%             |0    |0.00%          |
 |CAMC     |2026           |0            |0.00%             |0    |0.00%          |
-|CBLU     |2295           |2295         |100.00%           |0    |0.00%          |
+|CBLU     |2296           |2296         |100.00%           |0    |0.00%          |
 |CLNG     |1              |1            |100.00%           |0    |0.00%          |
 |CLRP     |1              |0            |0.00%             |0    |0.00%          |
-|CPPT     |2295           |2295         |100.00%           |0    |0.00%          |
+|CPPT     |2296           |2296         |100.00%           |0    |0.00%          |
 |CRMD     |30             |0            |0.00%             |0    |0.00%          |
 |CRSK     |2              |0            |0.00%             |0    |0.00%          |
 |CURV     |5              |0            |0.00%             |0    |0.00%          |
@@ -67,7 +67,7 @@
 |ORES     |5              |5            |100.00%           |0    |0.00%          |
 |PEBL     |1              |1            |100.00%           |0    |0.00%          |
 |PETY     |1              |1            |100.00%           |0    |0.00%          |
-|PRIM     |32773          |27894        |85.11%            |0    |0.00%          |
+|PRIM     |32775          |27896        |85.11%            |0    |0.00%          |
 |RTLV     |2              |2            |100.00%           |0    |0.00%          |
 |SCDA     |201            |190          |94.53%            |0    |0.00%          |
 |SDEF     |102            |102          |100.00%           |0    |0.00%          |
@@ -89,7 +89,7 @@
 |WSGT     |362            |20           |5.52%             |0    |0.00%          |
 |WSWB     |25             |18           |72.00%            |0    |0.00%          |
 |WSWT     |30             |23           |76.67%            |0    |0.00%          |
-|WWEM     |21779          |0            |0.00%             |0    |0.00%          |
+|WWEM     |21780          |0            |0.00%             |0    |0.00%          |
 |WWES     |229317         |90385        |39.41%            |0    |0.00%          |
 |WWEV     |6665           |44           |0.66%             |6621 |99.34%         |
 |XMLB     |622            |622          |100.00%           |0    |0.00%          |

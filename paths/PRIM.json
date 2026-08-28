@@ -89056,7 +89056,7 @@
   },
   {
     "hash": "015812A2BADDA13E",
-    "path": "",
+    "path": "[assembly:/_glacier/geometry/gizmos.wl2?/gizmo_occluder.prim].prim",
     "gameFlags": 1
   },
   {
@@ -98106,7 +98106,7 @@
   },
   {
     "hash": "01AC88CAC48A3C39",
-    "path": "",
+    "path": "[assembly:/_glacier/geometry/gizmos.wl2?/gizmo_particles_gpu.prim].prim",
     "gameFlags": 1
   },
   {
@@ -101551,7 +101551,7 @@
   },
   {
     "hash": "0170C6431D84BE22",
-    "path": "",
+    "path": "[assembly:/_glacier/geometry/gizmos.wl2?/gizmo_smolder.prim].prim",
     "gameFlags": 1
   },
   {
@@ -115146,7 +115146,7 @@
   },
   {
     "hash": "011F949F05C83679",
-    "path": "",
+    "path": "[assembly:/_glacier/geometry/gizmos.wl2?/gizmo_fog.prim].prim",
     "gameFlags": 1
   },
   {

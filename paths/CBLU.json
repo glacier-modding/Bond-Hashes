@@ -11473,5 +11473,10 @@
     "hash": "010D2E401C9145A3",
     "path": "[modules:/zinteractionuiprovider_exit.class].entityblueprint",
     "gameFlags": 1
+  },
+  {
+    "hash": "011CF17F62107656",
+    "path": "[modules:/zclgamemanagerprofileupdated.class].entityblueprint",
+    "gameFlags": 1
   }
 ]

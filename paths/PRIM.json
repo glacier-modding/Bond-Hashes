@@ -163863,5 +163863,15 @@
     "hash": "01BB6EF33CC6D8EE",
     "path": "[assembly:/_knt/vehicles/geometry/speed_boat_luxury_a/speed_boat_luxury_a.wl2?/speed_boat_luxury_a_rotor.prim^speed_boat_luxury_a_rotor_v1.prim].prim",
     "gameFlags": 1
+  },
+  {
+    "hash": "01A5C848D807A958",
+    "path": "[assembly:/_knt/environment/terrain/missions/magnolia/terrain_spline_decals/terrain_spline_decals.wl2?/terrain_spline_decals.prim].prim",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01CEA026339B6EAE",
+    "path": "[assembly:/_knt/environment/terrain/missions/clover/terrain_spline_decals/terrain_spline_decals.wl2?/terrain_spline_decals.prim].prim",
+    "gameFlags": 1
   }
 ]

@@ -11473,5 +11473,10 @@
     "hash": "01B2AFFE6FA21D56",
     "path": "[modules:/zistextsizemodeactive.class].entitytype",
     "gameFlags": 1
+  },
+  {
+    "hash": "01074F92EB223A62",
+    "path": "[modules:/zclgamemanagerprofileupdated.class].entitytype",
+    "gameFlags": 1
   }
 ]

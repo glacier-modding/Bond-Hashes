@@ -11478,5 +11478,15 @@
     "hash": "011CF17F62107656",
     "path": "[modules:/zclgamemanagerprofileupdated.class].entityblueprint",
     "gameFlags": 1
+  },
+  {
+    "hash": "011C43D5C055A52A",
+    "path": "",
+    "gameFlags": 1
+  },
+  {
+    "hash": "018564B76722087F",
+    "path": "",
+    "gameFlags": 1
   }
 ]

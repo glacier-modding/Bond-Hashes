@@ -163873,5 +163873,30 @@
     "hash": "01CEA026339B6EAE",
     "path": "[assembly:/_knt/environment/terrain/missions/clover/terrain_spline_decals/terrain_spline_decals.wl2?/terrain_spline_decals.prim].prim",
     "gameFlags": 1
+  },
+  {
+    "hash": "01F729C00FFB144A",
+    "path": "",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01DFA2D8BF1398FD",
+    "path": "",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0102734D1DEAA16E",
+    "path": "",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01AE2782CD187A55",
+    "path": "",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01D044A9948B4832",
+    "path": "",
+    "gameFlags": 1
   }
 ]

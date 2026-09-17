@@ -13638,5 +13638,10 @@
     "hash": "01062F4BFB039E64",
     "path": "[assembly:/runtimeresources/vertexpaint/_knt/environment/templates/levels/lotus/lotus_nightclub_a/a_int_sofas_4x4_a_771cc4dbdc0a46a9aa14c5c368a8a3a2.vertexdata].vertexdata",
     "gameFlags": 1
+  },
+  {
+    "hash": "018A189885F6C92E",
+    "path": "",
+    "gameFlags": 1
   }
 ]

@@ -403,5 +403,30 @@
     "hash": "014C93C9A08B4A5C",
     "path": "[assembly:/_knt/ui/controls/knt.hud.swf?/knt.hud.gadgets.gadgetselectorwidget.uic].entityblueprint",
     "gameFlags": 1
+  },
+  {
+    "hash": "01D06137F41BF36C",
+    "path": "",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01F81E7EC016705C",
+    "path": "",
+    "gameFlags": 1
+  },
+  {
+    "hash": "012E81202FB22C8A",
+    "path": "",
+    "gameFlags": 1
+  },
+  {
+    "hash": "011CEA1D8AD8FAD3",
+    "path": "",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01B07CE80CF2530A",
+    "path": "",
+    "gameFlags": 1
   }
 ]

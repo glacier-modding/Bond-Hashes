@@ -530,5 +530,30 @@
     "path": "",
     "gameFlags": 1,
     "hint": "sm_rose"
+  },
+  {
+    "hash": "01E2FAA0166BEABE",
+    "path": "",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01C0F6E0833CF4C0",
+    "path": "",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0104222C9222A2D0",
+    "path": "",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01B6961A13B43E9F",
+    "path": "",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01C87227601DDB29",
+    "path": "",
+    "gameFlags": 1
   }
 ]

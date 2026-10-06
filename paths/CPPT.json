@@ -11481,267 +11481,267 @@
   },
   {
     "hash": "0111034FE6B26FE8",
-    "path": "",
+    "path": "[modules:/zgetptstatusentity.class].entitytype",
     "gameFlags": 1
   },
   {
     "hash": "015027139255341E",
-    "path": "",
+    "path": "[modules:/zraytracingsettingsentity.class].entitytype",
     "gameFlags": 1
   },
   {
     "hash": "0107BA478BADE84F",
-    "path": "",
+    "path": "[modules:/zclentityfactorytostringentity.class].entitytype",
     "gameFlags": 1
   },
   {
     "hash": "010779157FA90137",
-    "path": "",
+    "path": "[modules:/zvirtualcameralensentity.class].entitytype",
     "gameFlags": 1
   },
   {
     "hash": "01654243C343249D",
-    "path": "",
+    "path": "[modules:/zclentityreftovehicleentity.class].entitytype",
     "gameFlags": 1
   },
   {
     "hash": "012E5E83129BD927",
-    "path": "",
+    "path": "[modules:/zuiphotomodeoptiontoggleentity.class].entitytype",
     "gameFlags": 1
   },
   {
     "hash": "01AEB6C720B2782E",
-    "path": "",
+    "path": "[modules:/zgetvirtualcameratransformentity.class].entitytype",
     "gameFlags": 1
   },
   {
     "hash": "015A5F381F855008",
-    "path": "",
+    "path": "[modules:/zvirtualcamerabehaviorfreemovementcollisionentity.class].entitytype",
     "gameFlags": 1
   },
   {
     "hash": "0178E7EB38E15B75",
-    "path": "",
+    "path": "[modules:/zclgetpropertyenumentity.class].entitytype",
     "gameFlags": 1
   },
   {
     "hash": "011A338A413789D1",
-    "path": "",
+    "path": "[modules:/zclboolarrayclearentity.class].entitytype",
     "gameFlags": 1
   },
   {
     "hash": "01C49DCEF1C21842",
-    "path": "",
+    "path": "[modules:/zuiphotomodeoptionlistitementity.class].entitytype",
     "gameFlags": 1
   },
   {
     "hash": "0192913153113CFB",
-    "path": "",
+    "path": "[modules:/zvirtualcamerabehaviorsphereconstraintentity.class].entitytype",
     "gameFlags": 1
   },
   {
     "hash": "0171C1C1BACAB907",
-    "path": "",
+    "path": "[modules:/zisphotomodecameramodeactionactiveentity.class].entitytype",
     "gameFlags": 1
   },
   {
     "hash": "0160DA264CE89E73",
-    "path": "",
+    "path": "[modules:/zisletterboxactiveentity.class].entitytype",
     "gameFlags": 1
   },
   {
     "hash": "01DE5362B1537014",
-    "path": "",
+    "path": "[modules:/zclresetlocalplayerinputaction.class].entitytype",
     "gameFlags": 1
   },
   {
     "hash": "014B1478E4BD3F4E",
-    "path": "",
+    "path": "[modules:/zclsendeventlocalsmatrixentity.class].entitytype",
     "gameFlags": 1
   },
   {
     "hash": "0122CA85446CB6EF",
-    "path": "",
+    "path": "[modules:/zuianimationmanagerentity.class].entitytype",
     "gameFlags": 1
   },
   {
     "hash": "014B623D67D8BF9E",
-    "path": "",
+    "path": "[modules:/zclpropertyvaluestringentity.class].entitytype",
     "gameFlags": 1
   },
   {
     "hash": "01B68CDBC892724D",
-    "path": "",
+    "path": "[modules:/zclgetoutfitfactoryfromhumanoidentity.class].entitytype",
     "gameFlags": 1
   },
   {
     "hash": "011698CEA894C538",
-    "path": "",
+    "path": "[modules:/zvirtualcamerabehaviorroomconstraintentity.class].entitytype",
     "gameFlags": 1
   },
   {
     "hash": "01C49DC907945813",
-    "path": "",
+    "path": "[modules:/zuiphotomodeoptionsliderentity.class].entitytype",
     "gameFlags": 1
   },
   {
     "hash": "01908C28897FB19B",
-    "path": "",
+    "path": "[modules:/zclgetcurrentpfradialblur.class].entitytype",
     "gameFlags": 1
   },
   {
     "hash": "0138E62C759F3608",
-    "path": "",
+    "path": "[modules:/zcleventreceiversmatrixentity.class].entitytype",
     "gameFlags": 1
   },
   {
     "hash": "018A88104D17082B",
-    "path": "",
+    "path": "[modules:/zclmatrixforwardentity.class].entitytype",
     "gameFlags": 1
   },
   {
     "hash": "0141C8BF319BB036",
-    "path": "",
+    "path": "[modules:/zuiphotomodeoptioncolorentity.class].entitytype",
     "gameFlags": 1
   },
   {
     "hash": "01EA155F34BB2FC1",
-    "path": "",
+    "path": "[modules:/zclgetcurrentpfchromaticaberration.class].entitytype",
     "gameFlags": 1
   },
   {
     "hash": "01B2761F0FF521F7",
-    "path": "",
+    "path": "[modules:/zuiphotomodetabentity.class].entitytype",
     "gameFlags": 1
   },
   {
     "hash": "0141A8A43EF7F4C5",
-    "path": "",
+    "path": "[modules:/zclgetplayergroundposition.class].entitytype",
     "gameFlags": 1
   },
   {
     "hash": "01D65F66E3BEA423",
-    "path": "",
+    "path": "[modules:/zupdatephotomodecameradithering.class].entitytype",
     "gameFlags": 1
   },
   {
     "hash": "01CC329B6156B943",
-    "path": "",
+    "path": "[modules:/zclentityrefarrayadduniqueentity.class].entitytype",
     "gameFlags": 1
   },
   {
     "hash": "011E087736863A19",
-    "path": "",
+    "path": "[modules:/zkntgameuimanagercustomdataaspect.class].entitytype",
     "gameFlags": 1
   },
   {
     "hash": "0170D5B2E4988ABC",
-    "path": "",
+    "path": "[modules:/gameplay.zskipaicoverrecomputationbox.class].entitytype",
     "gameFlags": 1
   },
   {
     "hash": "01460D71EEA47135",
-    "path": "",
+    "path": "[modules:/zclstringarrayclearentity.class].entitytype",
     "gameFlags": 1
   },
   {
     "hash": "015E7D47E87C489D",
-    "path": "",
+    "path": "[modules:/zgameuiphotomodemanager.class].entitytype",
     "gameFlags": 1
   },
   {
     "hash": "01EE324C61656859",
-    "path": "",
+    "path": "[modules:/zclstringarrayiteratorentity.class].entitytype",
     "gameFlags": 1
   },
   {
     "hash": "0183873B5C99FC07",
-    "path": "",
+    "path": "[modules:/zvirtualcamerabehaviorplayerinputentity.class].entitytype",
     "gameFlags": 1
   },
   {
     "hash": "015C55A59D3512B1",
-    "path": "",
+    "path": "[modules:/zclgetcurrentpfmanualexposure.class].entitytype",
     "gameFlags": 1
   },
   {
     "hash": "01C1AF2596956931",
-    "path": "",
+    "path": "[modules:/zclgetgameplayfinalviewcameratransform.class].entitytype",
     "gameFlags": 1
   },
   {
     "hash": "01F9B2782695994A",
-    "path": "",
+    "path": "[modules:/zkntracemissionprogressionentity.class].entitytype",
     "gameFlags": 1
   },
   {
     "hash": "01019814E000D1E3",
-    "path": "",
+    "path": "[modules:/zclgetcurrentpfintensity.class].entitytype",
     "gameFlags": 1
   },
   {
     "hash": "0110E9E7DD4FA545",
-    "path": "",
+    "path": "[modules:/zuiphotomodeoptionlistactionitementity.class].entitytype",
     "gameFlags": 1
   },
   {
     "hash": "010427A5F3337AE1",
-    "path": "",
+    "path": "[modules:/zgethumanoidpathonnavmesh.class].entitytype",
     "gameFlags": 1
   },
   {
     "hash": "01F175CCF10D3CC9",
-    "path": "",
+    "path": "[modules:/zisgameobjectiveuidisplayedentity.class].entitytype",
     "gameFlags": 1
   },
   {
     "hash": "0100BFA3EFEAA4EB",
-    "path": "",
+    "path": "[modules:/zclgamemanagerdisableoutfitcustomization.class].entitytype",
     "gameFlags": 1
   },
   {
     "hash": "015A6B0C986E300F",
-    "path": "",
+    "path": "[modules:/zkntgadgetoutcomemodifier.class].entitytype",
     "gameFlags": 1
   },
   {
     "hash": "013B25A4396483EA",
-    "path": "",
+    "path": "[modules:/zclgamemanageriscampaignoutfitcustomized.class].entitytype",
     "gameFlags": 1
   },
   {
     "hash": "01622492B5A7A556",
-    "path": "",
+    "path": "[modules:/zclaiassigntacticalespionageareatoagententity.class].entitytype",
     "gameFlags": 1
   },
   {
     "hash": "01173834C239AB62",
-    "path": "",
+    "path": "[modules:/zenablephotomode.class].entitytype",
     "gameFlags": 1
   },
   {
     "hash": "010A85EC6728C545",
-    "path": "",
+    "path": "[modules:/zclgetallgameuiactionhandlesexcept.class].entitytype",
     "gameFlags": 1
   },
   {
     "hash": "01BB9BDA8448812A",
-    "path": "",
+    "path": "[modules:/zvirtualcamerabehaviorboxconstraintentity.class].entitytype",
     "gameFlags": 1
   },
   {
     "hash": "013019FD1EDA0422",
-    "path": "",
+    "path": "[modules:/zclstringarrayremoveelemententity.class].entitytype",
     "gameFlags": 1
   },
   {
     "hash": "0188BD5D63E32009",
-    "path": "",
+    "path": "[modules:/zuiphotomodeoptionlistentity.class].entitytype",
     "gameFlags": 1
   },
   {
     "hash": "016936ED91772256",
-    "path": "",
+    "path": "[modules:/zclgetlinkedentityreffromentityref.class].entitytype",
     "gameFlags": 1
   }
 ]

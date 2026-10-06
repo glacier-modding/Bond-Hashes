@@ -101271,7 +101271,7 @@
   },
   {
     "hash": "010FA017B69E28FD",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/levels/orchid/orchid_gatehouse_kit_a.wl2?/a_ext_wall_station_end_b.prim^a_ext_wall_station_end_b_mirror.prim].coll",
     "gameFlags": 1
   },
   {
@@ -101286,7 +101286,7 @@
   },
   {
     "hash": "01560B9212005BE4",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/levels/orchid/orchid_gatehouse_kit_a.wl2?/a_ext_wall_station_end_b.prim].coll",
     "gameFlags": 1
   },
   {
@@ -101306,7 +101306,7 @@
   },
   {
     "hash": "01C3635966FEB5D3",
-    "path": "",
+    "path": "[assembly:/_pro/environment/geometry/props/harbour_props/boat_speedboat_a.wl2?/boat_speedboat_b_00.prim^boat_speedboat_b_background.prim].coll",
     "gameFlags": 1
   },
   {
@@ -101316,17 +101316,17 @@
   },
   {
     "hash": "01577ACA22367615",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/levels/rose/rose_ext_forest_occluder_cliffs/rose_ext_forest_occluder_cliff_i_b.wl2?/rose_ext_forest_occluder_cliff_i_b.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "014727FE49A614AE",
-    "path": "",
+    "path": "[assembly:/_pro/environment/geometry/props/harbour_props/miami_boat_vice_a.wl2?/miami_boat_vice_a.prim^miami_boat_vice_a_background.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "01BD7FF081AE6497",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/farm_props/haybales_destructible.wl2?/haybale_damaged_b_destructible.linkedprim].coll",
     "gameFlags": 1
   },
   {
@@ -101351,12 +101351,12 @@
   },
   {
     "hash": "0148FF9BCE2D3E83",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/food/foodpots_big_a.wl2?/potato_pile_c.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "018EEF59D1E87AE0",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/levels/rose/rose_chase_guardrails_right_a.wl2?/rose_guardrail_right_073.prim].coll",
     "gameFlags": 1
   },
   {
@@ -101366,17 +101366,17 @@
   },
   {
     "hash": "01322C34C9961D63",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/levels/rose/rose_chase_guardrails_right_a.wl2?/rose_guardrail_right_070.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "011F9CFDDCBFBCFE",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/signs/slovakian_road_signs_a.wl2?/slovakian_road_sign_a_around_dynamic.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "01AF7BC7122469A6",
-    "path": "",
+    "path": "[assembly:/_pro/environment/geometry/props/pipes/iron_drain_pipe_a.wl2?/iron_drain_pipe_bottom_a.prim].coll",
     "gameFlags": 1
   },
   {
@@ -101386,12 +101386,12 @@
   },
   {
     "hash": "019CCAED851B5BAB",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/farm_props/haybales_destructible.wl2?/haybale_small_a_rigidbody.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "01B1BAFAB49BD282",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/kitchen/kitchen_stove_blocks_a.wl2?/kitchen_stove_block_a_painted_00.prim].coll",
     "gameFlags": 1
   },
   {
@@ -101401,7 +101401,7 @@
   },
   {
     "hash": "01E74687A9FB008F",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/trash/tied_cardboard_stack_b.wl2?/tied_cardboard_stack_c.prim].coll",
     "gameFlags": 1
   },
   {
@@ -101416,7 +101416,7 @@
   },
   {
     "hash": "018A0D47FA8610E3",
-    "path": "",
+    "path": "[assembly:/_knt/characters/attachables/eyewear/glasses_tactical/geometry_static/glasses_tactical.wl2?/glasses_tactical.prim^glasses_tactical_dynamic.prim].coll",
     "gameFlags": 1
   },
   {
@@ -101431,27 +101431,27 @@
   },
   {
     "hash": "01568D51D1420BF9",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/foliage/hedge_a.wl2?/large_bush_b.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "01214E42794E06D8",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/levels/rose/rose_chase_guardrails_right_a.wl2?/rose_guardrail_right_075.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "011CC3477F92285F",
-    "path": "",
+    "path": "[assembly:/_pro/environment/geometry/props/utensils/india_utensils_a.wl2?/india_tray_b_00.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "0178EC75A5DFA3D9",
-    "path": "",
+    "path": "[assembly:/_pro/environment/geometry/levels/fox/club_building_kit_fox_b.wl2?/clubbuilding_concrete_wall_block_a.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "01786383D5E4B024",
-    "path": "",
+    "path": "[assembly:/_pro/environment/geometry/props/farm_props/haybales_a.wl2?/haybale_decal_c.prim].coll",
     "gameFlags": 1
   },
   {
@@ -101471,22 +101471,22 @@
   },
   {
     "hash": "01067EF576D111EB",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/levels/rose/rose_ext_forest_occluder_cliffs/rose_ext_forest_occluder_cliff_i_b.wl2?/rose_ext_forest_occluder_cliff_p_2.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "01B278D473BB4C8C",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/signs/slovakian_road_signs_a.wl2?/slovakian_road_sign_b_arrow.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "0164A0964D7047D2",
-    "path": "",
+    "path": "[assembly:/_pro/environment/geometry/props/accessories/demonstration_assets_a.wl2?/flare_a.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "012C5D453789FEDD",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/food/foodpots_big_a.wl2?/potato_pile_a.prim].coll",
     "gameFlags": 1
   },
   {
@@ -101496,12 +101496,12 @@
   },
   {
     "hash": "0190198AE8C29C05",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/geometry/props/decorative/quixel_interior_furniture_vizmci3va_a.wl2?/quixel_pillow_aset_interior_furniture_vizmci3va_b_destructible_b.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "014B0C1EC48A58C0",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/farm_props/haybales_destructible.wl2?/haybale_b_destructible.linkedprim].coll",
     "gameFlags": 1
   },
   {
@@ -101521,7 +101521,7 @@
   },
   {
     "hash": "0155612B6554EFB1",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/levels/rose/rose_chase_guardrails_right_a.wl2?/rose_guardrail_right_074.prim].coll",
     "gameFlags": 1
   },
   {
@@ -101531,52 +101531,52 @@
   },
   {
     "hash": "0188A7769A9E2603",
-    "path": "",
+    "path": "[assembly:/_pro/environment/geometry/props/street_props/rat_lab_tarps_a.wl2?/rat_lab_tarp_post_a.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "015134C73502D8D8",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/melee/baseball_a.wl2?/baseball_a.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "01FF8FC0CE0E3DE0",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/levels/rose/rose_chase_guardrails_right_a.wl2?/rose_guardrail_right_068.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "0194FD0BAB25E6F5",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/containers/crates_wooden_a.wl2?/crate_wooden_1x05x2_00_destructible.linkedprim].coll",
     "gameFlags": 1
   },
   {
     "hash": "011AD6DDAF3E34DD",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/parts_muscular/kits/dahlia/kit_dahlia_pirate_leader/geometry_deformation/kit_dahlia_pirate_leader_rigidbody.wl2?/glasses_kit_dahlia_pirate_leader_rigid.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "0162C2234CEF9A5A",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/levels/rose/rose_chase_guardrails_right_a.wl2?/rose_guardrail_right_072.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "01BACB734DB70FC0",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/levels/ruby/operations_scif_a.wl2?/operations_scif_a_glass_b_left.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "0161ACAAC7B2DDA3",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/levels/rose/rose_chase_guardrails_left_a.wl2?/rose_guardrail_left_073.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "01566F29AFF98BE1",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/levels/rose/rose_ext_forest_occluder_cliffs/rose_ext_forest_occluder_cliff_i_b.wl2?/rose_ext_forest_occluder_cliff_i.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "01B552EB97B8CBB8",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/containers/gymbag_a.wl2?/gymbag_a_dynamic.prim].coll",
     "gameFlags": 1
   },
   {
@@ -101586,52 +101586,52 @@
   },
   {
     "hash": "0197E82DEF9E53A0",
-    "path": "",
+    "path": "[assembly:/_pro/environment/geometry/props/farm_props/haybales_a.wl2?/haybale_decal_b.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "013A699C697C3895",
-    "path": "",
+    "path": "[assembly:/_pro/environment/geometry/props/farm_props/concrete_road_block_a.wl2?/concrete_road_block_d.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "017CD4229902C274",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/levels/rose/rose_ext_forest_occluder_cliffs/rose_ext_forest_occluder_cliff_i_b.wl2?/rose_ext_forest_occluder_cliff_g.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "0119CA1D0B674BD4",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/levels/rose/rose_chase_guardrails_left_a.wl2?/rose_guardrail_left_067.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "01005F1372C30805",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/kitchen/utensils/glass_champagne_b.wl2?/glass_champagne_b_empty_cheap.linkedprim].coll",
     "gameFlags": 1
   },
   {
     "hash": "01DB67360B8440CF",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/levels/ruby/operations_scif_a.wl2?/operations_scif_a_glass_b_right.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "01F834D799B7B2B9",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/food/foodpots_big_a.wl2?/potato_pile_b.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "01CBE09A4FEE229A",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/levels/rose/rose_chase_guardrails_left_a.wl2?/rose_guardrail_left_039.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "01183577AE1571C3",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/street_props/street_trafficcone_a.wl2?/street_trafficcone_light_a_dynamic.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "016FAD193E9A937C",
-    "path": "",
+    "path": "[assembly:/_pro/environment/geometry/props/industrial/metal_armco_a.wl2?/metal_armco_c.prim].coll",
     "gameFlags": 1
   },
   {
@@ -101641,37 +101641,37 @@
   },
   {
     "hash": "018A6F972FFF6447",
-    "path": "",
+    "path": "[assembly:/_pro/_licensed/quixel/geometry/levels/cockatoo/quixel_aset_nature_rock_venrdcgga_a.wl2?/aset_nature_rock_xl_venrdcgga_d.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "019DE8F2E801AF28",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/kitchen/utensils/glass_champagne_b.wl2?/glass_champagne_b_cheap.linkedprim].coll",
     "gameFlags": 1
   },
   {
     "hash": "0144B8BB34B9FC7E",
-    "path": "",
+    "path": "[assembly:/_pro/environment/geometry/props/ruins/ruins_wall_detail_stones_a.wl2?/ruins_brokenwall_rubble_horizontal_a.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "01DCF6746F3FDBD1",
-    "path": "",
+    "path": "[assembly:/_pro/environment/geometry/props/rocks/rock_small_boulder_d.wl2?/rock_small_boulder_d.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "01C591B431C6E03E",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/levels/rose/rose_tigerbeetle_asphalt_road_a.wl2?/rose_chase_road_31_broken.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "013A05333C814FFE",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/furniture/sofa_velour_modern_a.wl2?/pillow_velour_cushion_a.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "01AC68C86E48F2D9",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/levels/rose/rose_chase_guardrails_left_a.wl2?/rose_guardrail_left_071.prim].coll",
     "gameFlags": 1
   },
   {
@@ -101686,12 +101686,12 @@
   },
   {
     "hash": "01EBFB3C2D55202E",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/levels/rose/rose_ext_forest_occluder_cliffs/rose_ext_forest_occluder_cliff_i_b.wl2?/rose_ext_forest_occluder_cliff_n.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "013DCABC2182197D",
-    "path": "",
+    "path": "[assembly:/_pro/vehicles/geometry/container_ship_a/container_ship_a.wl2?/container_ship_hatch_cover_b.prim].coll",
     "gameFlags": 1
   },
   {
@@ -101701,17 +101701,17 @@
   },
   {
     "hash": "017649CFAC4F9955",
-    "path": "",
+    "path": "[assembly:/_pro/vehicles/geometry/trailer_old_a/trailer_old_a.wl2?/trailer_old_a.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "0130F8ACE6981395",
-    "path": "",
+    "path": "[assembly:/_pro/environment/geometry/props/street_props/street_traffic_blockade_a.wl2?/street_traffic_blockade_a.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "013EC2AFC29CBE23",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/levels/rose/rose_chase_guardrails_left_a.wl2?/rose_guardrail_left_047.prim].coll",
     "gameFlags": 1
   },
   {
@@ -101721,7 +101721,7 @@
   },
   {
     "hash": "014089D94B6F2B7B",
-    "path": "",
+    "path": "[assembly:/_pro/environment/geometry/props/decorative/cushions_marrakesh_b.wl2?/cushion_marrakesh_g_00.prim].coll",
     "gameFlags": 1
   },
   {
@@ -101731,42 +101731,42 @@
   },
   {
     "hash": "013B1644FFA07B8B",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/levels/rose/rose_chase_guardrails_left_a.wl2?/rose_guardrail_left_070.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "012D9E0E472BDE73",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/signs/slovakian_road_signs_a.wl2?/slovakian_road_sign_a_rockfall_dynamic.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "0167AA84F226BC7B",
-    "path": "",
+    "path": "[assembly:/_knt/vehicles/geometry/wheels_a.wl2?/english_suv_a_wheel_knt.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "0140783D4FC74A06",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/trash/tied_cardboard_stack_b.wl2?/tied_cardboard_stack_b.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "01148929644DD7F9",
-    "path": "",
+    "path": "[assembly:/_pro/_licensed/quixel/geometry/props/industrial/quixel_concrete_wall_broken_fox_a.wl2?/quixel_concrete_wall_broken_fox_a.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "0193CF1E19078F6B",
-    "path": "",
+    "path": "[assembly:/_pro/vehicles/geometry/trailer_old_a/trailer_old_a.wl2?/trailer_old_a_tow_bracket.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "01BE40CD4EF5BAB4",
-    "path": "",
+    "path": "[assembly:/_pro/environment/geometry/levels/coastal_town_italy/ruins_a.wl2?/ruins_drainhole_a.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "01536388CCAC898D",
-    "path": "",
+    "path": "[assembly:/_knt/_licensed/quixel/geometry/props/nature/quixel_logs_wcokfdy_wcjebgs_wcjgeel.wl2?/log_pile_d.prim].coll",
     "gameFlags": 1
   },
   {
@@ -101776,7 +101776,7 @@
   },
   {
     "hash": "012E09F2F2D9A08A",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/keys/palace_key_a.wl2?/palace_key_a.prim].coll",
     "gameFlags": 1
   },
   {
@@ -101786,12 +101786,12 @@
   },
   {
     "hash": "01F427D5BE0FDC76",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/farm_props/haybales_destructible.wl2?/haybale_damaged_a_destructible.linkedprim].coll",
     "gameFlags": 1
   },
   {
     "hash": "01ED6A1F9D8B9F4F",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/kits/antarctica/orchid_falling_debris_a.wl2?/orchid_falling_debris_a.prim].coll",
     "gameFlags": 1
   },
   {
@@ -101801,12 +101801,12 @@
   },
   {
     "hash": "01D9717FAA1AF5CD",
-    "path": "",
+    "path": "[assembly:/_pro/environment/geometry/props/rocks/rock_small_boulder_c.wl2?/rock_small_boulder_c.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "01234D6B976C89B6",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/levels/rose/rose_ext_forest_occluder_cliffs/rose_ext_forest_occluder_cliff_i_b.wl2?/rose_ext_forest_occluder_cliff_o.prim].coll",
     "gameFlags": 1
   },
   {
@@ -101816,12 +101816,12 @@
   },
   {
     "hash": "0197A18D1B664FF6",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/farm_props/haybales_destructible.wl2?/haybale_small_b_rigidbody.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "01DF5234497BA4E6",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/food/foodpots_big_a.wl2?/foodpot_big_a_00.prim].coll",
     "gameFlags": 1
   },
   {
@@ -101831,57 +101831,57 @@
   },
   {
     "hash": "01D5FF628E47F954",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/garden/haybale_round_a_destructible.wl2?/haybale_round_wrapped_a_dynamic.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "01B62292E60463CE",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/furniture/indoor_chair_resort_a.wl2?/indoor_table_resort_2x4_b_b.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "01D8F0D51FAB5EAA",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/levels/rose/rose_chase_guardrails_left_a.wl2?/rose_guardrail_left_075.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "01C199B4CDFDD285",
-    "path": "",
+    "path": "[assembly:/_pro/environment/geometry/props/industrial/metal_armco_a.wl2?/metal_armco_a.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "01FB36E4C8741015",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/levels/rose/rose_chase_guardrails_right_a.wl2?/rose_guardrail_right_067.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "010F28FCAD209C0E",
-    "path": "",
+    "path": "[assembly:/_pro/environment/geometry/levels/bulldog/bulldog_carpet_stairs_a.wl2?/bulldog_circular_carpet_a.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "01AABA17F5B5B3A5",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/farm_props/haybales_destructible.wl2?/haybale_a_destructible.linkedprim].coll",
     "gameFlags": 1
   },
   {
     "hash": "011342A485CAF294",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/parts_average/kits/dahlia/kit_dahlia_pirate_specialist_v1/geometry_static/kit_dahlia_pirate_specialist_goggles_static.wl2?/goggles_kit_dahlia_pirate_specialist_v1_rigidbody.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "01FEDACF38BD92C1",
-    "path": "",
+    "path": "[assembly:/_knt/characters/attachables/eyewear/goggles_ski/geometry_static/goggles_ski.wl2?/goggles_ski.prim^goggles_ski_dynamic.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "01C98AD8A5FC1018",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/levels/rose/rose_chase_guardrails_left_a.wl2?/rose_guardrail_left_072.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "01ECA2BB077FE9AF",
-    "path": "",
+    "path": "[assembly:/_pro/environment/geometry/levels/fox/club_building_kit_fox_b.wl2?/clubbuilding_concrete_wall_block_b.prim].coll",
     "gameFlags": 1
   },
   {
@@ -101891,22 +101891,22 @@
   },
   {
     "hash": "014A4396ACB049BB",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/trash/garbage_modern_bin_b.wl2?/garbage_modern_bin_c.prim^garbage_modern_bin_c_dynamic.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "019A3B9833C377E6",
-    "path": "",
+    "path": "[assembly:/_pro/environment/geometry/props/constructionsite_props/constructionsite_fence_a.wl2?/constructionsite_fence_base_a.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "019D2E460D5D0278",
-    "path": "",
+    "path": "[assembly:/_pro/_licensed/quixel/geometry/props/industrial/quixel_concrete_wall_broken_fox_a.wl2?/quixel_concrete_wall_broken_cover_fox_a.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "018585B7BA7C5002",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/food/foodpots_big_a.wl2?/foodpot_potato_a_00.prim].coll",
     "gameFlags": 1
   },
   {
@@ -101916,12 +101916,12 @@
   },
   {
     "hash": "01286E59A67CE08C",
-    "path": "",
+    "path": "[assembly:/_pro/_licensed/quixel/geometry/props/ruins/quixel_ruin_props_a.wl2?/quixel_castle_structure_sczvi_a.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "01C99C270264D8B2",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/levels/rose/rose_ext_forest_occluder_cliffs/rose_ext_forest_occluder_cliff_i_b.wl2?/rose_ext_forest_occluder_cliff_p.prim].coll",
     "gameFlags": 1
   },
   {
@@ -101931,42 +101931,42 @@
   },
   {
     "hash": "01A5B7AA0AC8BBA1",
-    "path": "",
+    "path": "[assembly:/_pro/environment/geometry/props/covers/concrete_barrier_b.wl2?/concrete_barrier_b_broken_00.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "0190E97D92DA66A7",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/signs/slovakian_road_signs_a.wl2?/slovakian_road_sign_a_forrest_dynamic.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "01437A9C57BE9317",
-    "path": "",
+    "path": "[assembly:/_pro/environment/geometry/props/equipment/movieset_cameracrane_controlpanel_a.wl2?/movieset_cameracrane_controlpanel_a.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "01E5100D486D7F01",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/furniture/pillow_used_a.wl2?/pillow_used_dog_bed_a.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "015FC037323BECB0",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/levels/rose/rose_chase_guardrails_right_a.wl2?/rose_guardrail_right_071.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "0135BE5DE82BF88A",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/levels/rose/rose_ext_forest_occluder_cliffs/rose_ext_forest_occluder_cliff_i_b.wl2?/rose_ext_forest_occluder_cliff_f.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "0156A2E14CCADD07",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/levels/rose/rose_chase_guardrails_right_a.wl2?/rose_guardrail_right_069.prim].coll",
     "gameFlags": 1
   },
   {
     "hash": "019BD1AE774F949D",
-    "path": "",
+    "path": "[assembly:/_knt/environment/geometry/props/paper/notebook_lab_open_a.wl2?/notebook_lab_open_a_dynamic_cloth.prim].coll",
     "gameFlags": 1
   },
   {

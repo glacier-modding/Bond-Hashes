@@ -350415,3122 +350415,3789 @@
   },
   {
     "hash": "0146CBDC9E827686",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/kits/chateau/chateau_interior_kit_a.template?/a_int_wall_4x6_arch_alcove_c2.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "019927577C0697B5",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "dl_lightcosmeticrigidbody",
+    "subType": "template"
   },
   {
     "hash": "01AB535BF0908989",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "dl_heavycosmeticrigidbody",
+    "subType": "template"
   },
   {
     "hash": "011D79B183C0F83A",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/levels/orchid/webb_citadel_experiments_a.template?/server_case_panel_c_destructible_halfsize.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0140E8CA1000B5CB",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/props/decorative/carpet_tatami_mat_japan_a.wl2?/carpet_tatami_mat_japan_160x470_b.prim](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01598275D794CA6D",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/runtimeresources/decals/_knt/scenes/missions/orchid/segment_orchid_05_rdupper/staticdecalcontroller_e52bb47f23ac4bffa75f8ad93365f8f8.wl2?/staticdecalcontroller.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0110CD8DAB876C2B",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/props/electronics/computers_a.template?/computer_monitor_a_00_dynamic_ptaspect.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0103291FDD53FFE4",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/props/containers/crates_wooden_a.template?/crate_wooden_1x1x1_00_dynamic_ptaspect.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "016FB0D1DE058348",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "dl_heavycosmeticrigidbody",
+    "subType": "template"
   },
   {
     "hash": "0188693176D3CA27",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_pro/environment/geometry/backdrop/sky/sky_generic_128.wl2?/sky_generic_128_30f5.prim](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01BF5A790121AC6B",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/levels/orchid/webb_citadel_experiments_a.template?/server_case_panel_a_destructible_fullsize.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01CDD7ECC0A4EE4F",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "dl_heavycosmeticdestructible",
+    "subType": "template"
   },
   {
     "hash": "01508B159E44BC34",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/levels/orchid/webb_citadel_experiments_a.template?/server_case_panel_d_destructible_halfsize.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01533A7389476D51",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "dl_heavycosmeticrigidbody",
+    "subType": "template"
   },
   {
     "hash": "01361C17AE82B44B",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/kits/interior/toilet_stall_metal_a.wl2?/door_toilet_stall_metal_a_hardalpha_decals.prim](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01D632A32F4BF3DC",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_pro/environment/templates/props/office_props/office_props_a.template?/office_binder_d_00_01.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "019E5DDB0742A4C0",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "dl_heavycosmeticdestructible",
+    "subType": "template"
   },
   {
     "hash": "01701F36F3B131D9",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/kits/antarctica/gatehouse_kit_a.template?/a_ext_wall_station_end_b_mirror.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0103F0C1A0E1B62D",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/levels/orchid/orchid_citadel_lightbar_decals_a.wl2?/orchid_citadel_lightbar_ops_a.prim](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01409A020403A2CD",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "dl_heavycosmeticdestructible",
+    "subType": "template"
   },
   {
     "hash": "018260DB445031CF",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/runtimeresources/decals/_knt/scenes/missions/orchid/segment_orchid_05_rdupper/staticdecalcontroller 2_404a21e8644b417290de0f6376e09353.wl2?/staticdecalcontroller 2.prim](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01CC1D0493CE6D60",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/levels/rose/rose_freefall_plane_exterior_a.wl2?/rose_freefall_plane_outside.prim](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0178DBA8A014C35B",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_pro/environment/templates/props/office_props/office_props_a.template?/office_binder_f_00_01.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01EF4780A45E674F",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/_test/simons/geometry/sgeo.wl2?/splane.prim](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01B162B36D356953",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/props/doors/doors_nightclub_a.wl2?/door_grunge_metal_a_hardalpha_decals.prim](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01B8947F857ED431",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/levels/orchid/webb_citadel_experiments_a.template?/server_case_panel_b_destructible_fullsize.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "015D4CF8A46DC682",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "dl_heavycosmeticdestructible",
+    "subType": "template"
   },
   {
     "hash": "01D313ED1C5C06C4",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "dl_heavycosmeticrigidbody",
+    "subType": "template"
   },
   {
     "hash": "0126B1CF5587A6E4",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/props/electronics/screens_a.template?/tv_security_screen_b_00_dynamic_ptaspect.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "013A42C83A25073B",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "dl_heavycosmeticrigidbody",
+    "subType": "template"
   },
   {
     "hash": "01919ACC7AD0D2F3",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "dl_heavycosmeticdestructible",
+    "subType": "template"
   },
   {
     "hash": "01B2ABB48E7C9F08",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "dl_heavycosmeticrigidbody",
+    "subType": "template"
   },
   {
     "hash": "0160A8418CF5C61A",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/props/furniture/tables_benches_furniture_a.template?/table_round_b.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01509B72D4F05575",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "dl_lightcosmeticrigidbody",
+    "subType": "template"
   },
   {
     "hash": "0106A540B11E77A1",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/kits/interior/toilet_stall_metal_a.wl2?/door_toilet_stall_metal_c_hardalpha_decals.prim](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01F6DE295C6727C4",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/levels/orchid/webb_citadel_experiments_a.template?/server_case_panel_b_destructible_halfsize.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01D30D5D8EE8DFC0",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/levels/orchid/orchid_gatehouse_kit_a.wl2?/a_ext_wall_station_end_b.prim^a_ext_wall_station_end_b_mirror.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01E79680ECFD2F6E",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_pro/environment/templates/props/office_props/office_props_a.template?/office_binder_e_00_01.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01830B8C00F9C3CF",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/levels/bluebell/webb_hq_perch_server_centre_equipment.template?/server_cloth_cover_1x150x1_a_dynamic_cloth_ptaspect.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0114909395DF4CFE",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/kits/bluebell/webb_hq_perch_int_kit_a.wl2?/a_perch_int_wall_10x04_a.prim](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0191B2EEEDBDE900",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/kits/interior/nightclub_toilets_a.wl2?/a_int_arch_4x4_toilet_a_hardalpha.prim](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01F2701EE736FB61",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/props/ladders/ladders_a.template?/ladder_folding_b_clean_00_kinematic.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0191D0B104A7C359",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/levels/orchid/orchid_gatehouse_kit_a.wl2?/a_ext_wall_station_end_b.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "017106BAD7977121",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/kits/interior/toilet_stall_metal_a.wl2?/toilet_stall_small_side_a_destructible_wall_hardalpha_decals.prim](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01FFD72CED36332D",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/props/furniture/table_library_penthouse_a.wl2?/table_library_penthouse_a_00.prim](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01B63481A00F4791",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/kits/interior/nightclub_toilets_a.wl2?/a_int_wall_4x4_toilet_a_hardalpha.prim](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01D64B2FF60956EB",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "dl_heavycosmeticrigidbody",
+    "subType": "template"
   },
   {
     "hash": "01B9EB061FC2D72D",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "dl_heavycosmeticdestructible",
+    "subType": "template"
   },
   {
     "hash": "01664B3B30BD1800",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/props/lamps/movieset_flood_lamps_a.wl2?/searchlight_a.prim](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "019B84C5E784AFF7",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/props/office/office_props_a.template?/office_scrapbook_container_small_rigidbody_00_01.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0165457FCA4C1BA4",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/kits/antarctica/gatehouse_kit_a.template?/a_ext_wall_station_end_b.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01BDF9EFFB76F6FE",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/props/furniture/tables_benches_furniture_a.template?/desk_modern_office_black_b_dynamic_ptaspect.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0184FAAB81126D70",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "dl_heavycosmeticdestructible",
+    "subType": "template"
   },
   {
     "hash": "01206E11A9DE2F09",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "dl_heavycosmeticdestructible",
+    "subType": "template"
   },
   {
     "hash": "01460B5F509E91F8",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/levels/orchid/webb_citadel_experiments_a.template?/server_case_door_a_destructible_halfsized.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0181C9B4CCA3BCED",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/levels/orchid/webb_citadel_experiments_a.template?/server_case_panel_c_destructible_fullsize.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01676961DF39FBA9",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/levels/orchid/webb_citadel_experiments_a.template?/server_case_panel_a_destructible_halfsize.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01E835B125A64677",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "dl_lightcosmeticdestructible",
+    "subType": "template"
   },
   {
     "hash": "01C940E6EAC1EFB2",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "dl_heavycosmeticrigidbody",
+    "subType": "template"
   },
   {
     "hash": "017796435809DB16",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "dl_heavycosmeticdestructible",
+    "subType": "template"
   },
   {
     "hash": "0130AA39C4270577",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "dl_lightcosmeticdestructible",
+    "subType": "template"
   },
   {
     "hash": "01D0CEBACD6E12D8",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/kits/interior/toilet_stall_metal_a.wl2?/door_toilet_stall_metal_b_hardalpha_decals.prim](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01CBB0744E12C4B5",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/kits/chateau/chateau_interior_kit_a.wl2?/a_int_wall_4x6_arch_alcove_b.prim](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01B5D90B98C8EE29",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "dl_heavycosmeticdestructible",
+    "subType": "template"
   },
   {
     "hash": "01F5CC33DF4FA0C3",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/levels/orchid/webb_citadel_experiments_a.template?/server_case_panel_d_destructible_fullsize.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "012A8CE54C34391A",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/levels/orchid/webb_citadel_experiments_a.template?/server_case_panel_f_destructible_fullsize.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "015024036F26D22F",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "dl_lightcosmeticdestructible",
+    "subType": "template"
   },
   {
     "hash": "0136BE777D2657A0",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "dl_heavycosmeticdestructible",
+    "subType": "template"
   },
   {
     "hash": "01BE980D6F316024",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "dl_heavycosmeticdestructible",
+    "subType": "template"
   },
   {
     "hash": "01960C4C1FB53441",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/levels/orchid/webb_citadel_experiments_a.template?/server_case_door_a_destructible_full.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01CDF07CE99CA892",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/levels/orchid/webb_citadel_experiments_a.template?/server_case_panel_f_destructible_halfsize.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01123AEFEF99E56F",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/actors/male_reg/parts_average/apparel/neckwear.template?/neck_badge_mi6.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0185C64F03E26910",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/photomode/photomode_templates.template?/setphotomodeanimationslocked.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01154E449EF90AA3",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_pro/environment/geometry/props/rocks/rock_small_boulder_c.wl2?/rock_small_boulder_c.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "014F707D2AC94458",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "dl_heavycosmeticrigidbody",
+    "subType": "template"
   },
   {
     "hash": "015CAF744F0E0152",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/levels/orchid/webb_citadel_experiments_a.template?/server_core_a_merged_b_shadowlod.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0166C9D45B191D53",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/lighting/templates/sky/sky_knt.template?/sky_knt_opaque_tigerbeetle_night.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "012EDE5E846C92BA",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_pro/effects/templates/impacts/fx_impacts_materialbased.template?/fx_e_impact_smoke_metal.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "019ACA813F46581C",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/actors/male_reg/individuals/_maincast/bond/kits/kit_reward_hero_bond_grey.template?/shirt_kit_reward_hero_bond_grey.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01341E4C6696FE38",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/actors/male_reg/individuals/_maincast/bond/kits/kit_jungle_outfit/geometry_deformation/kit_jungle_outfit/kit_jungle_outfit.gar?/belt.weighted.fbx](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "019BCD5A94D30DAA",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/utility/collision_presets.template?/collisionpreset_vehicle_suv_tacsim.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01DE52F077943C50",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/items/templates/firearms/firearms.template?/firearm_instance_smg_fastfire_a.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "011D97DF253E3A49",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/photomode/photomode_templates.template?/photomode_bodypartposinghandler.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "017262750114CE5C",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/ui/templates/controls/hudcontrols_knt.template?/valhallasplittimeslistwidget.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "011498A0E1CEF04D",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/vehicles/geometry/pro_remastered_vehicles/english_suv_a/english_suv_a.wl2?/english_suv_exterior.prim](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01C45916D9ACFC5E",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/props/street_props/street_trafficcone_a.wl2?/street_trafficcone_light_a_dynamic.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01C744E7123288E4",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/actors/fem_reg/parts_average/bodies/body_average/geometry_deformation/torso_average/torso_average.gar?/torso_hips.weighted.fbx](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01FD513FCE030B65",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/architecture/exterior/walls/walls_a.template?/ruins_drainhole_a_00.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01CCDABEA563018E",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/scenes/gyms/vehicle_templates_gym.template?/rose_chase_suv_template_tacsim.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "017DD71844836B36",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/decals/ground/corner_leaves_a.wl2?/decal_corner_leaves_b.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01B26E114BF5DE68",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/setpieces/setpieces_tsim.template?/hay_bale_2x1_destructible.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01E5BD94DFD2AA99",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/levels/rose/rose_ext_forest_occluder_cliffs/rose_ext_forest_occluder_cliff_i_b.wl2?/rose_ext_forest_occluder_cliff_g.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "011D6FACFD51C913",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_pro/environment/geometry/props/constructionsite_props/constructionsite_fence_a.wl2?/constructionsite_fence_base_a.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0173392A4CEF383C",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/ui/templates/controls/hudcontrols_knt.template?/valhallatacsimweaponwidget.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0122629D1243AC6F",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_pro/effects/templates/animals/fx_crows.template?/fx_pm_crow_flying_cheap.entitytemplate].entitytemplate",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "017CFA9955E76E3B",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/scenes/tsim/activities/rose_tigerbeetle_streaming_override_03_timetrial.brick].entitytype",
+    "gameFlags": 1,
+    "subType": "brick"
   },
   {
     "hash": "01DFD3EF5DC35865",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/setpieces/setpieces_rose.template?/rose_food_stalls_full_b_cheap.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01CCA104560BB6A5",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "dl_lightcosmeticrigidbody",
+    "subType": "template"
   },
   {
     "hash": "0118B3CD35A310A5",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/attachables/glasses.template?/armor_cosmetic_glasses_tactical.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01E08A7B7E51C5F7",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/architecture/exterior/walls/walls_a.template?/quixel_concrete_wall_broken_fox_a.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01CD900EB2D0AB1E",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/_licensed/quixel/geometry/foliage/quixel_fan_palm_a.wl2?/quixel_fan_palm_a_dynamic.prim](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01318486775D00C5",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/actors/male_reg/individuals/_maincast/bond/kits/kit_jungleoutfit.template?/belt.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01C4460AB7C599E6",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_pro/environment/geometry/props/ruins/ruins_wall_detail_stones_a.wl2?/ruins_brokenwall_rubble_horizontal_a.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01A5EBB24435D006",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/props/garden/garden_props_a.template?/log_pile_d_chase.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01EE48502C4B033F",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/scenes/tsim/activities/rose_tigerbeetle_streaming_override_02_reversed.brick].entitytype",
+    "gameFlags": 1,
+    "subType": "brick"
   },
   {
     "hash": "0193A981DBD8BC2B",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/ui/templates/controls/hudcontrols_knt.template?/valhallatacsimmissilereticlewidget.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "012090FC9F1472A5",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/cinematics/templates/cinematic_templates.template?/npc spawn check.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "013309D5829F0B93",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/outfits/dahlia/outfits_dahlia_enemies.template?/outfit_dahlia_grunt_damienmercs_tactical_male_reg_v15.entitytemplate].entitytemplate",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01B96FA486FAA729",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_pro/environment/geometry/props/equipment/movieset_cameracrane_controlpanel_a.wl2?/movieset_cameracrane_controlpanel_a.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01FFCC080CA6CCC4",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/utility/collision_presets.template?/collisionpreset_vehicle_rigidbody_camera.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01F6CBBB4F5226D7",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/ai/archetypes/rangedcombataccuracyconfigurations.template?/007_leader.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0154CDB2E27FCDD0",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/levels/rose/ounce_rose_window_occluder_blocker_a.wl2?/ounce_rose_window_occluder_blocker_a.prim](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01CB11E31622F29A",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/props/kitchen/kitchen_containers_a.template?/container_vegetables_b_potatoes_lowres_a.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01DC102E963D9F86",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/props/signs/slovakian_road_signs_a.wl2?/slovakian_road_sign_b_arrow.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01CB07D20C023E2B",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/setpieces/setpieces_tsim.template?/setpiece_tacsim_tigerbeetle_tyrestack_c.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01685842EE78AC0F",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/props/trash/tied_cardboard_stack_b.wl2?/tied_cardboard_stack_c.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01DABCE588CF5656",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/_base/base_attachers.template?/disguise_hair_hide_helper.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0161FD8CB79E39FA",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/setpieces/setpieces_tsim.template?/setpiece_tacsim_tigerbeetle_stoneplantpot.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01E7F318232B0520",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/attachables/glasses.template?/glasseshelper_laserresistant.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01535AA478BD588B",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/scenes/tsim/activities/tigerbeetle_lighting_bricks/lighting_rose_tigerbeetle_day_streaming_override_01.brick].entitytype",
+    "gameFlags": 1,
+    "subType": "brick"
   },
   {
     "hash": "01BB56C33FFC8878",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "dl_heavycosmeticrigidbody",
+    "subType": "template"
   },
   {
     "hash": "014048910BE2E5F7",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/outfits/dahlia/outfits_dahlia_enemies.template?/outfit_dahlia_grunt_damienmercs_tactical_male_reg_v6.entitytemplate].entitytemplate",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01286216FC817052",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/items/act_props.template?/actprop_definition_v02.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "012790D6F292CDB2",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/props/farm_props/haybales_destructible.wl2?/haybale_small_b_rigidbody.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01EE13AF6DAA6227",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/props/signs/slovakian_road_signs_a.wl2?/slovakian_road_sign_a_around_dynamic.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "015412EE21E626A7",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/props/street/misc_street_props_a.template?/concrete_road_block_d.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01A2460F34842724",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/props/farm_props/haybales_destructible.wl2?/haybale_damaged_a_destructible.linkedprim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "017A4C4D98B42F4C",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/utility/collision_presets.template?/collisionpreset_shotonly_blockcamera.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01892F8526AB18D7",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/props/industrial/pipes_a.template?/iron_drain_pipe_bottom_a.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01E3A0459E18ECA8",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/animals/dogs/bulldog/bulldog_jack.template?/jack_the_bulldog.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01B79FBDC18ECF48",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_pro/items/geometry/keys/palace_key_a.wl2?/palace_key_a.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "011D9E04F499671B",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/props/furniture/modular_sofa_resort_a.wl2?/modular_sofa_resort_end_b.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0108B7D6300B1363",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_pro/environment/geometry/levels/the_ark/buildings/castle_wooden_ruins_a.wl2?/magpie_wall_debris_1x3_a.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01A776564C90D4EC",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/levels/rose/rose_chase_guardrails_right_a.wl2?/rose_guardrail_right_074.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "019A461CD1BD150A",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/outfits/bluebell/outfits_bluebell_enemies.template?/outfitset_bluebell_brute_damienmercs_tactical_male_reg.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01A912864DFE472D",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_glacier/input/templates/inputoverridedefinitions.template?/glc_actioninputtype_ui_hold.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01CC077B95D1D458",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/props/kitchen/kitchen_containers_a.template?/container_vegetables_e_potatoes_lowres_a.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01B90FEE751B7603",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/setpieces/setpieces_tsim.template?/setpiece_tacsim_tigerbeetle_pallet.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01D2C649CC20648F",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/ai/archetypes/rangedcombataccuracyconfigurations.template?/007_grunt.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "010C90AC1F16B7FC",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/outfits/dahlia/outfits_dahlia_enemies.template?/outfit_dahlia_grunt_damienmercs_tactical_male_reg_v7.entitytemplate].entitytemplate",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01C0FF11F638B0CB",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/props/mechanics/garage_props_a.template?/large_paper_towel_roll_a_dynamic_shadowlod.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01523A535A310C07",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/levels/rose/rose_chase_guardrails_right_a.wl2?/rose_guardrail_right_071.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "011D4B2CFBE84443",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/outfits/_maincast/outfits_selinatan.template?/outfit_ruby_civ_selinatan_fem_reg_v0.entitytemplate].entitytemplate",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01BDBFC7D53F813A",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_pro/environment/geometry/props/street_props/street_traffic_blockade_a.wl2?/street_traffic_blockade_a.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "015AB2323BD50ED5",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/props/nature/rocks_a.template?/rock_small_boulder_a.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0148E3764213023D",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/actors/male_reg/individuals/_maincast/bond/kits/kit_reward_hero_bond_grey/geometry_deformation/kit_reward_hero_bond_grey/kit_reward_hero_bond_grey.gar?/tie_kit_reward_hero_bond_grey.weighted.fbx](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01B59215949B9805",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/outfits/_maincast/outfits_selinatan.template?/outfit_ruby_civ_selinatan_fem_reg_v1.entitytemplate].entitytemplate",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01FF0DDA73ED80B4",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/outfits/outfit_definitions.template?/outfitdefinition_nsw2_goldeneye_exclusive.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "012515FF83308C6F",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/levels/ruby/operations_scif_a.wl2?/operations_scif_a_glass_b_left.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01BA69B603AFAA61",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/utility/collision_presets.template?/collisionpreset_vehicle_valhalla_tacsim.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01791FA21BE04CF6",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/kits/antarctica/citadel_webbs_throne_a.wl2?/orchid_throne_room_ceiling_b.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "015486C4EBF7484C",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/actors/male_reg/parts_average/heads/head_young_hispanic_04/geometry_deformation/head_young_hispanic_04/head_young_hispanic_04.gar?/head_young_hispanic_04.weighted.fbx](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01BCD7A319FE2C09",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/props/kitchen/kitchen_utensils_a.template?/india_tray_b.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01AC9731E7746BE3",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/foliage/misc_plants_a.template?/quixel_planter_square_60x60x60_wplants_a_cheap.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01D294D919B97366",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/setpieces/setpieces_tsim.template?/setpiece_tacsim_tigerbeetle_droneextended.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0175B07B5E8C2536",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/characters/character_templates/humanoids_bluebell.template?/humanoid_bluebell_grunt_damienmerc_mr.entitytemplate].entitytemplate",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "013CF37B03D3F6E6",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/outfits/_maincast/outfits_selinatan.template?/outfitset_ruby_civ_selinatan_fem_reg.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "013C61929091FC67",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/npc_spawners/npc_spawners_bluebell.template?/bluebell_grunt_webmerc_mr.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01FD4CFDCCB66D2C",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/outfits/_maincast/outfits_twins.template?/outfit_magnolia_twina_male_reg_v0.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01DDB2DF1BC179C9",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/actors/male_reg/parts_average/heads/heads.template?/head_young_caucasian_04.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01CBF8D45AC586C8",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/foliage/bushes_a.template?/bush_atrium_penthouse_a_00.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01CCAE3EE70436C6",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/npc_spawners/npc_spawners_pepper.template?/pepper_grunt_damiensec_armed_mr.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "010CD20E0D93E21F",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/scenes/tsim/activities/rose_tigerbeetle_streaming_override_02_timetrial.brick].entitytype",
+    "gameFlags": 1,
+    "subType": "brick"
   },
   {
     "hash": "01D970404B8E7018",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/levels/rose/rose_chase_guardrails_right_a.wl2?/rose_guardrail_right_067.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01276D3F4A5615A8",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/actors/male_reg/individuals/_maincast/bond/kits/kit_jungleoutfit.template?/vest.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "019346B173C8ACCE",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/outfits/dahlia/outfits_dahlia_enemies.template?/outfit_dahlia_grunt_damienmercs_tactical_male_reg_v5.entitytemplate].entitytemplate",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01FC3B74049B3596",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/effects/templates/sparks/sparks.template?/fx_e_collisionsparks_tacsim.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01F9CA1EC1A400ED",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/sound/templates/sound_firearmaudiodefinitions.template?/firearmaudiodefinition_pistol_large.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "017DFFF3E1601281",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/props/signs/slovakian_road_signs_a.wl2?/slovakian_road_sign_a_forrest_dynamic.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0101FBB2C6FE0B4F",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_pro/vehicles/geometry/trailer_old_a/trailer_old_a.wl2?/trailer_old_a_tow_bracket.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "017C85A452FD2E23",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/architecture/exterior/fences/fences_a.template?/constructionsite_fence_base_a.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "011DE6BF9CFDE48A",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "inspectpickup_clothpaper",
+    "subType": "template"
   },
   {
     "hash": "013ED442248C58F5",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/decals/ground/corner_leaves_a.wl2?/decal_corner_leaves_c.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0140FDAEFAE15AD0",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/setpieces/setpieces_tsim.template?/setpiece_tacsim_tigerbeetle_heavytrafficcone.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01C788C4F57E64FA",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/actors/acts/mr_acts.template?/act_mr_stand_wait_pace_v01.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "016ECC49CF8CDCCA",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/npc_spawners/npc_spawners_bluebell.template?/bluebell_brute_webmerc_mr.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "012C50E82C8A090C",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/ui/templates/controls/hudcontrols_knt.template?/chaptertitlevisibility.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01534817D46A86A5",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/actors/male_reg/parts_average/heads/head_young_african_07/geometry_deformation/head_young_african_07/head_young_african_07.gar?/head_young_african_07.weighted.fbx](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "014C6E6EF898E4FD",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/lighting/templates/fakevolumelights.template?/volumelight_glow_spot_a.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0190E999926D572E",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/decals/ground/corner_leaves_a.wl2?/decal_leaves_ground_c.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "010D56D7A3389FEA",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/attachables/eyewear/glasses_tactical/geometry_static/glasses_tactical.wl2?/glasses_tactical.prim^glasses_tactical_dynamic.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01AF0909AB0C1E5A",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "dl_heavycosmeticrigidbody",
+    "subType": "template"
   },
   {
     "hash": "017D1A5282A48254",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/setpieces/setpieces_tsim.template?/keyword_tacsim_vehiclemission_ramp.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01DC457E347635F8",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/setpieces/setpieces_tsim.template?/setpiece_tacsim_tigerbeetle_drone.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0165D54D7E728121",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/props/kitchen/utensils/glass_champagne_b.wl2?/glass_champagne_b_empty_cheap.linkedprim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "016156130AC4CBBA",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/levels/rose/rose_ext_forest_occluder_cliffs/rose_ext_forest_occluder_cliff_i_b.wl2?/rose_ext_forest_occluder_cliff_p_2.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01116D7151A2EFCF",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/setpieces/setpieces_tsim.template?/setpiece_tacsim_tigerbeetle_wooden_fence_a.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0155F5E0C852598A",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/photomode/photomode_templates.template?/photomode_animationwrapper_bodypose.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "010410F2759B1092",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/props/signs/signs_street_a.template?/slovakian_road_sign_a_around_dynamic.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01365CEFB8772670",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/effects/templates/explosions/explosions.template?/fx_explosion_drone_m_gpu_tacsim_a.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "019959D13BC18622",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/tsim/tsim_helpers.template?/tsim_setpiecehelper_targetingcontext_valhallacar_mgs.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01151B49D4BDD62D",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/sound/templates/sound_firearmaudiodefinitions.template?/firearmaudiodefinition_sawnoff.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "015C3A9498AB1369",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/npc_spawners/npc_spawners_dahlia.template?/dahlia_grunt_damientac_mr.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "013F6A2DE7D2D66D",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/props/miscellaneous/keys_keycards.template?/palace_key_a.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "019449A83008046A",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/actors/male_reg/individuals/_maincast/bond/kits/kit_ceo_jacket/geometry_deformation/kit_ceo_jacket/kit_ceo_jacket.gar?/ceo_pants_kit.weighted.fbx](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "018636B3C0EDEE9B",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/props/containers/barrels_canisters_a.template?/barrel_metal_dynamic_a.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01F5D6247432C3A1",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/actors/male_reg/parts_average/heads/heads.template?/head_young_hispanic_04.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0157987DD8EF8B84",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/architecture/exterior/walls/walls_a.template?/quixel_concrete_wall_broken_cover_fox_a.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01EDE88F98EE998C",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/lighting/templates/postfiltercontroller.template?/pfp_124_dandelion_sunset_outside.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0126568F84B6854B",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/effects/templates/fire/fire.template?/fx_flames_clothbased_vehicle_tacsim.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01648B108ACF1C95",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/setpieces/setpieces_tsim.template?/setpiece_tacsim_tigerbeetle_woodfence_b.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01D3E5C9C64FA103",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/outfits/_maincast/outfits_bond.template?/outfit_reward_hero_bond_jungle_outfit_male_reg_v0.entitytemplate].entitytemplate",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01722052DDB9E22C",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/scenes/tsim/activities/rose_tigerbeetle_streaming_override_01.brick].entitytype",
+    "gameFlags": 1,
+    "subType": "brick"
   },
   {
     "hash": "018DCB210A8B048B",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/items/templates/firearms/firearms.template?/firearm_instance_shotgun_sawnoff_a.entitytemplate].entitytemplate",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01DAEA245AC90E6C",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/setpieces/setpieces_tsim.template?/setpiece_tacsim_tigerbeetle_stonebench.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01EEC832906FF050",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/setpieces/setpieces_tsim.template?/hay_bale_1x1_destructible.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0181A1FA756C28F0",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_pro/environment/geometry/props/industrial/metal_armco_a.wl2?/metal_armco_a.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01EC3E2AF9A03DEA",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/effects/templates/weapons/weapon_helper_templates.template?/fx_firearm_def_custom_nodamage.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0164399852B56738",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/effects/templates/weapons/impacts.template?/fx_particle_impact_light_valhalla_tacsim.entitytemplate].entitytemplate",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "016FE4F0D28AF521",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/tsim/tsim_helpers.template?/tsim_aicarsuv.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "014E584D548FFA8A",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/_licensed/quixel/geometry/props/decorative/quixel_interior_furniture_vizmci3va_a.wl2?/quixel_pillow_aset_interior_furniture_vizmci3va_b_destructible_b.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "016917FDAE829A7B",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/lighting/templates/lamps.template?/lamp_outside_traffic_cone_a.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0190D8C54C540E31",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/levels/ruby/security_propping_a.template?/setup_destructiblecover_2x2_b.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "011EBEBCA9A20C01",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/setpieces/setpieces_tsim.template?/setpiece_tacsim_tigerbeetle_wirefence.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "018A2F7C7A747274",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_pro/vehicles/geometry/container_ship_a/container_ship_a.wl2?/container_ship_hatch_cover_b.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0135035BCE150CFC",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/lighting/templates/postfiltercontroller.template?/pfp_125_dandelion_sunset_inside.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01D3007CACAAACF3",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/characters/character_templates/humanoids_dahlia.template?/humanoid_dahlia_grunt_damientac_mr.entitytemplate].entitytemplate",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01B5B1939A331B0E",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/setpieces/setpieces_tsim.template?/setpiece_tacsim_tigerbeetle_haybaleround.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01A374C5903B3CB7",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/vehicles/utility_vehicles_a.template?/pro_trailer_old_b.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01C33E5C2ACE19DD",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/effects/templates/explosions/explosions.template?/fx_explosion_car_suv_m_gpu_dlc_a.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01BAACA898ED9299",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/actors/male_reg/individuals/_maincast/bond/kits/kit_reward_hero_bond_grey.template?/vest_kit_reward_hero_bond_grey.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0177250C832D9545",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/effects/templates/weapons/weapon_helper_templates.template?/fx_firearm_custom_valhallacar.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0170695D739AAC5B",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/props/nature/rocks_a.template?/rock_small_boulder_c.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01BB12CA5D6A8705",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_pro/environment/geometry/props/utensils/india_utensils_a.wl2?/india_tray_b_00.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01D16135A8A5CC55",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/props/signs/slovakian_road_signs_a.wl2?/slovakian_road_sign_a_rockfall_dynamic.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "011E780CF708B085",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_pro/environment/geometry/props/papers/newspaper_colombia_post_a.wl2?/newspaper_colombia_post_f.prim](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01002C0E83FD4078",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/setpieces/setpieces_tsim.template?/setpiece_tacsim_tigerbeetle_palletwithtires_b.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "014A52F949F6AEF6",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/gadgets/gadget_definitions.template?/gadgethelper_qglasses_shownavpath.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "017DB28693D70EB8",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/photomode/photomode_templates.template?/uiphotomodeoptiontoggle_light.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0116FDDD3139FB83",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/scenes/tsim/activities/rose_tigerbeetle_streaming_override_01_timetrial.brick].entitytype",
+    "gameFlags": 1,
+    "subType": "brick"
   },
   {
     "hash": "018051F25D7D9A4D",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "fx_firearm_shot_helper",
+    "subType": "template"
   },
   {
     "hash": "01D7655522224179",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/props/industrial/pier_ramp_a.wl2?/pier_ramp_a.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "011AC427417E47E6",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/foliage/bushes_a.template?/large_bush_b.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0115792B8B5EF159",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/kits/military/mi6_container_window_frame_shutter_a.wl2?/mi6_container_window_frame_shutter_opaque_c.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0151C9442E015927",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/props/furniture/pillow_used_a.wl2?/pillow_used_dog_bed_a.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01649C8F0C4BB824",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/outfits/dahlia/outfits_dahlia_enemies.template?/outfit_dahlia_grunt_damienmercs_tactical_male_reg_v11.entitytemplate].entitytemplate",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01D8F40658C6ACE9",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/outfits/_maincast/outfits_bond.template?/outfit_lotusclub_hero_bond_male_flirt_reg_v1.entitytemplate].entitytemplate",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "014F7EF8C8E4A901",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/props/garden/garden_props_a.template?/haybale_decal_c.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01C5C26544CFD89C",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/levels/orchid/webb_citadel_experiments_a.template?/server_core_a_merged_e_shadowlod.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01EE866C1EBA153C",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/levels/rose/rose_chase_guardrails_left_a.wl2?/rose_guardrail_left_070.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "012B2F8C972DD174",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/scenes/tsim/activities/rose_tigerbeetle_altversion_reverse_timetrial.brick].entitytype",
+    "gameFlags": 1,
+    "subType": "brick"
   },
   {
     "hash": "01EE72AE1DEB900D",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/items/templates/firearms/firearms.template?/firearm_resourcedefinition_rifle_marksman_a.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01C31A21D7FB9C3E",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/setpieces/setpieces_tsim.template?/hay_bales_destructible_stack_d.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01F452E033F1BD13",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/setpieces/setpieces_tsim.template?/keyword_tacsim_tigerbeetle_nopenalty.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01A6870BA6F1D73E",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/vehicles/trucks_a.template?/pro_fruittruck_d.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "019CD7F25FD692E5",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/firearms/firearm_definitions.template?/firearm_def_shotgun_sawnoff_a.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01BC68A65B301288",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/kits/antarctica/orchid_falling_debris_a.wl2?/orchid_falling_debris_a.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "019F0B8C0AD96AD1",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "dl_heavycosmeticrigidbody",
+    "subType": "template"
   },
   {
     "hash": "019F6EA72906F61F",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/actors/male_reg/individuals/_maincast/bond/kits/kit_tacsim_tie_wide/geometry_deformation/kit_tacsim_tie_wide/kit_tacsim_tie_wide.gar?/tie_wide_kit.weighted.fbx](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01F8BC5EC7BBC852",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/outfits/_maincast/outfits_bond.template?/outfit_reward_nsw2exclusive_hero_bond_male_reg_v0.entitytemplate].entitytemplate",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01CE0263F403EF96",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/levels/orchid/webb_citadel_experiments_a.template?/server_core_a_merged_b_destructible_shadowlod.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01FD838951925544",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/kits/pro/industrial/industrial_club_building_kit_a.template?/clubbuilding_concrete_wall_block_a.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "019C5E81F7FFC420",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/actors/male_reg/parts_average/heads/heads.template?/head_young_african_07.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0102777023B66D8F",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/tsim/tsim_gamechangers.template?/kntgamechanger_finishersgrantresource_low.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0182A03C9BF37E6B",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/_licensed/quixel/geometry/foliage/magnolia_palm_th5idiak_a.wl2?/magnolia_palm_th5idiak_15m_a_cutscene.prim](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01B5EE2400CAA93C",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/setpieces/setpieces_tsim.template?/hay_bales_destructible_stack_c.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0174529B33852B0E",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/outfits/dahlia/outfits_dahlia_enemies.template?/outfit_dahlia_grunt_damienmercs_tactical_male_reg_v9.entitytemplate].entitytemplate",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01C4DE0115C451A1",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/levels/orchid/webb_citadel_experiments_a.template?/server_core_a_merged_c_destructible_shadowlod.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "018D61D5AAFEBB98",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/props/kitchen/kitchen_stove_blocks_a.wl2?/kitchen_stove_block_a_painted_00.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01A255B2F94B62F5",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/outfits/dahlia/outfits_dahlia_enemies.template?/outfit_dahlia_grunt_damienmercs_tactical_male_reg_v17.entitytemplate].entitytemplate",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "011D8E0BC72D402C",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/_licensed/quixel/geometry/foliage/magnolia_palm_th5idiak_a.wl2?/magnolia_palm_th5idiak_15m_a.prim](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01F6E57D290E89B7",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/props/street/misc_street_props_a.template?/street_traffic_blockade_a.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "019097F428C07553",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/levels/orchid/webb_citadel_experiments_a.template?/server_core_a_merged_c_shadowlod.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01291103FDA17553",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/decals/ground/corner_leaves_a.wl2?/decal_leaves_ground_b.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0115E5CAE686F70C",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/photomode/photomode_templates.template?/setphotomodelightintensityoverridden.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01796B50673C7DB3",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/props/kitchen/utensils/glass_champagne_b.wl2?/glass_champagne_b_cheap.linkedprim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01155D2DC2890CD3",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_pro/_licensed/quixel/geometry/props/industrial/quixel_concrete_wall_broken_fox_a.wl2?/quixel_concrete_wall_broken_fox_a.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "019EE09D25A47CE4",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "dl_heavycosmeticrigidbody",
+    "subType": "template"
   },
   {
     "hash": "0180841EF9FD9073",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/setpieces/setpieces_tsim.template?/hay_bales_destructible_stack_g.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01151CD83C714466",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/actors/male_reg/parts_muscular/kits/dahlia/kit_dahlia_pirate_leader/geometry_deformation/kit_dahlia_pirate_leader_rigidbody.wl2?/glasses_kit_dahlia_pirate_leader_rigid.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01659F13640BA8E2",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/kits/rose/rampart kit/rose_nat_road.template?/rose_ext_forest_occluder_g_d.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01DFC33DFE0A2A97",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/outfits/dahlia/outfits_dahlia_enemies.template?/outfit_dahlia_grunt_damienmercs_tactical_male_reg_v1.entitytemplate].entitytemplate",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01B87796C071B80F",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/effects/templates/armor/fx_armor.template?/cc_armor_detach_logic.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "016AFA12A3728280",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/vehicles/geometry/land_rover_series_iii_a/land_rover_series_iii_b.wl2?/landrover_series_iii_headphones_a_wire_cloth_connector.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01A0F7926C69A93A",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/gadgets/gadget_definitions.template?/gadgetupgrade_missilepenstrength_two.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "010685EF24F48FC7",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/scenes/tsim/activities/tigerbeetle_lighting_bricks/lighting_rose_tigerbeetle_streaming_override_03.brick].entitytype",
+    "gameFlags": 1,
+    "subType": "brick"
   },
   {
     "hash": "010ABC6EE26A071F",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/_licensed/quixel/geometry/foliage/magnolia_palm_th5idiak_a.wl2?/magnolia_palm_th5idiak_25m_a.prim](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0144E34EC5902DAA",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/items/act_props.template?/actprop_base.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0108866BB421B1FD",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/props/food/karelian_pie_a.wl2?/receipt_karelian_pie_cloth_a.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01F8298DE6727D22",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_pro/environment/geometry/props/covers/concrete_barrier_b.wl2?/concrete_barrier_b_broken_00.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01C3B3F7A6733E1A",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/levels/lotus/lotus_drivetutorial_a.template?/lotus_tsim_bowlingpin.entitytemplate].entitytemplate",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0187183802C4B254",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/sound/templates/sound_firearmaudiodefinitions.template?/firearmaudiodefinition_compact.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "013D3DC527BF75EE",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/outfits/dahlia/outfits_dahlia_enemies.template?/outfit_dahlia_grunt_damienmercs_tactical_male_reg_v0.entitytemplate].entitytemplate",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01B4729F66568EFD",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/setpieces/setpieces_tsim.template?/setpiece_tacsim_tigerbeetle_woodfence_c.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0192B891D6C71480",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/props/food/foodpots_big_a.wl2?/foodpot_big_a_00.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01EC18D12C389CAC",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/actors/male_reg/individuals/_maincast/bond/kits/kit_reward_hero_bond_grey/geometry_deformation/kit_reward_hero_bond_grey/kit_reward_hero_bond_grey.gar?/vest_kit_reward_hero_bond_grey.weighted.fbx](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01676C3BEF06AD1A",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/backdrop/mountains/rose_backdrop_mountains_a.template?/rose_drive_backdrop_a_medium_nobillboards.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "015321DA2F43F272",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/setpieces/setpieces_tsim.template?/setpiece_tacsim_tigerbeetle_palletwithtires_a.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01888D0366855162",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/decals/ground/corner_leaves_a.wl2?/decal_leaves_ground_d.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "011A159BE48BAACC",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/actors/fem_reg/parts_average/body/body_parts.template?/arms_maids_rose.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01A77F0E2695408D",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/kits/resort/skylight_bungalow_glass_destructible_a.wl2?/skylight_bungalow_glass.prim](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0142A0EA4BE0ED07",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/scenes/tsim/activities/rose_tigerbeetle_streaming_override_01_reversed.brick].entitytype",
+    "gameFlags": 1,
+    "subType": "brick"
   },
   {
     "hash": "0185D338E7FCA0BC",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/levels/rose/rose_chase_guardrails_left_a.wl2?/rose_guardrail_left_047.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01F19F64E089B4AC",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/lighting/templates/postfiltercontroller.template?/pfp_123_rose_tigerbeetle_day_beforestorm.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "011EFE62EBEA8346",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/gadgets/gadget_npc_helpers.template?/gadgetnpchelper_handleelectricmissilepenupgrade.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0163D9BBA52B39DE",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/props/trash/garbage_modern_bin_b.wl2?/garbage_modern_bin_c.prim^garbage_modern_bin_c_dynamic.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01A2D5A7CD1AA4BB",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/props/decorative/flags_a.template?/flag_pole_race_checkmat.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01ACB9C61133C093",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/utility/collision_presets.template?/collisionpreset_detached_suv_tacsim.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01EA68CDB7A3A2FA",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/localization/knt/conversations/live/s21250_bondcarbantervalhalla.sweetdialog].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01AD60B4A18314B5",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/actors/male_reg/parts_average/heads/heads.template?/head_young_african_08.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "018C82782034DFB3",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/sound/templates/sound_vehicles_knt.template?/snd_vehicle_npc_tacsim_tigerbeetle.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0152EF8A0AEA9BFE",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/props/farm_props/haybales_destructible.wl2?/haybale_damaged_b_destructible.linkedprim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0165405BE09DA4A4",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/outfits/dahlia/outfits_dahlia_enemies.template?/outfit_dahlia_grunt_damienmercs_tactical_male_reg_v12.entitytemplate].entitytemplate",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "013732EC87BECFE4",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/levels/rose/rose_chase_guardrails_right_a.wl2?/rose_guardrail_right_073.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "012BDC2CF5C81231",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/_base/base_attachers.template?/disguise_hat_hide_helper.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01057A0BDE79F9E1",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/npc_spawners/npc_spawners_magnolia.template?/magnolia_grunt_elliswhite_evening_mr.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01BB9380422D4DCB",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_pro/vehicles/geometry/trailer_old_a/trailer_old_a.wl2?/trailer_old_a.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0189F501A2F9659E",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/characters/character_templates/humanoids_bluebell.template?/humanoid_bluebell_brute_damienmerc_mr.entitytemplate].entitytemplate",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01E4CE831C74906F",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/props/farm_props/haybales_destructible.wl2?/haybale_small_a_rigidbody.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01100FDE7A283B85",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/_licensed/quixel/geometry/foliage/quixel_fan_palm_a.wl2?/quixel_fan_palm_a_half.prim](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0124A6C7E9A9B172",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/props/street/misc_street_props_a.template?/street_traffic_blockade_b.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0166582FD802E2E2",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/levels/rose/rose_chase_guardrails_left_a.wl2?/rose_guardrail_left_075.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01919307E8BC2E9F",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/actors/male_reg/individuals/_maincast/bond/kits/kit_reward_hero_bond_grey.template?/shoes_kit_reward_hero_bond_grey.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0137B568ACDA5E76",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_pro/environment/geometry/props/harbour_props/boat_speedboat_a.wl2?/boat_speedboat_b_00.prim^boat_speedboat_b_background.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0180FAD41109E873",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/setpieces/setpieces_tsim.template?/eventchannel_tacsimrace_requestrespawnpos.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01A11BC5A84CBC4F",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/outfits/dahlia/outfits_dahlia_enemies.template?/outfit_dahlia_grunt_damienmercs_tactical_male_reg_v13.entitytemplate].entitytemplate",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01E247E283F7D6A4",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/scenes/gyms/boats_templates_gym.template?/setboolbasic.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "016642A985986F4A",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/props/construction_site/construction_site_concrete_a.template?/concrete_barrier_b_broken.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "017A5FD9B556F40A",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/sound/templates/sound_vehicles_knt.template?/snd_veh_aston_martin_valhalla_tacsim.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0183D1B151B866B5",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/setpieces/setpieces_tempdisguise.template?/keyword_player_disguiseenabled.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01364C091B5C1962",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_pro/environment/geometry/props/farm_props/haybales_a.wl2?/haybale_decal_c.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0111BD38ACE4883E",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/props/furniture/chairs_and_sofas_a.template?/modular_sofa_resort_end_a.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0196A52B5454C313",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_pro/environment/geometry/kits/shipyard/shipyard_modules_b.wl2?/gantry_crane_b_supportconnection_b.prim](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01A618617754C79F",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/_licensed/quixel/geometry/foliage/quixel_weeping_fig_wdjqbag_a.wl2?/quixel_weeping_fig_wdjqbag_d.prim](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01F73704589CA79E",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/props/kitchen/kitchen_containers_a.template?/container_vegatables_f_00.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01CFF792C90584F3",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/props/furniture/sofa_velour_modern_a.wl2?/pillow_velour_cushion_a.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01230221B0C097F7",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/kits/pro/castle/castle_walls/pro_castle_wall_kit_a.template?/castle_ruins_wall_ruin_2x6_a.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01774E8A59511169",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/_licensed/quixel/geometry/props/nature/quixel_logs_wcokfdy_wcjebgs_wcjgeel.wl2?/log_pile_d.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01D253ADA7FDB3DA",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/levels/rose/rose_chase_guardrails_left_a.wl2?/rose_guardrail_left_071.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0120C2500D4E7C8F",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/ui/templates/controls/hudcontrols_knt.template?/valhallaracetimerwidget.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0147D184587B57E5",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/actors/male_reg/individuals/_maincast/bond/kits/kit_reward_hero_bond_grey/geometry_deformation/kit_reward_hero_bond_grey/kit_reward_hero_bond_grey.gar?/shirt_kit_reward_hero_bond_grey.weighted.fbx](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0158324F6BEF8FE9",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/effects/templates/explosions/explosions.template?/fx_explosion_valhallamissile_m_gpu_tacsim_a.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0160EF891733531E",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/photomode/photomode_templates.template?/isplayerinphotomode.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01E27F0CE427B7FD",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/gadgets/gadget_definitions.template?/gadgetupgrade_missilepenstrength_three.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "014906710797535A",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/tsim/tsim_helpers.template?/tsim_despawn_humanoid_ondeath.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01C1C976E593E2BD",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/characters/character_templates/humanoid_outfits.template?/outfit_hero_current.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "013B0639A5113F68",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/vehicles/geometry/land_rover_series_iii_a/land_rover_series_iii_b.wl2?/landrover_series_iii_headphones_a_wire_cloth.prim](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01E994204A28DA7A",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_pro/effects/templates/particlerenderers/fx_pr_animals.template?/fx_pr_animal_crow_flying_cheap.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0170353225199755",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/props/furniture/tables_benches_furniture_a.template?/indoor_table_resort_2x4_b_b.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01C54F48DCA697A5",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/scenes/tsim/activities/tigerbeetle_lighting_bricks/lighting_rose_tigerbeetle_streaming_override_02.brick].entitytype",
+    "gameFlags": 1,
+    "subType": "brick"
   },
   {
     "hash": "013B721D7DAD0A4C",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/levels/rose/rose_ext_forest_occluder_cliffs/rose_ext_forest_occluder_cliff_i_b.wl2?/rose_ext_forest_occluder_cliff_i_b.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01DBCECCF3089659",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/outfits/bluebell/outfits_bluebell_enemies.template?/outfit_bluebell_grunt_damienmercs_tactical_male_reg_v1.entitytemplate].entitytemplate",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0159EA8AF75A6E77",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/actors/male_reg/individuals/_maincast/bond/kits/kit_reward_hero_bond_grey/geometry_deformation/kit_reward_hero_bond_grey/kit_reward_hero_bond_grey.gar?/pants_kit_reward_hero_bond_grey.weighted.fbx](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "017363262F029036",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/outfits/dahlia/outfits_dahlia_enemies.template?/outfit_dahlia_grunt_damienmercs_tactical_male_reg_v10.entitytemplate].entitytemplate",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01F8352389CA848C",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/props/furniture/indoor_chair_resort_a.wl2?/indoor_table_resort_2x4_b_b.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "010572FA75FA813C",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/setpieces/setpieces_tsim.template?/hay_bale_damaged_b_destructible.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "015D782ADEA9B6C6",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_pro/effects/templates/impacts/fx_impacts_materialbased.template?/fx_e_impact_metal_penetrable.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01A33C96C42C0C70",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/ai/archetypes/rangedcombataccuracyconfigurations.template?/007_brute.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01B237E33362F2DE",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/setpieces/setpieces_rose.template?/rose_car_chase_wooden_fence_b_destructable_cheap.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01CF08E77D1061B2",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/lighting/templates/lamps.template?/light_traffic_light_london_head_b.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "019EC48E6492DB00",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_pro/environment/geometry/kits/shipyard/shipyard_modules_b.wl2?/gantry_crane_b_cyllinder_a_small.prim](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "018AFB1721A47B71",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "dl_heavycosmeticrigidbody",
+    "subType": "template"
   },
   {
     "hash": "01FBB8A7FEF3EB5C",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/tsim/tsim_gamechangers.template?/kntgamechangerdefinition_no_weapons.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01C1E040CC3D7047",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/storylines/storylines.template?/sentryzonehelper_npcwatchingplayer.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "016939B9A899B99B",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/outfits/dahlia/outfits_dahlia_enemies.template?/outfit_dahlia_grunt_damienmercs_tactical_male_reg_v2.entitytemplate].entitytemplate",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "011220E592B80DC9",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_pro/_licensed/quixel/geometry/levels/cockatoo/quixel_aset_nature_rock_venrdcgga_a.wl2?/aset_nature_rock_xl_venrdcgga_d.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "016B0CCDB9C9A60E",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_pro/environment/geometry/kits/shipyard/shipyard_modules_b.wl2?/gantry_crane_b_cyllinder_b.prim](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01E14EC6BFF0B475",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/actors/fem_reg/individuals/_maincast/selinatan/head/heads.template?/head_selinatan.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "012DCDD11AC0C371",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/gadgets/gadget_definitions.template?/gadgethelper_qglasses_weakspot.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01B00DF392BBBD73",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/sound/templates/sound_firearmaudiodefinitions.template?/firearmaudiodefinition_semiauto.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01C01F390A0B6F61",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/props/art/paintings_public_domain_a.template?/painting_bulldog_p.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "014F302FF9320B72",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/props/containers/garbage_bins_a.template?/garbage_modern_bin_c_dynamic.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "016738CF22B3B13B",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/effects/templates/explosions/explosions.template?/fx_explosion_smoke_trail_missile_tacsim.entitytemplate].entitytemplate",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01DF4130F3BF5556",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/props/furniture/chairs_and_sofas_a.template?/modular_sofa_resort_end_b.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01E6CAA74467AAB0",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/setpieces/setpieces_tsim.template?/setpiece_tacsim_tigerbeetle_tyrestack_b.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "019FF7CA938467DD",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "dl_heavycosmeticrigidbody",
+    "subType": "template"
   },
   {
     "hash": "01F5C6362E2FE589",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/gadgets/gadget_definitions.template?/gadgethelper_qglasses_pathglowspline.entitytemplate].entitytemplate",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01D59A7CA1005DF5",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/props/furniture/bedroom_furniture_a.template?/pillow_used_dog_bed_a.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0142DF24DDF6819F",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/items/templates/firearms/firearms.template?/firearm_instance_exotic_harpoon_a.entitytemplate].entitytemplate",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01BEE4036840A5E2",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/vehicles/seacraft_a.template?/container_ship_hatch_cover_b.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "012A5D728360DBE2",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/actors/male_reg/individuals/_maincast/bond/kits/kit_reward_hero_bond_grey/geometry_deformation/kit_reward_hero_bond_grey/kit_reward_hero_bond_grey.gar?/socks_kit_reward_hero_bond_grey.weighted.fbx](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0191F64D85BF9915",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/actors/male_reg/individuals/_maincast/bond/kits/kit_reward_hero_bond_grey.template?/jacket_kit_reward_hero_bond_grey.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "019E6A513457478F",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/localization/knt/conversations/orchid/orchid_story/s9473_isolaventhint.sweetdialog?/s9473_isolaventhint_bond_002.sweetdialogitem].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01F1001BA908226F",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/scenes/tsim/activities/lighting_rose_tigerbeetle_night.brick].entitytype",
+    "gameFlags": 1,
+    "subType": "brick"
   },
   {
     "hash": "015453F323DEE883",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/attachables/eyewear/goggles_ski/geometry_static/goggles_ski.wl2?/goggles_ski.prim^goggles_ski_dynamic.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01366DB8CD94B045",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_pro/environment/geometry/props/industrial/metal_armco_a.wl2?/metal_armco_c.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0163BD76D12E1DAF",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/utility/collision_presets.template?/collisionpreset_vehicle_chase_destruction_shootable.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "018ED8484E0A44C9",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/props/debris/debris_stone_a.template?/ruins_brokenwall_rubble_horizontal_a_00.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "019D15E291A9E235",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_pro/environment/templates/props/wires/chandelier_chains.template?/chandelier_chain_a.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01007145D6F26C5A",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/outfits/_maincast/outfits_bond.template?/eventchannel_outfit_obsidiangold_hero_backpack.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "016351967FE94CBE",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/outfits/bluebell/outfits_bluebell_enemies.template?/outfit_bluebell_brute_damienmercs_tactical_male_reg_v2.entitytemplate].entitytemplate",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01E01F373584B5B4",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/outfits/bluebell/outfits_bluebell_enemies.template?/outfit_bluebell_grunt_damienmercs_tactical_male_reg_v0.entitytemplate].entitytemplate",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "017499A388081256",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/setpieces/setpieces_tsim.template?/setpiece_tacsim_tigerbeetle_foodstall_full.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0175593956F9DEBC",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/outfits/dahlia/outfits_dahlia_enemies.template?/outfit_dahlia_grunt_damienmercs_tactical_male_reg_v14.entitytemplate].entitytemplate",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "011CDF40EEA119E1",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/actors/male_reg/individuals/_maincast/bond/kits/kit_reward_ceo_jacket.template?/ceo_tshirt_kit.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01ADE2029E27C3E7",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/actors/male_reg/individuals/_maincast/bond/kits/kit_nsw2_exclusive.template?/tie_wide_kit.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0143626958B5762E",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/setpieces/setpieces_tsim.template?/setpiece_tacsim_tigerbeetle_tyrestack_a.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "010A73CC1F772170",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/localization/knt/conversations/rose/rose_story/s3550_isolaencounter2.sweetdialog?/s3550_isolaencounter2_cressida_006.sweetdialogitem].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0105EB1BA8C59BE1",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/actors/male_reg/individuals/_maincast/bond/kits/kit_jungle_outfit/geometry_deformation/kit_jungle_outfit/kit_jungle_outfit.gar?/vest.weighted.fbx](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "017AC97687AA6F5B",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/outfits/outfit_definitions.template?/outfitdefinition_ulc_greystandard.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "018749909D708B64",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/outfits/bluebell/outfits_bluebell_enemies.template?/outfit_bluebell_brute_damienmercs_tactical_male_reg_v1.entitytemplate].entitytemplate",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01AFE3BD173A3208",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/actors/male_reg/parts_average/kits/dahlia/kit_dahlia_pirate_specialist_v1/geometry_static/kit_dahlia_pirate_specialist_goggles_static.wl2?/goggles_kit_dahlia_pirate_specialist_v1_rigidbody.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01CC030B7425A8F4",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/props/containers/military_containers_a.template?/military_ammo_box_dynamic_shadowlod.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0122888A893B81A7",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/tsim/tsim_helpers.template?/tsim_vehiclehelper_slowtoastoptrigger.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0155C617902298C2",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_pro/environment/geometry/props/rocks/rock_small_boulder_d.wl2?/rock_small_boulder_d.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "018A7DEA9C79B992",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/setpieces/setpieces_tsim.template?/setpiece_tacsim_tigerbeetle_woodfence_a.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0135C2EC63CB9C08",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/props/construction_site/construction_misc_a.template?/crane_module_i.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0194B799B4414765",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/setpieces/setpieces_tsim.template?/tacsimhelper_vehiclemission_checkpointgatemanager.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "018CB568943A35C1",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/decals/ground/corner_leaves_a.wl2?/decal_leaves_ground_a.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01287A69947CD641",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/levels/rose/rose_chase_guardrails_right_a.wl2?/rose_guardrail_right_068.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0115D18AD2BE57E0",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/actors/male_reg/individuals/_maincast/bond/kits/kit_reward_hero_bond_grey.template?/socks_kit_reward_hero_bond_grey.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "011C258B050B85E7",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/levels/rose/rose_ext_forest_occluder_cliffs/rose_ext_forest_occluder_cliff_i_b.wl2?/rose_ext_forest_occluder_cliff_n.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "010E70C2F31E3BA0",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/outfits/dahlia/outfits_dahlia_enemies.template?/outfit_dahlia_grunt_damienmercs_tactical_male_reg_v3.entitytemplate].entitytemplate",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01A17A627FD7D14D",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_pro/environment/geometry/levels/coastal_town_italy/ruins_a.wl2?/ruins_drainhole_a.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "019FBFA6EEED4259",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/outfits/dahlia/outfits_dahlia_enemies.template?/outfitset_dahlia_grunt_damienmercs_tactical_male_reg.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01E0B01D5A5F9783",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/actors/male_reg/parts_average/heads/head_young_caucasian_04/geometry_deformation/head_young_caucasian_04/head_young_caucasian_04.gar?/head_young_caucasian_04.weighted.fbx](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "012D29DFB340F3CB",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/npc_spawners/npc_spawners.template?/global_civ_playerclone_mr.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0153CBF05C3BCFA3",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/lighting/templates/postfiltercontroller.template?/pfp_121_marigold_night_inside.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01D6A5F13AF70882",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/effects/templates/weapons/impacts.template?/fx_def_impact_valhalla_mg_tacsim.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "013B19C9FE9AF0F0",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/props/food/foodpots_big_a.wl2?/potato_pile_c.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0150BDECAAACA19F",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/scenes/tsim/escalations/ivy_alderfly.brick].entitytype",
+    "gameFlags": 1,
+    "subType": "brick"
   },
   {
     "hash": "0189DDF96ACC2804",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/outfits/bluebell/outfits_bluebell_enemies.template?/outfitset_bluebell_grunt_damienmercs_tactical_male_reg.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0172D6C34811A700",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/levels/rose/rose_chase_guardrails_left_a.wl2?/rose_guardrail_left_073.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01B3E53DAB8272F1",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/setpieces/setpieces_tsim.template?/setpiece_tacsim_tigerbeetle_palletwithtires_c.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "010D5B312CBA6A14",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_pro/environment/geometry/props/accessories/demonstration_assets_a.wl2?/flare_a.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "016FE231F25C6AE4",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/firearms/firearm_definitions.template?/firearm_def_exotic_harpoon_a.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "016E5A79E0EB1E30",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/lighting/templates/postfiltercontroller.template?/pfp_128_marigold_sunrise_outside.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01B5C750D0B4B222",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/items/templates/quest_items/quest_items.template?/quest_item_online_hackablephone_a.entitytemplate].entitytemplate",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "015116B5560DC923",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/levels/orchid/webb_citadel_experiments_a.template?/webb_toolcart_a_dynamic_shadowlod.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "019C8A66D7DD9292",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_pro/environment/geometry/props/flags/flagpole_miami_podium_a.wl2?/flag_podium_a.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01CC79D740459B08",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/levels/ruby/operations_scif_a.wl2?/operations_scif_a_glass_b_right.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "012B56F18153F0A1",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "dl_lightcosmeticrigidbody",
+    "subType": "template"
   },
   {
     "hash": "01BC75BC8F9A6452",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/outfits/bluebell/outfits_bluebell_enemies.template?/outfit_bluebell_grunt_damienmercs_tactical_male_reg_v2.entitytemplate].entitytemplate",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0105DB697EDAD9FB",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/setpieces/setpieces_tsim.template?/eventchannel_tacsimrace_respawnpos.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0191D88869A9F261",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/_licensed/quixel/geometry/foliage/quixel_fan_palm_a.wl2?/quixel_fan_palm_b_dynamic.prim](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "013013CABEF684C3",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/scenes/tsim/activities/rose_tigerbeetle_streaming_override_02_reversed_timetrial.brick].entitytype",
+    "gameFlags": 1,
+    "subType": "brick"
   },
   {
     "hash": "012C474DD02561F0",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/actors/male_reg/individuals/_maincast/bond/kits/kit_reward_ceo_jacket.template?/ceo_pants_kit.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0134B9B719082D3B",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/props/mechanics/garage_props_a.template?/metal_filter_unit_a_dynamic_shadowlod.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01DA54BAB2F983E2",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/setpieces/setpieces_tsim.template?/hay_bale_damaged_a_destructible.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01D6384F1A8B8951",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/scenes/gyms/helpers_vehicle_templates_gym.template?/photomodecollisions.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "019E3BA3BB1847DD",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/levels/rose/rose_chase_guardrails_left_a.wl2?/rose_guardrail_left_072.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01ECF1B35CF95364",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/props/food/foodpots_big_a.wl2?/potato_pile_a.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0169E6FCFFA9ACF5",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/setpieces/setpieces_tsim.template?/hay_bales_destructible_stack_f.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "016C3F878C77349A",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/lighting/templates/postfiltercontroller.template?/pfp_122_rose_tigerbeetle_night_outside.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01DCA80F81273BEA",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/scenes/tsim/operations/lotus_silverfish.brick].entitytype",
+    "gameFlags": 1,
+    "subType": "brick"
   },
   {
     "hash": "010A6A293FD57344",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/props/decorative/toys_games_sport_props_a.template?/baseball_a.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01CF1F19F05E6D91",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/_base/base_attachers.template?/attachable_detach_trigger.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01E51CF21E9B9779",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/setpieces/setpieces_tsim.template?/hay_bale_small_a_destructible.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01817F75B739E5E2",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/scenes/tsim/activities/rose_tigerbeetle_timetrial.brick].entitytype",
+    "gameFlags": 1,
+    "subType": "brick"
   },
   {
     "hash": "01186497E5170946",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/setpieces/setpieces_tsim.template?/tacsimhelper_vehiclemission_checkpointgate.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01AB9BD3C3223695",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/levels/rose/rose_ext_forest_occluder_cliffs/rose_ext_forest_occluder_cliff_i_b.wl2?/rose_ext_forest_occluder_cliff_o.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01B820E7B05DBD9E",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/foliage/bushes_a.template?/bush_atrium_penthouse_b_00.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01F4E493DFD768D8",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/setpieces/setpieces_tsim.template?/setpiecehelper_obstacleslowdown.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01F1B65657F9D8D6",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/ui/templates/controls/hudcontrols_knt.template?/valhallaracestartcountdownwidget.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01E3B5B477A7B9BE",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/actors/fem_reg/parts_average/bodies/body_average/geometry_deformation/arms_average/arms_average.gar?/arms_maids_rose.weighted.fbx](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0151A9637F3D73B1",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/tsim/tsim_gamechangers.template?/kntgamechangerdefinition_targets_timebonus_variant.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0104A68FADBCB07A",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/outfits/bluebell/outfits_bluebell_enemies.template?/outfit_bluebell_brute_damienmercs_tactical_male_reg_v3.entitytemplate].entitytemplate",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01B0DC57892AFC27",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_pro/environment/geometry/props/decorative/cushions_marrakesh_b.wl2?/cushion_marrakesh_g_00.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "018DEF9CA17D61A7",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "dl_heavycosmeticrigidbody",
+    "subType": "template"
   },
   {
     "hash": "013FC0181067EE78",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/levels/rose/rose_ext_forest_occluder_cliffs/rose_ext_forest_occluder_cliff_i_b.wl2?/rose_ext_forest_occluder_cliff_p.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0152B92F694FAD30",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/props/books/polyhaven_books_a.wl2?/polyhaven_book_softover_22.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0138FF32AFCF1562",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/effects/templates/_materialdescriptors/env_misc.template?/fx_md_valhalla_mg_tacsim_hit_a.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "012DC566302309FF",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/scenes/tsim/escalations/lotus_mosquito_tier1.brick].entitytype",
+    "gameFlags": 1,
+    "subType": "brick"
   },
   {
     "hash": "015E08FE2DCFFBBA",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/scenes/tsim/activities/lotus_scorpion.brick].entitytype",
+    "gameFlags": 1,
+    "subType": "brick"
   },
   {
     "hash": "01514021DCADD689",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/decals/ground/corner_leaves_a.wl2?/decal_corner_leaves_d.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0185886D970148CA",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/levels/rose/rose_tigerbeetle_asphalt_road_a.wl2?/rose_chase_road_31_broken.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "019FB65C2415DE62",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/kits/pro/castle/castle_walls/pro_castle_wall_kit_a.template?/magpie_wall_debris_1x3_a.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "012F8A566FA3AB35",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_pro/environment/geometry/props/farm_props/concrete_road_block_a.wl2?/concrete_road_block_d.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01A575D5293E8697",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/outfits/bluebell/outfits_bluebell_enemies.template?/outfit_bluebell_brute_damienmercs_tactical_male_reg_v0.entitytemplate].entitytemplate",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0133597D94DA9673",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/props/farm_props/haybales_destructible.wl2?/haybale_b_destructible.linkedprim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01A2E30FA1E63B2A",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "dl_heavycosmeticrigidbody",
+    "subType": "template"
   },
   {
     "hash": "01BB49825E1D462F",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/utility/collision_presets.template?/collisionpreset_vehicledetach_suv_tacsim.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0179BD485D8AC3B4",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/setpieces/setpieces_tsim.template?/setpiece_tacsim_tigerbeetle_foodstall_full_b.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "015EFD99105B5795",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/props/food/foodpots_big_a.wl2?/potato_pile_b.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0124B528BEA6F268",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/actors/fem_reg/parts_average/body/body_parts.template?/torso_hips.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01535ECAC002A5CD",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_pro/environment/geometry/props/farm_props/haybales_a.wl2?/haybale_decal_b.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01052E091E985C11",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/props/decorative/carpets_a.template?/bulldog_circular_carpet_a.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "014D3115DAECD4AA",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/ai/archetypes/rangedcombataccuracyconfigurations.template?/007_tank.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "013B7F86C9AE1002",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "dl_lightcosmeticrigidbody",
+    "subType": "template"
   },
   {
     "hash": "01D692D72BFED04D",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/lighting/templates/sky/sky_knt.template?/sky_knt_cloudy_b_small_custom_sunlight.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0106390049F53202",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/levels/rose/rose_chase_guardrails_right_a.wl2?/rose_guardrail_right_070.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01DD0D96D26C3920",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/setpieces/setpieces_tsim.template?/tacsimhelper_vehiclemission_respawnhandler.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01D38B356E1060BA",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/props/paper/paper_a.template?/receipt_karelian_pie_cloth_a.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "014F771DFED2B10E",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/setpieces/setpieces_tsim.template?/hay_bales_destructible_stack_b.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "014F22DDF3EF6D6F",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/setpieces/setpieces_tsim.template?/hay_bales_destructible_stack_e.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01C3AD180C4412D5",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/_licensed/quixel/geometry/foliage/magnolia_palm_th5idiak_a.wl2?/magnolia_palm_th5idiak_25m_hanging_a.prim](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01E5357F9461216F",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_pro/effects/templates/particlerenderers/fx_pr_debris.template?/fx_pr_debris_foliage_leaves_decayed_4x2.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01C1147925845D2D",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "base_quest_item",
+    "subType": "template"
   },
   {
     "hash": "01472E86506A743B",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/setpieces/setpieces_tsim.template?/setpiece_tacsim_tigerbeetle_barricade_sawhorse.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "014F9BAE38DFE49C",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_pro/environment/geometry/levels/fox/club_building_kit_fox_b.wl2?/clubbuilding_concrete_wall_block_a.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0149953F2FFD77A7",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/setpieces/setpieces_tsim.template?/setpiece_tacsim_tigerbeetle_woodencrate_1x1x1.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0176BD75E25FD24D",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/scenes/tsim/activities/rose_tigerbeetle_streaming_override_03.brick].entitytype",
+    "gameFlags": 1,
+    "subType": "brick"
   },
   {
     "hash": "01D49DAD9615201F",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/outfits/outfit_definitions.template?/outfitdefinition_ulc_expedition.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0174AF20DF16E571",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/foliage/hedge_a.wl2?/large_bush_b.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "015DC6ACF222207A",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/actors/male_reg/individuals/_maincast/bond/kits/kit_tacsim_tie_wide/geometry_deformation/kit_tacsim_pocketsquare/kit_tacsim_pocketsquare.gar?/pocketsquare_kit.weighted.fbx](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01583B0E679C425B",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/effects/templates/weapons/weapon_helper_templates.template?/fx_firearm_def_custom_valhalla_tacsim.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01FAADCB3D1E8014",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/gadgets/gadget_definitions.template?/gadgethelper_qglasses_weakspotpoint.entitytemplate].entitytemplate",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "013EFAA90A6C5457",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/outfits/dahlia/outfits_dahlia_enemies.template?/outfit_dahlia_grunt_damienmercs_tactical_male_reg_v8.entitytemplate].entitytemplate",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01FD38B928C269B8",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_pro/environment/geometry/props/toilets/toilet_modern_sink_a.wl2?/overflow_toilet_modern_sink_a_00.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01021579F179AEFB",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/props/containers/crates_wooden_a.wl2?/crate_wooden_1x05x2_00_destructible.linkedprim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01F360B3047E262B",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/props/kitchen/kitchen_utensils_a.template?/glass_champagne_b_cheap.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0160CAEB36FAA904",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/props/architecture/fences/fences_a.template?/tarp_fence_post_a.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "019878EF484436BD",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/levels/rose/rose_chase_guardrails_right_a.wl2?/rose_guardrail_right_072.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01D7D2D476F70B35",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_pro/_licensed/quixel/geometry/props/ruins/quixel_ruin_props_a.wl2?/quixel_castle_structure_sczvi_a.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0142F02EC8BF0CB6",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/props/mechanics/garage_props_a.template?/polyhaven_powerdrill_a_dynamic_shadowlod.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "011CFF35864798C1",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/decals/ground/corner_leaves_a.wl2?/decal_corner_leaves_a.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "018640375BCB357F",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/actors/male_reg/individuals/_maincast/bond/kits/kit_reward_hero_bond_grey.template?/pants_kit_reward_hero_bond_grey.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01B1DB0F87A2D689",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/actors/male_reg/individuals/_maincast/bond/kits/kit_jungleoutfit.template?/shirt.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01A60DD2F9C51835",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/outfits/_maincast/outfits_bond.template?/keyword_outfit_backpack.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "014BC1798F587F92",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/props/containers/gymbag_a.wl2?/gymbag_a_dynamic.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01BB8063139337BF",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/actors/acts/fr_acts.template?/act_fr_robotdance_l.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "013BBA8DF79A8D1F",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/attachables/glasses.template?/armor_cosmetic_goggles_dahlia_pirate.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01F2CBCB0AA8CD0C",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/gadgets/gadget_definitions.template?/gadgethelper_qglasses_pathglowline.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01A06092E92195DD",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_pro/environment/geometry/levels/fox/club_building_kit_fox_b.wl2?/clubbuilding_concrete_wall_block_b.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01E307A010ED973A",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/ai/archetypes/rangedcombataccuracyconfigurations.template?/007_sniper.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01E0279B26A1ED48",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/photomode/photomode_templates.template?/photomode_postfiltereffectsdisabled.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01EDE2A76207A859",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/gadgets/gadget_definitions.template?/gadgethelper_missilepen_electricmissileupgrade.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "018E0864EB0372D4",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/levels/rose/rose_ext_forest_occluder_cliffs/rose_ext_forest_occluder_cliff_i_b.wl2?/rose_ext_forest_occluder_cliff_f.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01B01E5F1D9A73D8",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "dl_lightcosmeticrigidbody",
+    "subType": "template"
   },
   {
     "hash": "01B6FDC21D0DD43A",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/props/furniture/modular_sofa_resort_a.wl2?/modular_sofa_resort_end_a.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "011DBAC3A1085F4E",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/actors/fem_reg/individuals/_maincast/selinatan/kits/kit_ruby_labwear/geometry_deformation/kit_ruby_labwear/kit_ruby_labwear.gar?/idbadge_kit_ruby_labwear.weighted.fbx](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01242F8A0952F964",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/actors/male_reg/individuals/_maincast/bond/kits/kit_reward_hero_bond_grey/geometry_deformation/kit_reward_hero_bond_grey/kit_reward_hero_bond_grey.gar?/shoes_kit_reward_hero_bond_grey.weighted.fbx](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01ACB53BBEC28FA0",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/cameras/cameras.template?/photomodecamera.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "018691FB9916BDC7",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/kits/pro/dugong_ruins/dugong_ruins_kit_a.template?/quixel_castle_structure_sczvi_a.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0101C27C98E6174E",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/effects/geometry/misc/fx_cylinder_1m_no_caps_half_radius_prim.fbx?/fx_cylinder_1m_no_caps.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0144B24ED1406600",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/levels/rose/rose_chase_guardrails_left_a.wl2?/rose_guardrail_left_067.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "012CCE79B14CD9C7",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/actors/male_reg/parts_average/heads/head_young_indian_03/geometry_deformation/head_young_indian_03/head_young_indian_03.gar?/head_young_indian_03.weighted.fbx](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01E4566C09385E45",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/props/signs/signs_street_a.template?/slovakian_road_sign_b_arrow.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0103F61753021595",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_pro/_licensed/quixel/geometry/props/industrial/quixel_concrete_wall_broken_fox_a.wl2?/quixel_concrete_wall_broken_cover_fox_a.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01078A2F0408A8DB",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/scenes/tsim/activities/lighting_rose_tigerbeetle_clean_state.brick].entitytype",
+    "gameFlags": 1,
+    "subType": "brick"
   },
   {
     "hash": "01EB9E037C76F1C6",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/ui/templates/controls/hudcontrols_knt.template?/valhallatimegainshelfnotificationswidget.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01222DE7F1BE0CF2",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/props/laboratory/tacsim_headset_a.wl2?/tacsim_headset_b.prim](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0190B36317314E71",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/props/farm_props/haybales_destructible.wl2?/haybale_a_destructible.linkedprim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01119B46C9ECD6A0",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/props/kitchen/kitchen_utensils_a.template?/glass_champagne_b_empty_cheap.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01C01E608D9F139D",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/props/kitchen/kitchen_containers_a.template?/potato_pile_b.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01C19ACCC617C961",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/setpieces/setpieces_tsim.template?/tacsimhelper_vehiclemission_spline.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01D99113EBBBC087",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/setpieces/setpieces_tsim.template?/setpiece_tacsim_proximityhackableitem_npc.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01647DDA13A62328",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_pro/environment/geometry/kits/shipyard/shipyard_modules_a.wl2?/gantry_crane_beam_d.prim](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0104BC7DEF896C7A",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/scenes/tsim/activities/tigerbeetle_lighting_bricks/lighting_rose_tigerbeetle_day_streaming_override_03.brick].entitytype",
+    "gameFlags": 1,
+    "subType": "brick"
   },
   {
     "hash": "01B4D817C3C62B23",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/tsim/tsim_gamechangers.template?/kntgamechangerdefinition_targets_timebonus.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "012AC4CF77EE2906",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/kits/pro/industrial/industrial_club_building_kit_a.template?/clubbuilding_concrete_wall_block_b.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "013BFD4A670768B5",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/attachables/glasses.template?/armor_cosmetic_glasses_dahlia_pirate_leader.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01E595F124E3194E",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/actors/male_reg/individuals/_maincast/bond/kits/kit_reward_hero_bond_grey/geometry_deformation/kit_reward_hero_bond_grey/kit_reward_hero_bond_grey.gar?/jacket_kit_reward_hero_bond_grey.weighted.fbx](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01BA831AD47D31E0",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/props/nature/rocks_a.template?/rock_small_boulder_d.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01568B54078548F4",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/ai/archetypes/rangedcombataccuracyconfigurations.template?/007_specialist.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01A8D6B2AE6A0AFB",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/vehicles/geometry/vietnamese_boat_a/vietnamese_tourist_boat_b.wl2?/vietnamese_tourist_b_sail_rear.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01822DF922A0B31D",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_pro/environment/geometry/props/pipes/iron_drain_pipe_a.wl2?/iron_drain_pipe_bottom_a.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0110B4087A76DF6E",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_pro/effects/geometry/animals/fx_crow.wl2?/fx_pm_crow_cheap.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "017EFF18E2DB5132",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/templates/physics/collisionvolumes.template?/collisionvolumeshape.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0171BD0A9C13C918",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/effects/templates/abilities/effects_gadgets.template?/fx_missilepen_electricimpact_a.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01F86D99274BB59C",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/levels/orchid/webb_citadel_experiments_a.template?/server_core_a_merged_d_shadowlod.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01499508C315810B",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/actors/fem_reg/parts_average/body/body_parts.template?/legs_noheel_thigh_toeless.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01245306CDCB8189",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_pro/environment/geometry/props/street_props/rat_lab_tarps_a.wl2?/rat_lab_tarp_post_a.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01FFEED7CBAC2151",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/actors/male_reg/individuals/_maincast/bond/kits/kit_jungle_outfit/geometry_deformation/kit_jungle_outfit/kit_jungle_outfit.gar?/shirt.weighted.fbx](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01E0E14290BE15A8",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/lighting/templates/postfiltercontroller.template?/pfp_120_marigold_night_outside.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01B6499A6B4F7AA4",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/props/trash/tied_cardboard_stack_b.wl2?/tied_cardboard_stack_b.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "013D81D04EF74A93",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/lighting/templates/postfiltercontroller.template?/pfp_126_marigold_darknight_inside.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01EFF060E8CB9A48",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/props/paper/notebook_lab_open_a.wl2?/notebook_lab_open_a_dynamic_cloth.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01BC774ACB41A4A2",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/actors/fem_reg/parts_average/bodies/body_average/geometry_deformation/legs_average/legs_average.gar?/legs_noheel_thigh_toeless.weighted.fbx](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01A58171B96DD54B",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/actors/male_reg/individuals/_maincast/bond/kits/kit_reward_hero_bond_grey.template?/tie_kit_reward_hero_bond_grey.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0160DE1E2CBA3819",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/scenes/tsim/activities/rose_tigerbeetle_streaming_override_01_reversed_timetrial.brick].entitytype",
+    "gameFlags": 1,
+    "subType": "brick"
   },
   {
     "hash": "017F38DB9A38C9F9",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/outfits/dahlia/outfits_dahlia_enemies.template?/outfit_dahlia_grunt_damienmercs_tactical_male_reg_v16.entitytemplate].entitytemplate",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "013811FC717844CC",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/outfits/_maincast/outfits_bond.template?/outfit_reward_greystandard_hero_bond_male_reg_v0.entitytemplate].entitytemplate",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0174129DA02BA5CC",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/gadgets/gadget_definitions.template?/gadgetupgrade_missilepenstrength_one.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "015501DE5697A514",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/setpieces/setpieces_rose.template?/rose_food_stalls_full_a_cheap.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01093A1D513477E4",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/actors/fem_reg/individuals/_maincast/selinatan/kits/kit_ruby_labwear.template?/idbadge_kit_ruby_labwear.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01AC578AD78321BD",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_pro/environment/geometry/props/clothing/cloth_balcony_mount_a.wl2?/cloth_balcony_e_cloth.prim](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0139065C040177F8",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/actors/male_reg/parts_average/heads/heads.template?/head_young_indian_03.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01E056E3239B8150",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/props/street_props/street_trafficcone_a.wl2?/street_trafficcone_a.prim](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01B63ADD601BF0DE",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/outfits/dahlia/outfits_dahlia_enemies.template?/outfit_dahlia_grunt_damienmercs_tactical_male_reg_v4.entitytemplate].entitytemplate",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "015DA3092C6667AC",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/lighting/templates/sky/sky_knt.template?/sky_knt_opaque_tigerbeetle_day_cloudy.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01E2E220A9A3FBA5",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/scenes/tsim/activities/lighting_rose_tigerbeetle_day_cloudy.brick].entitytype",
+    "gameFlags": 1,
+    "subType": "brick"
   },
   {
     "hash": "0145A23D34CAA9BF",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/actors/male_reg/parts_average/heads/head_young_african_08/geometry_deformation/head_young_african_08/head_young_african_08.gar?/head_young_african_08.weighted.fbx](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0154C71360B54430",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/props/garden/garden_props_a.template?/haybale_round_wrapped_a_destructible_vehicle.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01CF0A9475E36A71",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/levels/rose/rose_chase_guardrails_left_a.wl2?/rose_guardrail_left_039.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01223C7A90B781A2",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/scenes/tsim/activities/tigerbeetle_lighting_bricks/lighting_rose_tigerbeetle_streaming_override_01.brick].entitytype",
+    "gameFlags": 1,
+    "subType": "brick"
   },
   {
     "hash": "01DDCABAC3D1578A",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/levels/pro/colombia/mansion/colombian_mansion_assets_a.template?/metal_armco_a.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "011908C1049F49DA",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/props/garden/garden_props_a.template?/haybale_decal_b.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01B8C71C6E10FD24",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/props/miscellaneous/explosives_a.template?/flare_a.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01DF4F8E1C9ED2F5",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/actors/male_reg/parts_average/apparel/neckwear/neck_badge_mi6/geometry_deformation/neck_badge_mi6/neck_badge_mi6.gar?/neck_badge_mi6.weighted.fbx](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "012F57CD39DC5A2E",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/props/food/foodpots_big_a.wl2?/foodpot_potato_a_00.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01FF53517624AF3E",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/keywords/character_states.template?/keyword_character_npc_spotter.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "010C346DB4466DA0",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/scenes/tsim/activities/rose_tigerbeetle_streaming_override_03_reversed_timetrial.brick].entitytype",
+    "gameFlags": 1,
+    "subType": "brick"
   },
   {
     "hash": "01FDB64775D1E51F",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/localization/knt/conversations/orchid/orchid_story/s9473_isolaventhint.sweetdialog?/s9473_isolaventhint_isola_001.sweetdialogitem].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01B49E1761EB3EAF",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/levels/rose/rose_reception_desk_b.wl2?/rose_reception_desk_d_ornament.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0156521348C0A76F",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/cameras/cameras.template?/gc_cc_stand_bond_thrown_from_ledge.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01578B8F6B7A2F0C",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/photomode/photomode_templates.template?/setphotomodeforbidden.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01D13636A8C8D96B",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/effects/templates/animals/fx_crows.template?/fx_e_crows_burst.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01ED718AF8EC5A48",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/props/nature/rocks_a.template?/quixel_aset_nature_rock_xl_venrdcgga_d.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01D9B42F180D06A7",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_pro/items/geometry/melee/baseball_a.wl2?/baseball_a.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "016BC7D049632E0D",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/kits/military/mi6_container_window_frame_shutter_a.wl2?/mi6_container_window_frame_shutter_opaque_a.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01E265B621CB8D99",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/items/templates/firearms/firearms.template?/firearm_resourcedefinition_shotgun_semiauto_a.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01FD9CB39464741A",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/scenes/tsim/activities/rose_tigerbeetle_altversion_reverse.brick].entitytype",
+    "gameFlags": 1,
+    "subType": "brick"
   },
   {
     "hash": "01FF83F30A775992",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/effects/templates/fire/fire.template?/fx_e_flare_race_smolder.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01045EE0F83129E9",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/props/electronics/drone_cable_a.wl2?/drone_cable_a.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "015083EACF94E5FB",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "facialwrinklemaps_rain",
+    "subType": "template"
   },
   {
     "hash": "016B87253E6F635B",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/npc_spawners/npc_spawners_pepper.template?/pepper_specialist_damiensec_armed_mr.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "014FC568BA7F0327",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/actors/male_reg/individuals/_maincast/bond/kits/kit_nsw2_exclusive.template?/pocketsquare_kit.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "010B18C3DB69801B",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/props/paper/books_a.template?/polyhaven_book_softover_22.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01ADD30E9FA9EFE7",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/levels/rose/rose_chase_guardrails_right_a.wl2?/rose_guardrail_right_075.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "018E01EDFEC742BA",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/actors/male_reg/individuals/_maincast/bond/kits/kit_ceo_jacket/geometry_deformation/kit_ceo_jacket/kit_ceo_jacket.gar?/ceo_tshirt_kit.weighted.fbx](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0148C16AE716BAE0",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/items/templates/quest_items/quest_items.template?/quest_item_online_keycard_a.entitytemplate].entitytemplate",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "014F6922A176D5F7",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/tsim/tsim_helpers.template?/tsim_respawn_humanoid.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "015CD0B3919E888E",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/setpieces/setpieces_tsim.template?/hay_bales_destructible_round_stack_b.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01BE412D3F74DBC6",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/scenes/tsim/activities/tigerbeetle_lighting_bricks/lighting_rose_tigerbeetle_day_streaming_override_02.brick].entitytype",
+    "gameFlags": 1,
+    "subType": "brick"
   },
   {
     "hash": "01FBBE874AD77771",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/effects/templates/explosions/explosions.template?/fx_explosion_spark_trail_missile_tacsim.entitytemplate].entitytemplate",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0140CE56303167D3",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/photomode/photomode_templates.template?/setphotomoderestricted.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01A88DCA09E532A6",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/vehicles/geometry/wheels_a.wl2?/english_suv_a_wheel_knt.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01C69E140A6D77D0",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/scenes/tsim/activities/rose_tigerbeetle_streaming_override_02.brick].entitytype",
+    "gameFlags": 1,
+    "subType": "brick"
   },
   {
     "hash": "016F5F0DE1D8E448",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/props/electronics/audio_video_film_equipment_a.template?/ramcart_controller.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01E20F91F984E25F",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/items/templates/throwable_items/throwable_items.template?/throwable_instance_poolball_08.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "011178D1EC234EAA",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/vehicles/geometry/vietnamese_boat_a/vietnamese_tourist_boat_b.wl2?/vietnamese_tourist_b_sail_front.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01D404DDA944AEFD",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/sound/templates/sound_vehicles_knt.template?/snd_vehicle_base_npc_tacsim.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01968EEABCE0B25C",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/ai/archetypes/rangedcombataccuracyconfigurations.template?/007_soldier.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01544027869680FC",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/actors/fem_reg/individuals/_maincast/selinatan/head/geometry_deformation/head_selinatan/head_selinatan.gar?/head_selinatan.weighted.fbx](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "012540A14C19E8D6",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/levels/rose/rose_ext_forest_occluder_cliffs/rose_ext_forest_occluder_cliff_i_b.wl2?/rose_ext_forest_occluder_cliff_i.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "018998F0800F1B61",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/scenes/tsim/activities/rose_tigerbeetle_streaming_override_03_reversed.brick].entitytype",
+    "gameFlags": 1,
+    "subType": "brick"
   },
   {
     "hash": "014AA7F209A7440C",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/levels/rose/rose_chase_guardrails_right_a.wl2?/rose_guardrail_right_069.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01A71AFDACE4CE6A",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/characters/templates/attachables/glasses.template?/armor_cosmetic_goggles_ski.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "013D114F3524D0BB",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/props/sculptures/sculpture_facade_ornate_d.wl2?/sculpture_facade_ornate_d.prim](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "018E61E204F19DA2",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/setpieces/setpieces_tsim.template?/setpiece_tacsim_tigerbeetle_woodencrate_1x05x2.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "016DAFEFA7FDD93F",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/geometry/props/garden/haybale_round_a_destructible.wl2?/haybale_round_wrapped_a_dynamic.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01B8FF0393856F80",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/scenes/gyms/vehicle_templates_gym.template?/aston_martin_valhalla_tacsim_template.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "0167CB83701BF7BB",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/setpieces/setpieces_tsim.template?/hay_bales_destructible_round_stack_a.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01744932A4A5D836",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/setpieces/setpieces_tsim.template?/hay_bales_destructible_stack_a.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "013B7A06043146B2",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/_licensed/quixel/geometry/foliage/quixel_fan_palm_a.wl2?/quixel_fan_palm_b_half.prim](materials).entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01B7E62777E80D15",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/items/act_props.template?/actprop_eavesdrop_smartphone_a.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01FBAF41222A4E29",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/lighting/templates/postfiltercontroller.template?/pfp_127_marigold_darknight_outside.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01BDCEC5AC90C61A",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/scenes/tsim/activities/lotus_dungbeetle.brick].entitytype",
+    "gameFlags": 1,
+    "subType": "brick"
   },
   {
     "hash": "01A088FD47717C68",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/design/tsim/tsim_helpers.template?/keyword_tsim_aicarsuv.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "010B6286E5B18AC3",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_pro/environment/geometry/props/harbour_props/miami_boat_vice_a.wl2?/miami_boat_vice_a.prim^miami_boat_vice_a_background.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01F23B793C6ABD75",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_knt/environment/templates/levels/pro/colombia/mansion/colombian_mansion_assets_a.template?/metal_armco_c.entitytemplate].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "010A78BCF3E4B092",
-    "path": "",
-    "gameFlags": 1
+    "path": "[assembly:/_pro/environment/geometry/levels/bulldog/bulldog_carpet_stairs_a.wl2?/bulldog_circular_carpet_a.prim].entitytype",
+    "gameFlags": 1,
+    "subType": "template"
   },
   {
     "hash": "01D339E25F5DFD7A",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "dl_heavycosmeticrigidbody",
+    "subType": "template"
   }
 ]

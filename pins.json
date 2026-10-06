@@ -6764,6 +6764,10 @@
             {
                 "pin": "640985878",
                 "description": ""
+            },
+            {
+                "pin": "3431650625",
+                "description": ""
             }
         ],
         "out": []
@@ -30115,5 +30119,372 @@
                 "description": ""
             }
         ]
+    },
+    {
+        "hash": "002E9838B6906257",
+        "path": "[modules:/zskipaicoverrecomputationbox.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "0033BD15F6ACA635",
+        "path": "[modules:/zbasisdifficultylevelactiveconditionentity.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "003A728FDB6FA08B",
+        "path": "[modules:/zclentityrefarrayadduniqueentity.class].pc_entitytype",
+        "in": [
+            {
+                "pin": "Do",
+                "description": ""
+            }
+        ],
+        "out": []
+    },
+    {
+        "hash": "00B6351533C52544",
+        "path": "[modules:/zclgamemanagerdebugenablesavetofile.class].pc_entitytype",
+        "in": [
+            {
+                "pin": "Do",
+                "description": ""
+            }
+        ],
+        "out": []
+    },
+    {
+        "hash": "00BDA9F16FCE90CD",
+        "path": "[modules:/zclgamemanagerdisableoutfitcustomization.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "0016BFE553605EAE",
+        "path": "[modules:/zclgamemanagergetinonlinehubfrommaincampaign.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "009879DB101F8B6D",
+        "path": "[modules:/zclgamemanageriscampaignoutfitcustomized.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "00DC3F81CC3379AE",
+        "path": "[modules:/zclgamemanagerprofileupdated.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "002826AD04FF6BB9",
+        "path": "[modules:/zclgamemanagersetinonlinehubfrommaincampaign.class].pc_entitytype",
+        "in": [
+            {
+                "pin": "Do",
+                "description": ""
+            }
+        ],
+        "out": []
+    },
+    {
+        "hash": "00CBF64F1393248E",
+        "path": "[modules:/zclgetcurrentpfchromaticaberration.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "00AC3994D6F69339",
+        "path": "[modules:/zclgetcurrentpfdistortionwobble.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "00B0984114C6E349",
+        "path": "[modules:/zclgetcurrentpfgaussianblur.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "00EA714F54521E32",
+        "path": "[modules:/zclgetcurrentpfintensity.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "0072C9C84D1FC8FF",
+        "path": "[modules:/zclgetcurrentpfmanualexposure.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "0072E0AF32F486F7",
+        "path": "[modules:/zclgetcurrentpfradialblur.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "00C613202A3FEF9A",
+        "path": "[modules:/zclgetgameplayfinalviewcameratransform.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "00229202A27F551C",
+        "path": "[modules:/zclgetlinkedentityreffromentityref.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "007DE8854B144C05",
+        "path": "[modules:/zclgetoutfitfactoryfromhumanoidentity.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "0048F2C2C2483CBC",
+        "path": "[modules:/zclgetplayergroundposition.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "00C3BA00BFB7F8DE",
+        "path": "[modules:/zclgyrostate.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "00F6E9CA2208F8F3",
+        "path": "[modules:/zenablephotomode.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "001136710B3FABAB",
+        "path": "[modules:/zkntgadgetoutcomemodifier.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "002207EEF451626F",
+        "path": "[modules:/zuiphotomodeoptionbaseentity.class].pc_entitytype",
+        "in": [
+            {
+                "pin": "2602529455",
+                "description": ""
+            }
+        ],
+        "out": []
+    },
+    {
+        "hash": "00805F8B30F6AFBA",
+        "path": "[modules:/zuiphotomodetabentity.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "00314267329F886A",
+        "path": "[modules:/zuiphotomodemanager.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "00F71CD7A7E8C3EC",
+        "path": "[modules:/zgameuiphotomodemanager.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "00C5450DE0274E8F",
+        "path": "[modules:/zgethumanoidpathonnavmesh.class].pc_entitytype",
+        "in": [
+            {
+                "pin": "End",
+                "description": ""
+            },
+            {
+                "pin": "Start",
+                "description": ""
+            }
+        ],
+        "out": []
+    },
+    {
+        "hash": "00A566A9F3195737",
+        "path": "[modules:/zgetvirtualcameratransformentity.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "000FADFEC9D63B3F",
+        "path": "[modules:/zinputdefinition_gesture_false.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "00FF6C02E3E60554",
+        "path": "[modules:/zinputdefinition_gesture_true.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "002F7912BAAD3D3F",
+        "path": "[modules:/zinteractionuiprovider_exit.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "00CA69933B7DA39B",
+        "path": "[modules:/zisgameobjectiveuidisplayedentity.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "00CA306AE0B89070",
+        "path": "[modules:/zisletterboxactiveentity.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "00B467529D03C2D2",
+        "path": "[modules:/zisphotomodecameramodeactionactiveentity.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "003C618AC5474D27",
+        "path": "[modules:/zistextsizemodeactive.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "003F21D3B023CB84",
+        "path": "[modules:/zknthumanoidcharactertrigger.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "00852461FD28FB10",
+        "path": "[modules:/zkntgameuimanagercustomdataaspect.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "000A019A9C459A84",
+        "path": "[modules:/zkntmissiontimermodifierentity.class].pc_entitytype",
+        "in": [
+            {
+                "pin": "2863324261",
+                "description": ""
+            }
+        ],
+        "out": []
+    },
+    {
+        "hash": "00965E42DF794137",
+        "path": "[modules:/zkntracemissionprogressionentity.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "009B3F519CD28917",
+        "path": "[modules:/ztriggerclothreset.class].pc_entitytype",
+        "in": [
+            {
+                "pin": "Do",
+                "description": ""
+            }
+        ],
+        "out": []
+    },
+    {
+        "hash": "00D8DD15B3CC7EC1",
+        "path": "[modules:/zuianimationmanagerentity.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "00211405C489A16C",
+        "path": "[modules:/zuiphotomodeoptioncolorentity.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "0081B44DCBEDBDE7",
+        "path": "[modules:/zuiphotomodeoptionlistitementity.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "00EDDB9994D30A69",
+        "path": "[modules:/zuiphotomodeoptionlistactionitementity.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "00050255517417DC",
+        "path": "[modules:/zuiphotomodeoptionlistentity.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "00D835A5AF6CB37D",
+        "path": "[modules:/zuiphotomodeoptionsliderentity.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "00A4A3BF7CB5B1F1",
+        "path": "[modules:/zuiphotomodeoptiontoggleentity.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "004EE201ABE96B2B",
+        "path": "[modules:/zupdatephotomodecameradithering.class].pc_entitytype",
+        "in": [
+            {
+                "pin": "Do",
+                "description": ""
+            }
+        ],
+        "out": []
+    },
+    {
+        "hash": "00204DA8E72AB903",
+        "path": "[modules:/zvehiclemotorbikeascarconfigentity.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "0086A24E3B79E149",
+        "path": "[modules:/zvirtualcamerabehaviorboxconstraintentity.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "00601A983E3CD0CE",
+        "path": "[modules:/zvirtualcamerabehaviorfreemovementcollisionentity.class].pc_entitytype",
+        "in": [
+            {
+                "pin": "Reset",
+                "description": ""
+            }
+        ],
+        "out": []
+    },
+    {
+        "hash": "0057DC843C685B46",
+        "path": "[modules:/zvirtualcamerabehaviorroomconstraintentity.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "001F236B5065E2A6",
+        "path": "[modules:/zvirtualcamerabehaviorsphereconstraintentity.class].pc_entitytype",
+        "in": [],
+        "out": []
     }
 ]

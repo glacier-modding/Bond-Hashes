@@ -8097,7 +8097,8 @@
   {
     "hash": "0146889BC7B72A71",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "cubelut_rose_midday_outside"
   },
   {
     "hash": "01425028047DF03D",
@@ -16787,7 +16788,8 @@
   {
     "hash": "0111794D253009AC",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "cubelut_pf_black_death"
   },
   {
     "hash": "01F8D69B7C10B115",
@@ -21417,7 +21419,8 @@
   {
     "hash": "0117B456DA5DDE2E",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "cubelut_orchid_day_overcast_inside"
   },
   {
     "hash": "018C74784B921DD4",
@@ -21832,7 +21835,8 @@
   {
     "hash": "014A435CDE58ABD7",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "cubelut_rose_midday_inside"
   },
   {
     "hash": "0180B91F8996BCA9",
@@ -28057,7 +28061,8 @@
   {
     "hash": "01A6F687B5756190",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "cubelut_lotus_sunshine"
   },
   {
     "hash": "0167B20CCE7222A8",
@@ -28192,7 +28197,8 @@
   {
     "hash": "0197365E5A9BDE6D",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "cubelut_lotus_goldenhour"
   },
   {
     "hash": "0156CD958D3A4A73",
@@ -29327,7 +29333,8 @@
   {
     "hash": "01FEBDECFB0B9C34",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "cubelut_pf_highcontrast_desaturate"
   },
   {
     "hash": "01F0CC70C7F3CAC0",
@@ -30632,7 +30639,8 @@
   {
     "hash": "019A587B0C750AA5",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "cubelut_orchid_buttercup_day_outside"
   },
   {
     "hash": "01303E327BB34DDA",
@@ -31907,7 +31915,8 @@
   {
     "hash": "014CB51FFF8E2945",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "cubelut_dahlia_sunset_inside"
   },
   {
     "hash": "01FC976BC0CDA33C",
@@ -35217,7 +35226,8 @@
   {
     "hash": "01A41F92783BD5EC",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "cubelut_lotus_movein"
   },
   {
     "hash": "01C54AB5F97DAF17",
@@ -35387,7 +35397,8 @@
   {
     "hash": "01BE868E16925251",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "cubelut_orchid_day_overcast_outside"
   },
   {
     "hash": "0196FC3A61004166",
@@ -38012,7 +38023,8 @@
   {
     "hash": "01CBD381E3859D91",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "cubelut_lotus_midday"
   },
   {
     "hash": "01270FA2B7476E1A",
@@ -38932,7 +38944,8 @@
   {
     "hash": "01EC8577F5DDAA2E",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "cubelut_dahlia_day"
   },
   {
     "hash": "01225AB34FB43A05",
@@ -51652,7 +51665,8 @@
   {
     "hash": "01E4D15432B8CBA0",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "cubelut_dahlia_sunset_outside"
   },
   {
     "hash": "01A60220324CCD86",
@@ -52387,7 +52401,8 @@
   {
     "hash": "012A4872FAAABBE2",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "cubelut_magnolia_night_quarry"
   },
   {
     "hash": "01F4E02DD1C37BAE",
@@ -54067,7 +54082,8 @@
   {
     "hash": "015D2461543BFC98",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "cubelut_pf_agencyfocus"
   },
   {
     "hash": "01F7ADA7A9904129",
@@ -55677,7 +55693,8 @@
   {
     "hash": "010F4012BC4AD774",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "cubelut_pepper_cloudy_inside"
   },
   {
     "hash": "011BE82511834134",
@@ -57427,7 +57444,8 @@
   {
     "hash": "0112BEEA87F6E571",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "cubelut_pepper_apartment_night"
   },
   {
     "hash": "011991A0517960C1",
@@ -71697,7 +71715,8 @@
   {
     "hash": "017FA2E89C84754C",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "cubelut_pf_default"
   },
   {
     "hash": "0144209990B13DAB",
@@ -79412,7 +79431,8 @@
   {
     "hash": "0176E7E46F3F5EA9",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "cubelut_pf_white"
   },
   {
     "hash": "017BC9AC877181C9",
@@ -79822,7 +79842,8 @@
   {
     "hash": "01B50C3DB5B13E6F",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "cubelut_magnolia_night_resort"
   },
   {
     "hash": "01CD75FF0F926223",
@@ -82107,7 +82128,8 @@
   {
     "hash": "01A13C7A2454F871",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "cubelut_bluebell"
   },
   {
     "hash": "011CB6C916AD06A4",
@@ -83362,7 +83384,8 @@
   {
     "hash": "013C4D5573DE915B",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "cubelut_mi6"
   },
   {
     "hash": "018705573AE54BD8",
@@ -83847,7 +83870,8 @@
   {
     "hash": "01CA828171187040",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "cubelut_pf_drunk"
   },
   {
     "hash": "012866385CC7A361",
@@ -89607,7 +89631,8 @@
   {
     "hash": "0133BB8461202BC6",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "cubelut_pf_timeslowdownactive_lastkill"
   },
   {
     "hash": "010CC176733BBC6B",
@@ -91402,7 +91427,8 @@
   {
     "hash": "016FCD79386243D3",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "cubelut_dahlia_crocpit"
   },
   {
     "hash": "01E1C80AD2E9635C",
@@ -93287,7 +93313,8 @@
   {
     "hash": "0153EC6ECE3EA8BA",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "cubelut_pf_sickness"
   },
   {
     "hash": "01AB86EED1971653",
@@ -103847,7 +103874,8 @@
   {
     "hash": "014B90896234A1E0",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "cubelut_pf_tacsim_missiontransition"
   },
   {
     "hash": "0181C53727313398",
@@ -123452,7 +123480,8 @@
   {
     "hash": "0198BBE54B716C2B",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "cubelut_magnolia_day"
   },
   {
     "hash": "011198AC089B7C9F",
@@ -135407,7 +135436,8 @@
   {
     "hash": "012966484B3D672C",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "cubelut_lotus_bluehour"
   },
   {
     "hash": "01C289E046CF4F94",
@@ -142047,7 +142077,8 @@
   {
     "hash": "01031565C8DD72C2",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "cubelut_pf_blinded_drone"
   },
   {
     "hash": "0176FC07DDF01526",
@@ -142097,7 +142128,8 @@
   {
     "hash": "01F3AE4D285D371A",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "cubelut_pf_blinded"
   },
   {
     "hash": "01C15D71D8A4375C",
@@ -143502,7 +143534,8 @@
   {
     "hash": "0110B441D9F45688",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "cubelut_pepper_cloudy_outside"
   },
   {
     "hash": "01D63D9C7834B937",
@@ -143567,7 +143600,8 @@
   {
     "hash": "01E707211415C98A",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "cubelut_clover"
   },
   {
     "hash": "013D83F6EB3D34BA",
@@ -145407,7 +145441,8 @@
   {
     "hash": "0138345030255F0C",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "cubelut_pf_blinded_01"
   },
   {
     "hash": "016774D9BEDBCA5E",
@@ -151402,7 +151437,8 @@
   {
     "hash": "017F601BC06FB9C6",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "cubelut_lotus_night"
   },
   {
     "hash": "015294A5F9A81018",
@@ -153217,7 +153253,8 @@
   {
     "hash": "0119BB075CAE3C6B",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "cubelut_lotus_overcast"
   },
   {
     "hash": "01756DEB82ABD299",
@@ -153402,7 +153439,8 @@
   {
     "hash": "013BF550DBDB83EF",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "cubelut_default"
   },
   {
     "hash": "01561943FDE06645",
@@ -156002,7 +156040,8 @@
   {
     "hash": "01EADE21DD62B642",
     "path": "",
-    "gameFlags": 1
+    "gameFlags": 1,
+    "hint": "cubelut_pepper_cloudy_outside_drive"
   },
   {
     "hash": "01FEF9C43AFEEAA4",

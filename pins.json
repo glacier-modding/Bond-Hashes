@@ -258,7 +258,7 @@
         "path": "[modules:/gameplay.zreadablenavigablepath.class].entitytype",
         "in": [
             {
-                "pin": "2267551988",
+                "pin": "CalculatePath",
                 "description": ""
             }
         ],

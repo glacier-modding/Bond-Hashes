@@ -251966,5 +251966,75 @@
     "path": "[assembly:/_knt/design/setpieces/setpieces_tsim.template?/setpiece_tacsim_tigerbeetle_woodencrate_1x05x2.entitytemplate].entityblueprint",
     "gameFlags": 1,
     "subType": "template"
+  },
+  {
+    "hash": "01814EEC2100B237",
+    "path": "",
+    "gameFlags": 1
+  },
+  {
+    "hash": "012DF799C9FEC644",
+    "path": "",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01AF6ECFA19D2430",
+    "path": "",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0164C98163933043",
+    "path": "",
+    "gameFlags": 1
+  },
+  {
+    "hash": "013C2CD891F78F6B",
+    "path": "",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0182398CF106E9CC",
+    "path": "",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01D96AE56D267EDD",
+    "path": "",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01355818A50EE76F",
+    "path": "",
+    "gameFlags": 1
+  },
+  {
+    "hash": "013BE5CFEA4AA55B",
+    "path": "",
+    "gameFlags": 1
+  },
+  {
+    "hash": "019B42DF4507B2AF",
+    "path": "",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01BDDBC1305EC6BE",
+    "path": "",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01F76597ADC49080",
+    "path": "",
+    "gameFlags": 1
+  },
+  {
+    "hash": "016D25279B505615",
+    "path": "",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01E58ED41638DC15",
+    "path": "",
+    "gameFlags": 1
   }
 ]

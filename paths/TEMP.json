@@ -354199,5 +354199,75 @@
     "gameFlags": 1,
     "hint": "dl_heavycosmeticrigidbody",
     "subType": "template"
+  },
+  {
+    "hash": "011A5E6F5ED49EFD",
+    "path": "",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01288A0DBD88AC26",
+    "path": "",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01EC0E1088526B32",
+    "path": "",
+    "gameFlags": 1
+  },
+  {
+    "hash": "013A0D4F4F072DF7",
+    "path": "",
+    "gameFlags": 1
+  },
+  {
+    "hash": "012E349A9441FA39",
+    "path": "",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01BA94A32D16F253",
+    "path": "",
+    "gameFlags": 1
+  },
+  {
+    "hash": "012E7796665777FF",
+    "path": "",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01EED55A358C0567",
+    "path": "",
+    "gameFlags": 1
+  },
+  {
+    "hash": "019E505F668FF7A3",
+    "path": "",
+    "gameFlags": 1
+  },
+  {
+    "hash": "012F81AD95C929CA",
+    "path": "",
+    "gameFlags": 1
+  },
+  {
+    "hash": "012D83DCAA0A0CCF",
+    "path": "",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01825CA82CEE8FD7",
+    "path": "",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01D4E0ED8CF5CDFF",
+    "path": "",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01FF6D8B3AE25BA5",
+    "path": "",
+    "gameFlags": 1
   }
 ]

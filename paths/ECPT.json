@@ -41893,5 +41893,30 @@
     "hash": "016F4AEDE3FEC68C",
     "path": "[assembly:/_pro/environment/geometry/kits/shipyard/shipyard_modules_b.wl2?/gantry_crane_b_supportconnection_b.prim](material_overwrite).entitytype",
     "gameFlags": 1
+  },
+  {
+    "hash": "01E5118A66FE2B99",
+    "path": "",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01451EADDB4BCA24",
+    "path": "",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0181E1A46D144CA6",
+    "path": "",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01BA94091871CFC3",
+    "path": "",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0147DBB1818D1A99",
+    "path": "",
+    "gameFlags": 1
   }
 ]

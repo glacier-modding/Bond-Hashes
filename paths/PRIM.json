@@ -164833,5 +164833,30 @@
     "hash": "0118EC2324057A7C",
     "path": "[assembly:/_knt/characters/actors/male_reg/parts_muscular/kits/dahlia/kit_dahlia_pirate_leader/geometry_deformation/kit_dahlia_pirate_leader_rigidbody.wl2?/glasses_kit_dahlia_pirate_leader_rigid.prim].prim",
     "gameFlags": 1
+  },
+  {
+    "hash": "01F80A4448B1728B",
+    "path": "",
+    "gameFlags": 1
+  },
+  {
+    "hash": "011CC772413BEFDC",
+    "path": "",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01BB41880AC02DBC",
+    "path": "",
+    "gameFlags": 1
+  },
+  {
+    "hash": "017664F722D94484",
+    "path": "",
+    "gameFlags": 1
+  },
+  {
+    "hash": "01415C75BB405DEE",
+    "path": "",
+    "gameFlags": 1
   }
 ]

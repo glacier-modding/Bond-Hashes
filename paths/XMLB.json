@@ -3111,467 +3111,467 @@
   },
   {
     "hash": "0143EB2E5A064854",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/aurora/pages/pathtracing/pathtracing_page.layout.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "016BC9BB9AE61282",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/aurora/pages/pathtracing/pathtracing_page.bs.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "0127B332E2FD5767",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/aurora/pages/settings/elements/generic/loadable_options/option_graphics_pathtracing.component.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "01502909B3419C9A",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/aurora/pages/photomode/components/photomode_optionoverlay.component.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "01525C3D10C1E170",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/deprecated/elements/settings/graphics/graphics_maintab.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "017D800F0CE9ABCD",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/deprecated/elements/settings/graphics/items/hdr.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "01F42EE1E7C4D7B7",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/aurora/pages/photomode/components/options/photomodeoptionbase.component.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "0165961C658AC8A8",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/aurora/pages/mainmenu/popups/storycomplete/storycompletepopup.floatingcontext.layout.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "01EC70279F597ACA",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/deprecated/elements/settings/playeraid/playeraid_maintab_data.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "01E287E799082B20",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/deprecated/elements/settings/graphics/graphics_items_console.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "01DE32AA0CB9C9E5",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/deprecated/elements/settings/generic/option_list_generic.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "01EC9B2652396FFB",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/aurora/pages/photomode/components/photomode_optionslist.component.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "0148F6257C64F425",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/test/menutext_wordwarp_test/base_page.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "0170A8FD5F559F8C",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/deprecated/elements/settings/generic/option_onoff_int_data.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "012AC3127EE464FE",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/aurora/pages/journal/journal_tab_outfit.include.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "01035B65BC5A78EA",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/deprecated/elements/settings/generic/section_title.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "01F4AEBA3A1D36F3",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/aurora/pages/photomode/components/options/photomodeoptionlist.component.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "016C889F0FA2FAA4",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/aurora/pages/photomode/components/photomode_gridlines.component.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "01D15CB6B5B167A9",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/aurora/pages/mainmenu/popups/storycomplete/storycompletepopup.functions.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "014ED24EDEBF0424",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/deprecated/elements/settings/language/components/subtitlechannel_button.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "0161E19179FB2BA4",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/aurora/pages/photomode/photomodepage.layout.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "0138A1FE126B8995",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/aurora/pages/ioiaccount/onlineioiaccount_page.layout.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "01AA2BB60E5295F1",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/deprecated/pages/inputremapping/listeneroverlay/listener_overlay_button.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "01D66F352DEF210A",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/deprecated/elements/settings/generic/option_list_int_value_databinding.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "012B10B3117300A7",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/deprecated/elements/settings/inputremapping/inputremapping_generic_options.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "01C911E748C33317",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/deprecated/elements/settings/accessibility/accessibility_maintab.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "017A74BE08F3C0D6",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/deprecated/elements/settings/generic/optionsinfo_databinding.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "01DA3CD362073758",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/aurora/pages/gadgetcart/components/gadgetcart_selectionlist.component.bs.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "011804CE57DA0023",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/aurora/pages/photomode/components/options/photomodeoptionlistactionitem.component.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "01AED8C9A86DFF4E",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/deprecated/elements/settings/controller/components/controller_deadzone_slider.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "012737019A2E9929",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/deprecated/elements/settings/audio/audio_data.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "01DAD534ACE1DA3D",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/deprecated/elements/settings/inputremapping/inputremapping_input_presetholdflag.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "01C1D447E581806B",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/aurora/pages/gadgetcart/components/gadgetcart_selectionlist.component.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "01E3BA1842E724E9",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/aurora/pages/photomode/components/photomode_cameracontrols.component.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "01C4FD4C9E36AEF4",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/aurora/pages/tacticalsim/components/tacticalsims_leadeboarditemdetails.component.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "016B05FAA3242D23",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/deprecated/elements/settings/language/language_maintab.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "012CA62C7606BA96",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/deprecated/elements/settings/generic/option_onoff_bool_data.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "01F790FC872EF094",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/deprecated/elements/settings/generic/option_list_generic_value_databinding.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "01EA2E7231570B46",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/deprecated/elements/settings/generic/option_list_int_databinding.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "01E7CCE78BC094E1",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/aurora/pages/photomode/components/options/photomodeoptionbuttonbase.component.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "01A7C199AC7A6573",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/aurora/pages/photomode/components/photomode_optionoverlay.bs.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "0108768A9F2C8B28",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/deprecated/elements/settings/generic/option_list_string_value_databinding.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "01338AE663D7C861",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/deprecated/elements/settings/controller/controller_maintab.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "0164304479178674",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/deprecated/elements/settings/inputremapping/inputremapping_input_presetflag.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "01E5E189EF718077",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/deprecated/elements/settings/audio/audio_maintab.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "0155AE44E242D9E2",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/aurora/pages/photomode/components/options/photomodeoptiontoggle.component.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "0124652ABF341604",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/aurora/pages/photomode/components/options/photomodeoptionlistvalue.component.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "017366DCBDE59922",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/aurora/pages/photomode/photomodepage.bs.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "01B7E5F6647D4814",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/deprecated/elements/settings/quitgame_item.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "015DEABD2BBB65EE",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/deprecated/elements/settings/settings_init_data.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "018D23FE3204A180",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/aurora/pages/photomode/components/options/photomodeoptionvalue.component.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "01BAD955932FCD3A",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/deprecated/elements/settings/accessibility/components/glowmode_button.data.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "0165E61198A6825F",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/aurora/pages/photomode/components/options/photomodeoptionslider.component.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "01B149A011776CEC",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/deprecated/elements/settings/generic/section_separator.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "0102EB5AD72D25BC",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/aurora/pages/tacticalsim/tacticalsims_helper.bs.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "016B8F583DE1770C",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/deprecated/elements/settings/generic/option_colorpicker_data.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "01849FA603155F7A",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/deprecated/elements/settings/generic/option_onoff_bool.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "01AA82D4252C853E",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/deprecated/elements/settings/playeraid/playeraid_maintab.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "01746F76708CDFB1",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/aurora/pages/photomode/components/options/photomodeoptioncolor.bs.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "0106AB39A6CC3DE3",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/aurora/pages/photomode/components/photomode_tabicon.component.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "013DF31F0D797480",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/deprecated/elements/settings/generic/option_colorpicker.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "0128E2A702898156",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/deprecated/elements/settings/generic/option_list_string.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "01875CEFDC740133",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/deprecated/elements/settings/subtitles/subtitles_maintab.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "0119E50ABB8F46ED",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/deprecated/elements/settings/generic/option_list_int.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "018AAB635E48D40A",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/aurora/pages/photomode/components/options/photomodeoptionoverlaybutton.component.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "01CBCEE443E94ED8",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/deprecated/elements/settings/generic/option_slider.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "01926DCAF93F76EB",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/functions/campaignfunctions.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "01AF31C3BE0F844C",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/deprecated/elements/settings/graphics/graphics_items_console_data.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "019DA90210A651EA",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/deprecated/elements/settings/options_module.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "019D9E012B23CE91",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/deprecated/elements/settings/generic/option_list_generic_databinding.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "01E22D79CA01933A",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/aurora/pages/photomode/components/options/photomodeoptionhelpers.functions.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "01DD90C2004544FF",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/deprecated/pages/inputremapping/components/bindingnotifications.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "0167C9284F8E55DD",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/deprecated/elements/settings/generic/optionsinfo.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "01B9BB76BB4B0D07",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/aurora/pages/photomode/components/options/photomodeoptiontoggle.bs.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "01691DEC81FC8D71",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/deprecated/elements/settings/graphics/graphics_items_pc.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "013072D4278BBA7F",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/aurora/pages/photomode/components/options/photomodeoptionslider.bs.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "018A20106726B96D",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/deprecated/elements/settings/accessibility/components/glowmode_button.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "01171DD8BB31474E",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/aurora/pages/photomode/components/photomode_cameracontrols.bs.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "012A5E91A49578D8",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/deprecated/elements/settings/generic/option_slider_data.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "01970A471980F567",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/aurora/pages/photomode/components/options/photomodeoptionloader.component.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "01540B02457D3AB7",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/deprecated/elements/settings/generic/restoredefaults.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "01502022479E6179",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/deprecated/pages/inputremapping/components/bindingtabitem.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "015AE0AD66B31FE1",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/deprecated/elements/settings/language/components/subtitlechannel_button.bs.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "01FDB17FF1BBA56E",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/deprecated/elements/settings/generic/option_onoff_int.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "010DAF5B490F6E75",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/deprecated/elements/settings/audio/volumeslider.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "017FE83A6659489D",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/deprecated/elements/settings/graphics/graphics_maintab_data.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "013A83AF2CF13ED6",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/deprecated/elements/settings/quitgame_item_data.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "01A44DF8040AB511",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/deprecated/elements/settings/generic/option_list_string_databinding.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "01559161D02EF0C5",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/aurora/pages/photomode/components/options/photomodeoptioncolor.component.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "014CCEEF038C8D53",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/deprecated/elements/settings/generic/restoredefaults_data.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "017C01CBE43BE749",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/aurora/pages/mainmenu/popups/storycomplete/storycomplete_promotile.component.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "017016798EE5DABC",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/aurora/pages/photomode/components/options/photomodeoptionlist.bs.xml].bechaml",
     "gameFlags": 1
   },
   {
     "hash": "01BB88A5A78AAE37",
-    "path": "",
+    "path": "[assembly:/_knt/online/default/cloudstorage/resources/menusystem/deprecated/elements/settings/mousekeyboard/mousekeyboard_maintab.xml].bechaml",
     "gameFlags": 1
   }
 ]

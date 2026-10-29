@@ -251969,72 +251969,72 @@
   },
   {
     "hash": "01814EEC2100B237",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/individuals/_maincast/bond/kits/kit_greystandard_suit/geometry_deformation/kit_greystandard_suit/kit_greystandard_suit.gar?/vest_greystandard.weighted.fbx](materials).entityblueprint",
     "gameFlags": 1
   },
   {
     "hash": "012DF799C9FEC644",
-    "path": "",
+    "path": "[assembly:/_knt/characters/templates/actors/male_reg/individuals/_maincast/bond/kits/kit_greystandard_suit.template?/vest_greystandard.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
     "hash": "01AF6ECFA19D2430",
-    "path": "",
+    "path": "[assembly:/_knt/characters/templates/actors/male_reg/individuals/_maincast/bond/kits/kit_greystandard_suit.template?/tie_greystandard.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
     "hash": "0164C98163933043",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/individuals/_maincast/bond/kits/kit_greystandard_suit/geometry_deformation/kit_greystandard_suit/kit_greystandard_suit.gar?/jacket_greystandard.weighted.fbx](materials).entityblueprint",
     "gameFlags": 1
   },
   {
     "hash": "013C2CD891F78F6B",
-    "path": "",
+    "path": "[assembly:/_knt/characters/templates/actors/male_reg/individuals/_maincast/bond/kits/kit_greystandard_suit.template?/shirt_greystandard.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
     "hash": "0182398CF106E9CC",
-    "path": "",
+    "path": "[assembly:/_knt/characters/templates/actors/male_reg/individuals/_maincast/bond/kits/kit_greystandard_suit.template?/jacket_greystandard.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
     "hash": "01D96AE56D267EDD",
-    "path": "",
+    "path": "[assembly:/_knt/characters/templates/outfits/_maincast/outfits_bond.template?/outfit_reward_noname_hero_bond_male_reg_v0.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
     "hash": "01355818A50EE76F",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/individuals/_maincast/bond/kits/kit_greystandard_suit/geometry_deformation/kit_greystandard_suit/kit_greystandard_suit.gar?/pants_greystandard.weighted.fbx](materials).entityblueprint",
     "gameFlags": 1
   },
   {
     "hash": "013BE5CFEA4AA55B",
-    "path": "",
+    "path": "[assembly:/_knt/design/outfits/outfit_definitions.template?/outfitdefinition_ulc_greystandard_new.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
     "hash": "019B42DF4507B2AF",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/individuals/_maincast/bond/kits/kit_greystandard_suit/geometry_deformation/kit_greystandard_suit/kit_greystandard_suit.gar?/shirt_greystandard.weighted.fbx](materials).entityblueprint",
     "gameFlags": 1
   },
   {
     "hash": "01BDDBC1305EC6BE",
-    "path": "",
+    "path": "[assembly:/_knt/design/outfits/outfit_definitions.template?/outfitdefinition_midnight_recon.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
     "hash": "01F76597ADC49080",
-    "path": "",
+    "path": "[assembly:/_knt/characters/actors/male_reg/individuals/_maincast/bond/kits/kit_greystandard_suit/geometry_deformation/kit_greystandard_suit/kit_greystandard_suit.gar?/tie_greystandard.weighted.fbx](materials).entityblueprint",
     "gameFlags": 1
   },
   {
     "hash": "016D25279B505615",
-    "path": "",
+    "path": "[assembly:/_knt/characters/templates/actors/male_reg/individuals/_maincast/bond/kits/kit_greystandard_suit.template?/pants_greystandard.entitytemplate].entityblueprint",
     "gameFlags": 1
   },
   {
     "hash": "01E58ED41638DC15",
-    "path": "",
+    "path": "[assembly:/_knt/characters/templates/outfits/_maincast/outfits_bond.template?/outfit_reward_midnight_recon_male_reg_v0.entitytemplate].entityblueprint",
     "gameFlags": 1
   }
 ]

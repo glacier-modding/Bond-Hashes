@@ -28764,11 +28764,11 @@
                 "description": ""
             },
             {
-                "pin": "174147732",
+                "pin": "SetDominantHandL",
                 "description": ""
             },
             {
-                "pin": "4033770999",
+                "pin": "SetDominantHandR",
                 "description": ""
             }
         ],

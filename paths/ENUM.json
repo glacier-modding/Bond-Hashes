@@ -456,62 +456,62 @@
   },
   {
     "hash": "01A2106D596863EF",
-    "path": "",
+    "path": "[assembly:/_knt/ui/enums/hudgroup.enumtype].enumtype",
     "gameFlags": 1
   },
   {
     "hash": "01F973058A52CAAF",
-    "path": "",
+    "path": "[assembly:/_knt/ui/enums/subtitlesourceindicator.enumtype].enumtype",
     "gameFlags": 1
   },
   {
     "hash": "01C68B4843982DCA",
-    "path": "",
+    "path": "[assembly:/_knt/ui/enums/gamechangericontype.enumtype].enumtype",
     "gameFlags": 1
   },
   {
     "hash": "01D323946426B921",
-    "path": "",
+    "path": "[assembly:/_knt/ui/enums/notificationtype.enumtype].enumtype",
     "gameFlags": 1
   },
   {
     "hash": "01B5B421491EAEA1",
-    "path": "",
+    "path": "[assembly:/_knt/ui/enums/notificationgroup.enumtype].enumtype",
     "gameFlags": 1
   },
   {
     "hash": "01BC0FDAE0E7F587",
-    "path": "",
+    "path": "[assembly:/_knt/ui/enums/menutype.enumtype].enumtype",
     "gameFlags": 1
   },
   {
     "hash": "013C00CC57B58A54",
-    "path": "",
+    "path": "[assembly:/_knt/common/campaigns.enumtype].enumtype",
     "gameFlags": 1
   },
   {
     "hash": "01CF463D1A6A579B",
-    "path": "",
+    "path": "[assembly:/_knt/ui/enums/texttospeechitemtype.enumtype].enumtype",
     "gameFlags": 1
   },
   {
     "hash": "01805C341A432101",
-    "path": "",
+    "path": "[assembly:/_knt/ui/enums/subtitlepriority.enumtype].enumtype",
     "gameFlags": 1
   },
   {
     "hash": "014F54B356179AA0",
-    "path": "",
+    "path": "[assembly:/_knt/ui/enums/controltreeslots.enumtype].enumtype",
     "gameFlags": 1
   },
   {
     "hash": "019DF14A8A4AAC4F",
-    "path": "",
+    "path": "[assembly:/_knt/ui/enums/subtitlechannel.enumtype].enumtype",
     "gameFlags": 1
   },
   {
     "hash": "0129C2F53E71A684",
-    "path": "",
+    "path": "[assembly:/_knt/ui/enums/subtitletype.enumtype].enumtype",
     "gameFlags": 1
   }
 ]
